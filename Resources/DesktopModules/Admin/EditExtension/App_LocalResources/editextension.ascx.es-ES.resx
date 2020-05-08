@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AdminHeading.Text">
+    <value xml:space="preserve">Configuración de la extensión {0} para este sitio</value>
+  </data>
+  <data name="chkDelete.Text">
+    <value xml:space="preserve">Eliminar archivos</value>
+  </data>
+  <data name="cmdCreate.Text">
+    <value xml:space="preserve">Añadir nueva extensión</value>
+  </data>
+  <data name="cmdCreateContainer.Text">
+    <value xml:space="preserve">Añadir nuevo container</value>
+  </data>
+  <data name="cmdCreateLanguage.Text">
+    <value xml:space="preserve">Añadir nuevo idioma</value>
+  </data>
+  <data name="cmdCreateModule.Text">
+    <value xml:space="preserve">Añadir nuevo módulo</value>
+  </data>
+  <data name="cmdCreateSkin.Text">
+    <value xml:space="preserve">Añadir nuevo tema</value>
+  </data>
+  <data name="cmdDelete.Text">
+    <value xml:space="preserve">Desinstalar extensión</value>
+  </data>
+  <data name="cmdEditor.Text">
+    <value xml:space="preserve">Configuración</value>
+  </data>
+  <data name="cmdExtension.Text">
+    <value xml:space="preserve">Información</value>
+  </data>
+  <data name="cmdLicense.Text">
+    <value xml:space="preserve">Licencia</value>
+  </data>
+  <data name="cmdPackage.Text">
+    <value xml:space="preserve">Crear paquete</value>
+  </data>
+  <data name="cmdReleaseNotes.Text">
+    <value xml:space="preserve">Notas de la versión</value>
+  </data>
+  <data name="cmdSecurity.Text">
+    <value xml:space="preserve">Seguridad</value>
+  </data>
+  <data name="cmdUpdate.Text">
+    <value xml:space="preserve">Actualizar extensión</value>
+  </data>
+  <data name="cmdUpdateLanguage.Text">
+    <value xml:space="preserve">Actualizar idioma</value>
+  </data>
+  <data name="cmdUpdateLicense.Text">
+    <value xml:space="preserve">Actualizar licencia</value>
+  </data>
+  <data name="cmdUpdateModule.Text">
+    <value xml:space="preserve">Actualizar módulo</value>
+  </data>
+  <data name="cmdUpdateReleaseNotes.Text">
+    <value xml:space="preserve">Actualizar notas de la versión</value>
+  </data>
+  <data name="cmdUpdateSkin.Text">
+    <value xml:space="preserve">Actualizar tema</value>
+  </data>
+  <data name="Controls.Help">
+    <value xml:space="preserve">Muestra los controles de la definición</value>
+  </data>
+  <data name="ControlTitle_edit.Text">
+    <value xml:space="preserve">Editar extensión</value>
+  </data>
+  <data name="Core.Text">
+    <value xml:space="preserve">Core</value>
+  </data>
+  <data name="DuplicateName.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Los paquetes tiene que tener un nombre único.</value>
+  </data>
+  <data name="EditHelp.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">En esta sección puede configurar la información del paquete para esta extensión.</value>
+  </data>
+  <data name="EditLanguageHelp.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">En esta sección puede configurar la información del paquete para este idioma.</value>
+  </data>
+  <data name="EditModuleHelp.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">En esta sección puede configurar la información del paquete para módulo.</value>
+  </data>
+  <data name="EditSkinHelp.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">En esta sección puede configurar la información del paquete para este tema.</value>
+  </data>
+  <data name="EditTitle.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Detalles de la extensión</value>
+  </data>
+  <data name="ExtensionSettings.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Configuración de la extensión</value>
+  </data>
+  <data name="HostHeading.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Configuración de la extensión {0}</value>
+  </data>
+  <data name="LanguageMessage.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Clique aquí para obtener el paquete de idioma</value>
+  </data>
+  <data name="Languages.Action" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Editor de idiomas</value>
+  </data>
+  <data name="ManageSkins.Action" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Gestionar temas</value>
+  </data>
+  <data name="Package.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Paquete</value>
+  </data>
+  <data name="PackageSettings.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Configuración del paquete</value>
+  </data>
+  <data name="PackageType.Error" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Tiene que seleccionar el tipo de paquete de idioma.</value>
+  </data>
+  <data name="PackageUpdated.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">La extensión se ha actualizado correctamente.</value>
+  </data>
+  <data name="Permissions.Help" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Marque las casillas para indicar los permisos de este paquete.</value>
+  </data>
+  <data name="Permissions.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Permisos del paquete:</value>
+  </data>
+  <data name="plPackageType.Help" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Seleccione el tipo de paquete de idioma que quiere crear.</value>
+  </data>
+  <data name="plPackageType.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Tipo de paquete de idioma:</value>
+  </data>
+  <data name="TimeZones.Action" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Editor de zona horaria</value>
+  </data>
+  <data name="UpgradeMessage.Text" lastModified="2018-03-24 10:21:52">
+    <value xml:space="preserve">Clique aquí para obtener la actualización</value>
+  </data>
+</root>

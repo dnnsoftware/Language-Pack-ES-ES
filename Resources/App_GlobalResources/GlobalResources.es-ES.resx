@@ -159,7 +159,7 @@
   <data name="//Host//ProfessionalFeatures.String">
     <value xml:space="preserve">Funciones de la versión Profesional</value>
   </data>
-  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" lastModified="2015-09-13 20:37:19">
+  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" lastModified="2015-09-13 12:37:19">
     <value xml:space="preserve">Activar licencia</value>
   </data>
   <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
@@ -331,7 +331,7 @@ Nota: Si est&amp;aacute; instalando la aplicaci&amp;oacute;n en un servidor remo
   <data name="500.Error">
     <value xml:space="preserve">{0} </value>
   </data>
-  <data name="503.Error" lastModified="2016-03-17 01:34:37">
+  <data name="503.Error" lastModified="2016-03-16 21:34:37">
     <value xml:space="preserve">{0} - 503 Servicio no disponible</value>
   </data>
   <data name="ActivatingLicense.Text">
@@ -391,10 +391,10 @@ Nota: Si est&amp;aacute; instalando la aplicaci&amp;oacute;n en un servidor remo
   <data name="CustomUrlPathCleaned.Error">
     <value xml:space="preserve">La URL de la página contenía caracteres inválidos que se han eliminado. Pulse el botón Actualizar de nuevo para aceptar los cambios realizados.&lt;br/&gt;Atención. Puede ver la lista de caracteres inválidos en la siguiente lista: &lt;&gt;\?:&amp;=+|%# </value>
   </data>
-  <data name="DefaultStopwordGroup.Text" lastModified="2017-04-29 05:18:19">
+  <data name="DefaultStopwordGroup.Text" lastModified="2017-04-28 21:18:19">
     <value xml:space="preserve">y,es,pero,para,en,no,el,este,esta,la,ella,ellos,ellas,era,será,con</value>
   </data>
-  <data name="DefaultSynonymGroup.Text" lastModified="2017-04-29 05:18:19">
+  <data name="DefaultSynonymGroup.Text" lastModified="2017-04-28 21:18:19">
     <value xml:space="preserve">dnn,dotnetnuke</value>
   </data>
   <data name="DeleteModule.Action">
@@ -715,13 +715,13 @@ Operación completada:  [Custom:3]
 &lt;/html&gt;
 </value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" lastModified="2015-09-13 18:29:57">
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" lastModified="2018-03-24 09:28:34">
     <value xml:space="preserve">&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
     &lt;tr&gt;
         &lt;td&gt;
             &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
                 &lt;tr&gt;
-                    &lt;td&gt;&lt;a href="PROFILEURL"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/table&gt;
             &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
@@ -733,7 +733,7 @@ Operación completada:  [Custom:3]
     &lt;/tr&gt;
 &lt;/table&gt;&lt;/div&gt;</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-11-29 15:08:40">
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-11-29 11:08:40">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Ha solicitado el envio del enlace para reiniciar la contraseña en [Portal:PortalName].
@@ -754,7 +754,7 @@ Atentamente,
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
     <value xml:space="preserve">[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" lastModified="2015-09-13 16:28:09">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" lastModified="2015-09-13 08:28:09">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Ha solicitado una petición de recordatorio/cambio de contraseña en [Portal:PortalName] pero su cuenta está pendiente de aprobación.
@@ -767,7 +767,7 @@ Atentamente,
 *Si no ha solicitado esta información, elimine este mensaje y no lo tenga en cuenta.
 </value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" lastModified="2015-09-13 16:28:09">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" lastModified="2015-09-13 08:28:09">
     <value xml:space="preserve">[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
@@ -871,7 +871,7 @@ Atentamente,
   <data name="EMAIL_SUBJECT_FORMAT.Text">
     <value xml:space="preserve">Nuevo mensaje de {0}</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-11-29 13:51:26">
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-11-29 09:51:26">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Gracias por registrarse en [Portal:PortalName]. Su registro ha sido aprobado y su cuenta se ha activado.
@@ -882,7 +882,7 @@ Usuario: [User:UserName]
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-11-29 12:43:23">
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-11-29 08:43:23">
     <value xml:space="preserve">El registro para [Portal:URL] ha sido aprobado</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text">
@@ -954,7 +954,7 @@ Atentamente,
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
     <value xml:space="preserve">[Portal:PortalName] - Nuevo registro de usuario</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" lastModified="2017-04-29 03:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" lastModified="2017-04-28 19:16:28">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Su cuenta en [Portal:PortalName] ha sido desautorizada.
@@ -967,7 +967,7 @@ Si tiene alguna consulta, póngase en contacto con el administrador en [Portal:E
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" lastModified="2017-04-29 03:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" lastModified="2017-04-28 19:16:28">
     <value xml:space="preserve">Su cuenta ha sido desautorizada en [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text">
@@ -1052,9 +1052,9 @@ Atentamente,
   <data name="ImportModule.Action">
     <value xml:space="preserve">Importar contenido</value>
   </data>
-  <data name="License.Text" lastModified="2017-02-05 13:42:42">
+  <data name="License.Text" lastModified="2018-03-24 07:27:22">
     <value xml:space="preserve">&lt;p&gt;DotNetNuke&amp;reg; - http://www.dotnetnuke.com&lt;br /&gt;
-Copyright (c) 2002-2017&lt;br/&gt;
+Copyright (c) 2002-2018&lt;br/&gt;
     by DotNetNuke Corporation&lt;/p&gt;
     &lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
 documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
@@ -1083,24 +1083,24 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
   <data name="Manage.Text">
     <value xml:space="preserve">Administrar</value>
   </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text">
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" lastModified="2018-03-24 08:27:39">
     <value xml:space="preserve">&lt;div align="left"&gt;
         &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
-        applies to the [Portal:PortalName] Web site and governs data collection and usage.
-        By using the [Portal:PortalName] website, you consent to the data practices described
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
         in this statement.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;Collection of your Personal Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your e-mail
+        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your email
         address, name, home or work address or telephone number. [Portal:PortalName] also
         collects anonymous demographic information, which is not unique to you, such as
         your ZIP code, age, gender, preferences, interests and favorites.&lt;/p&gt;
         &lt;p&gt;There is also information about your computer hardware and software that is automatically
         collected by [Portal:PortalName]. This information can include: your IP address,
-        browser type, domain names, access times and referring Web site addresses. This
+        browser type, domain names, access times and referring website addresses. This
         information is used by [Portal:PortalName] for the operation of the service, to
         maintain quality of the service, and to provide general statistics regarding use
-        of the [Portal:PortalName] Web site.&lt;/p&gt;
+        of the [Portal:PortalName] site.&lt;/p&gt;
         &lt;p&gt;Please keep in mind that if you directly disclose personally identifiable information
         or personally sensitive data through [Portal:PortalName] public message boards,
         this information may be collected and used by others. Note: [Portal:PortalName]
@@ -1179,7 +1179,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         problem.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text">
+  <data name="MESSAGE_PORTAL_TERMS.Text" lastModified="2018-03-24 10:30:49">
     <value xml:space="preserve">&lt;div align="left"&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
@@ -1417,7 +1417,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="NoLoginControl.Text">
     <value xml:space="preserve">Ha sido redireccionado a esta página de inicio por omisión porque la página de inicio para este sitio web no contiene un módulo DotNetNuke correcto de inicio de sesión, o los permisos no están correctamente configurados.</value>
   </data>
-  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-17 01:34:37">
+  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-16 21:34:37">
     <value xml:space="preserve">No hay ningún sitio en esta instalación.</value>
   </data>
   <data name="OnlineHelp.Action">
@@ -1459,7 +1459,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="SearchCrawler Admin.String">
     <value xml:space="preserve">Configuración de indexación</value>
   </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-17 01:34:37">
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-16 21:34:37">
     <value xml:space="preserve">El sitio ha recibido peticiones de acceso mientras la instación/actualización estaba en proceso.</value>
   </data>
   <data name="SkinLoadError.Text">
@@ -1468,7 +1468,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="SyndicateModule.Action">
     <value xml:space="preserve">Suscripción (RSS)</value>
   </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-17 01:34:37">
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-16 21:34:37">
     <value xml:space="preserve">Hay una instalación en proceso. Vuelva a intentarlo en unos minutos.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text">

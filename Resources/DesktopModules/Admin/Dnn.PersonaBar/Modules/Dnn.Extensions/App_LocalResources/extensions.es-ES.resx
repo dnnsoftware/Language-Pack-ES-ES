@@ -117,10 +117,10 @@
   <data name="AvailableExtensions.Text">
     <value xml:space="preserve">Extensiones disponibles</value>
   </data>
-  <data name="BackToEditExtension.Text" lastModified="2017-02-05 12:46:15">
+  <data name="BackToEditExtension.Text" lastModified="2017-02-05 10:46:15">
     <value xml:space="preserve">Volver a la edición de {0}</value>
   </data>
-  <data name="BackToExtensions.Text" lastModified="2017-02-05 12:46:15">
+  <data name="BackToExtensions.Text" lastModified="2017-02-05 10:46:15">
     <value xml:space="preserve">Volver a Extensiones</value>
   </data>
   <data name="By.Text">
@@ -149,6 +149,9 @@
   </data>
   <data name="CollapseAll.Text">
     <value xml:space="preserve">Cerrar todos</value>
+  </data>
+  <data name="Connector.Type" lastModified="2018-03-24 11:15:51">
+    <value xml:space="preserve">Conectores</value>
   </data>
   <data name="Container.Text">
     <value xml:space="preserve">Container</value>
@@ -642,9 +645,6 @@
   <data name="Errors.Text">
     <value xml:space="preserve">errores</value>
   </data>
-  <data name="EvoqConnector.Type">
-    <value xml:space="preserve">Conectores Evoq</value>
-  </data>
   <data name="ExpandAll.Text">
     <value xml:space="preserve">Abrir todos</value>
   </data>
@@ -827,6 +827,12 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="ListExtensions.Text">
     <value xml:space="preserve">Aprenda más sobre cómo ofrecer sus extensiones &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;aquí&lt;/a&gt;.</value>
   </data>
+  <data name="Loading.Text" lastModified="2018-03-24 12:16:46">
+    <value xml:space="preserve">Un momento, estamos cargando las extensiones...</value>
+  </data>
+  <data name="Loading.Tooltip" lastModified="2018-03-24 12:16:46">
+    <value xml:space="preserve">Las extensiones se cargarán en un momento</value>
+  </data>
   <data name="LoadingLabel.Text">
     <value xml:space="preserve">Cargando</value>
   </data>
@@ -878,10 +884,10 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="ModuleInstall.Action">
     <value xml:space="preserve">Instalar módulo</value>
   </data>
-  <data name="ModuleUsageDetail.Text" lastModified="2017-04-29 05:25:07">
+  <data name="ModuleUsageDetail.Text" lastModified="2017-04-29 01:25:07">
     <value xml:space="preserve">Este módulo se utiliza en {0} páginas del sitio {1}</value>
   </data>
-  <data name="ModuleUsageTitle.Text" lastModified="2017-04-29 03:24:46">
+  <data name="ModuleUsageTitle.Text" lastModified="2017-04-28 23:24:46">
     <value xml:space="preserve">Uso del módulo {0}</value>
   </data>
   <data name="MoreExtensions.Text">
@@ -971,7 +977,7 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="Next.Button">
     <value xml:space="preserve">Siguiente</value>
   </data>
-  <data name="NoModuleUsageDetail.Text" lastModified="2017-04-29 01:23:55">
+  <data name="NoModuleUsageDetail.Text" lastModified="2017-04-28 21:23:55">
     <value xml:space="preserve">Este módulo no se encuentra en ninguna página de {0}.</value>
   </data>
   <data name="NoneLabel.Text">
@@ -986,7 +992,7 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="OrderLabel.Text">
     <value xml:space="preserve">Orden:</value>
   </data>
-  <data name="PagesFromSite.Text" lastModified="2017-04-29 01:23:55">
+  <data name="PagesFromSite.Text" lastModified="2017-04-28 21:23:55">
     <value xml:space="preserve">Mostrando páginas del sitio: </value>
   </data>
   <data name="PersonaBar.Type">
@@ -1102,5 +1108,17 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   </data>
   <data name="ZipCriticalError.Text">
     <value xml:space="preserve">Se ha producido un error al leer el archivo zip.</value>
+  </data>
+  <data name="AppDescription.Text">
+    <value>
+    </value>
+  </data>
+  <data name="AppTitle.Text">
+    <value>
+    </value>
+  </data>
+  <data name="AppType.Text">
+    <value>
+    </value>
   </data>
 </root>

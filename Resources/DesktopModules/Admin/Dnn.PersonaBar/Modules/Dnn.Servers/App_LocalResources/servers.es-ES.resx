@@ -12,7 +12,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <!--DOTWARE TST S.L.-->
   <data name="BackupFinished.Text">
     <value xml:space="preserve">Finalizado</value>
   </data>
@@ -329,8 +328,8 @@
   <data name="plBatch.Text">
     <value xml:space="preserve">Número de mensajes enviados en cada lote:</value>
   </data>
-  <data name="plConnectionLimit.Help">
-    <value xml:space="preserve">Número máximo de conexiones permitidas en este ServidePoint. El valor predeterminado es 1 y el máximo 2147483647.</value>
+  <data name="plConnectionLimit.Help" lastModified="2018-03-24 18:30:24">
+    <value xml:space="preserve">Número máximo de conexiones permitidas en este ServidePoint. El valor predeterminado es 2 y el máximo 2147483647.</value>
   </data>
   <data name="plConnectionLimit.Text">
     <value xml:space="preserve">Límite de conexiones:</value>

@@ -12,6 +12,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AcceptTerms.Required" lastModified="2018-03-25 06:50:41">
+    <value xml:space="preserve">Tiene que aceptar los términos de la licencia y continuar</value>
+  </data>
+  <data name="AcceptTerms.Text" lastModified="2018-03-25 06:50:41">
+    <value xml:space="preserve">Acepto los términos de la &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;licencia&lt;/a&gt;</value>
+  </data>
   <data name="AccountInfo.Text">
     <value xml:space="preserve">Información de cuenta</value>
   </data>
@@ -38,13 +44,13 @@
   <data name="ExtensionsUpgrade.Text">
     <value xml:space="preserve">Actualizando extensiones</value>
   </data>
-  <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 18:19:57">
+  <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 17:19:57">
     <value xml:space="preserve">El programa de mejoras del producto nos permite entender mejor como mejorar DNN para usted. Los datos enviados nos ayudarán a analizar el uso y lo que es más importante para los usuarios del producto. Todos los datos enviados son anónimos y para uso interno. Ver más información sobre el &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras del Producto&lt;/a&gt;.</value>
   </data>
-  <data name="ImprovementProgramLabel.Text" lastModified="2016-11-29 18:19:57">
+  <data name="ImprovementProgramLabel.Text" lastModified="2016-11-29 17:19:57">
     <value xml:space="preserve">Enviar información anónima de uso a DNN</value>
   </data>
-  <data name="ImprovementsProgramTitle.Text" lastModified="2016-11-29 18:19:57">
+  <data name="ImprovementsProgramTitle.Text" lastModified="2016-11-29 17:19:57">
     <value xml:space="preserve">Programa de mejoras del producto</value>
   </data>
   <data name="IntroDetail.Text">
@@ -85,7 +91,7 @@
   <data name="UpgradeDone.Text">
     <value xml:space="preserve">Actualización completada</value>
   </data>
-  <data name="UpgradeStarted.Text" lastModified="2015-12-29 17:59:19">
+  <data name="UpgradeStarted.Text" lastModified="2015-12-29 16:59:19">
     <value xml:space="preserve">Actualización iniciada </value>
   </data>
   <data name="UpgradingDatabase.Text">
@@ -100,10 +106,10 @@
   <data name="Version.Text">
     <value xml:space="preserve">Actualización - Versión {0}</value>
   </data>
-  <data name="VersionsMatch.Text" lastModified="2015-09-14 09:45:10">
+  <data name="VersionsMatch.Text" lastModified="2015-09-14 07:45:10">
     <value xml:space="preserve">La versión de la base de datos y la aplicación coinciden. No hay ningúna actualización pendiente de aplicar.</value>
   </data>
-  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2015-09-14 09:45:10">
+  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2015-09-14 07:45:10">
     <value xml:space="preserve">La versión de la base de datos y la aplicación coinciden. Hay una versión incremental a la que puede actualizar.</value>
   </data>
   <data name="ViewWebsite.Text">

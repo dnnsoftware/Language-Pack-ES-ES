@@ -12,7 +12,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <!--DOTWARE TST S.L.-->
   <data name="ActionCancelled.Message">
     <value xml:space="preserve">Cancelado.</value>
   </data>
@@ -171,6 +170,421 @@
   </data>
   <data name="plRoleGroups.Text">
     <value xml:space="preserve">Grupo de roles</value>
+  </data>
+  <data name="plRSVPCode.Help" lastModified="2018-03-24 00:17:01">
+    <value xml:space="preserve">Introduzca un código RSVP para el rol. Los usuarios podrán suscribirse al rol entrando este código en la página de gestión de servicios de su cuenta.</value>
+  </data>
+  <data name="plRSVPCode.Text" lastModified="2018-03-24 00:17:01">
+    <value xml:space="preserve">Código RSVP</value>
+  </data>
+  <data name="plRSVPLink.Help" lastModified="2018-03-24 00:17:01">
+    <value xml:space="preserve">Se mostrará un enlace que permite a los usuarios suscribirse al rol cuando se guarde el código RSVP.</value>
+  </data>
+  <data name="plRSVPLink.Text" lastModified="2018-03-24 00:17:01">
+    <value xml:space="preserve">Enlace RSVP</value>
+  </data>
+  <data name="Prompt_DeleteRole_Description.Text" lastModified="2018-03-24 00:17:01">
+    <value xml:space="preserve">Elimina definitivamente el rol de DNN. No se pueden eliminar los roles de sistema de Administradores, Usuarios registrados, Suscriptores o Usuarios no verificados. &lt;small&gt;&lt;strong class="text-danger"&gt;Atención: esta acción no se puede deshacer&lt;/strong&gt;&lt;/small&gt;</value>
+  </data>
+  <data name="Prompt_DeleteRole_FlagId.Text" lastModified="2018-03-24 12:59:13">
+    <value xml:space="preserve">El ID del rol que se quiere eliminar. El valor es obligatorio. El nombre de la opción &lt;span class="mono"&gt;--id&lt;/span&gt; es opcional si incluye el ID como primer argumento del comando.</value>
+  </data>
+  <data name="Prompt_DeleteRole_ResultHtml.Text" lastModified="2018-03-24 13:00:10">
+    <value xml:space="preserve">&lt;h4&gt;Elimina definitivamente un rol de seguridad de DNN&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    delete-role 11
+  &lt;/code&gt;
+
+  &lt;h4&gt;Results&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Se ha eliminado el rol 'Public' (11) correctamente&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_FlagEmpty.Text" lastModified="2018-03-24 14:00:45">
+    <value xml:space="preserve">--{0} no puede estar vacío.</value>
+  </data>
+  <data name="Prompt_GetRole_Description.Text" lastModified="2018-03-24 14:00:45">
+    <value xml:space="preserve">Muestra los detalles del rol de seguridad especificado.</value>
+  </data>
+  <data name="Prompt_GetRole_FlagId.Text" lastModified="2018-03-24 15:01:30">
+    <value xml:space="preserve">El ID del rol de seguridad. El valor es obligatorio. El nombre de la opción &lt;span class="mono"&gt;--id&lt;/span&gt; es opcional si incluye el ID como primer argumento del comando.</value>
+  </data>
+  <data name="Prompt_GetRole_ResultHtml.Text" lastModified="2018-03-24 15:01:30">
+    <value xml:space="preserve">&lt;h4&gt;Obtiene un rol de seguridad de DNN&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    get-role 11
+  &lt;/code&gt;
+
+  &lt;h4&gt;Resultado&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role for all users&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedBy&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ModifiedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2017-01-02T08:07:39.233&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ModifiedBy&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;1 role found&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_InvalidRoleStatus.Text" lastModified="2018-03-24 16:02:54">
+    <value xml:space="preserve">El valor indicado para --{0} es inválido. Se esperaba 'pending', 'approved', o 'disabled'</value>
+  </data>
+  <data name="Prompt_ListRoles_Description.Text" lastModified="2018-03-24 16:02:54">
+    <value xml:space="preserve">Muestra la lista de roles de seguridad del sitio.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-03-24 16:02:54">
+    <value xml:space="preserve">Tamaño de página. El valor máximo es 500.</value>
+  </data>
+  <data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-03-24 16:02:54">
+    <value xml:space="preserve">Número de página a mostrar.</value>
+  </data>
+  <data name="Prompt_ListRoles_ResultHtml.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">&lt;div&gt;
+        &lt;h4&gt;Obtiene la lista de roles del sitio&lt;/h4&gt;
+        &lt;code class="block"&gt;
+            list-roles
+        &lt;/code&gt;
+        &lt;h4&gt;Resultado&lt;/h4&gt;
+        &lt;table class="command-result-tbl"&gt;
+            &lt;thead&gt;
+                &lt;tr&gt;
+                    &lt;th&gt;RoleId&lt;/th&gt;
+                    &lt;th&gt;RoleGroupId&lt;/th&gt;
+                    &lt;th&gt;RoleName&lt;/th&gt;
+                    &lt;th&gt;Description&lt;/th&gt;
+                    &lt;th&gt;IsPublic&lt;/th&gt;
+                    &lt;th&gt;AutoAssign&lt;/th&gt;
+                    &lt;th&gt;UserCount&lt;/th&gt;
+                    &lt;th&gt;CreatedDate&lt;/th&gt;
+                &lt;/tr&gt;
+            &lt;/thead&gt;
+            &lt;tbody&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Administrators&lt;/td&gt;
+                    &lt;td&gt;Administrators of this Website&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;1&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.35&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;My New Role&lt;/td&gt;
+                    &lt;td&gt;A test role&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-15T07:28:16.49&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;1&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Registered Users&lt;/td&gt;
+                    &lt;td&gt;Registered Users&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.357&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;2&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Subscribers&lt;/td&gt;
+                    &lt;td&gt;A public role for site subscriptions&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;true&lt;/td&gt;
+                    &lt;td&gt;5&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.39&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;3&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Translator (en-US)&lt;/td&gt;
+                    &lt;td&gt;A role for English (United States) translators&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.39&lt;/td&gt;
+                &lt;/tr&gt;
+                &lt;tr&gt;
+                    &lt;td&gt;4&lt;/td&gt;
+                    &lt;td&gt;-1&lt;/td&gt;
+                    &lt;td&gt;Unverified Users&lt;/td&gt;
+                    &lt;td&gt;Unverified Users&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;false&lt;/td&gt;
+                    &lt;td&gt;0&lt;/td&gt;
+                    &lt;td&gt;2016-12-01T06:03:11.393&lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/tbody&gt;
+        &lt;/table&gt;
+    &lt;/div&gt;</value>
+  </data>
+  <data name="Prompt_ListRolesFailed.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">Se ha producido un error al obtener la lista de roles.</value>
+  </data>
+  <data name="Prompt_NewRole_Description.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">Crea un nuevo rol de seguridad en el sitio.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagAutoAssign.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">Cuando tiene el valor 'true', el rol se asignará automáticamente a todos los usuarios del sitio, incluyendo los usuarios existentes.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagDescription.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">Descripción del rol.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagIsPublic.Text" lastModified="2018-03-24 17:05:26">
+    <value xml:space="preserve">Cuando tiene el valor 'true', los usuarios podrán ver el rol y asignarse a si mismos al rol.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagRoleName.Text" lastModified="2018-03-24 18:06:41">
+    <value xml:space="preserve">El nombre del rol de seguridad. El valor es obligatorio. El nombre de la opción &lt;span class="mono"&gt;--name&lt;/span&gt; es opcional si incluye el nombre como primer argumento del comando.</value>
+  </data>
+  <data name="Prompt_NewRole_FlagStatus.Text" lastModified="2018-03-24 18:06:41">
+    <value xml:space="preserve">Estado del rol. Tiene que ser uno de estos valores: "approved", "pending" o "disabled".</value>
+  </data>
+  <data name="Prompt_NewRole_ResultHtml.Text" lastModified="2018-03-24 19:07:51">
+    <value xml:space="preserve">&lt;h4&gt;Crear un nuevo rol de seguridad (sintaxis mínima)&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    new-role Role1
+  &lt;/code&gt;
+  &lt;h4&gt;Resultado&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;false&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;false&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;0&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;El rol se ha añadido correctamente.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+
+
+  &lt;h4&gt;Crear un nuevo rol de seguridad&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    new-role "General Public" --description "Role for all users" --public true --autoassign true
+  &lt;/code&gt;
+  &lt;h4&gt;Resultado&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;General Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role for all users&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T15:06:02.563&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;El rol se ha añadido correctamente.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_NoRoles.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">No se ha encontrado ningún rol.</value>
+  </data>
+  <data name="Prompt_NoRoleWithId.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">No se ha encontrado el rol con el ID  {0}.</value>
+  </data>
+  <data name="Prompt_NothingToUpdate.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">No hay nada para actualizar.</value>
+  </data>
+  <data name="Prompt_RoleIdIsRequired.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">Tiene que indicar el ID del rol como primer argumento o utilizar la opción --id.</value>
+  </data>
+  <data name="Prompt_RoleIdNegative.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">El ID del rol tiene que ser mayor que cero (0)</value>
+  </data>
+  <data name="Prompt_RoleIdNotInt.Text" lastModified="2018-03-24 20:09:12">
+    <value xml:space="preserve">El ID del rol tiene que ser un número entero.</value>
+  </data>
+  <data name="Prompt_RoleNameRequired.Text" lastModified="2018-03-24 21:10:05">
+    <value xml:space="preserve">Tiene que indicar el nombre del rol como primer argumento o utilizar la opción --{0}. Los nombres con espacios tienen que incluirse entre comillas dobles.</value>
+  </data>
+  <data name="Prompt_RolesCategory.Text" lastModified="2018-03-24 21:10:05">
+    <value xml:space="preserve">Comandos de roles</value>
+  </data>
+  <data name="Prompt_SetRole_Description.Text" lastModified="2018-03-24 22:11:02">
+    <value xml:space="preserve">Establece o actualiza propiedades de un rol de seguridad. Solo se actualizarán las propiedades que indique en el comando.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagAutoAssign.Text" lastModified="2018-03-24 23:11:18">
+    <value xml:space="preserve">Cuando tiene el valor 'true', el rol se asignará automáticamente a todos los usuarios del sitio, incluyendo los usuarios existentes.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagDescription.Text" lastModified="2018-03-25 01:12:25">
+    <value xml:space="preserve">Descripción del rol.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagId.Text" lastModified="2018-03-25 05:13:07">
+    <value xml:space="preserve">El ID del rol de seguridad. El valor es obligatorio. El nombre de la opción &lt;span class="mono"&gt;--id&lt;/span&gt; es opcional si incluye el ID como primer argumento del comando.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagIsPublic.Text" lastModified="2018-03-25 09:14:01">
+    <value xml:space="preserve">Cuando tiene el valor 'true', los usuarios podrán ver el rol y asignarse a si mismos al rol.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagRoleName.Text" lastModified="2018-03-25 05:13:07">
+    <value xml:space="preserve">Nombre del rol de seguridad.</value>
+  </data>
+  <data name="Prompt_SetRole_FlagStatus.Text" lastModified="2018-03-25 03:12:45">
+    <value xml:space="preserve">Estado del rol. Tiene que ser uno de estos valores: "approved", "pending" o "disabled".</value>
+  </data>
+  <data name="Prompt_SetRole_ResultHtml.Text" lastModified="2018-03-25 00:12:16">
+    <value xml:space="preserve">&lt;h4&gt;Actualizar un rol de seguridad de DNN&lt;/h4&gt;
+  &lt;code class="block"&gt;
+    set-role 10 --name Public
+  &lt;/code&gt;
+
+  &lt;h4&gt;Resultado&lt;/h4&gt;
+  &lt;table class="command-result-tbl"&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;10&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleGroupId&lt;/td&gt;&lt;td&gt;:&lt;/td&gt;&lt;td&gt;-1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;RoleName&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Public&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Description&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;Role for all users&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IsPublic&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;AutoAssign&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;true&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;UserCount&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;CreatedDate&lt;/td&gt;
+      &lt;td&gt;:&lt;/td&gt;
+      &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td colspan="3"&gt;El rol se ha actualizado correctamente.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;</value>
+  </data>
+  <data name="Prompt_UnableToParseBool.Text" lastModified="2018-03-25 07:13:53">
+    <value xml:space="preserve">No se ha podido procesar el valor '{1}' de la opción --{0}. El valor tiene que ser 'true' o 'false'.</value>
   </data>
   <data name="Public.Text">
     <value xml:space="preserve">Público</value>
