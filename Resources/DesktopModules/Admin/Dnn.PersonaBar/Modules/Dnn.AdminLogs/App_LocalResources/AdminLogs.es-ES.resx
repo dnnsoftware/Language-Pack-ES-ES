@@ -27,7 +27,7 @@
   <data name="AdminOpCode.Text">
     <value xml:space="preserve">Operación general del administrador</value>
   </data>
-  <data name="AllTypes.Text" lastModified="2017-02-05 15:45:01">
+  <data name="AllTypes.Text" lastModified="2017-02-05 14:45:01">
     <value xml:space="preserve">Todos los tipos</value>
   </data>
   <data name="btnCancel.Text">
@@ -201,8 +201,8 @@
   <data name="Occurences.Text">
     <value xml:space="preserve"> repeticiones</value>
   </data>
-  <data name="plEmailAddress.Help">
-    <value xml:space="preserve">Introduzca el email de la persona que quiere que reciba el registro de eventos.</value>
+  <data name="plEmailAddress.Help" lastModified="2018-03-24 12:15:17">
+    <value xml:space="preserve">Introduzca el email de la persona que quiere que reciba el registro de eventos. Puede introducir múltiples emails separados por coma (,) or punt y coma (;).</value>
   </data>
   <data name="plEmailAddress.Text">
     <value xml:space="preserve">Dirección de email </value>

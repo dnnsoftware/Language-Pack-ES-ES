@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AccessDenied.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Se ha denegado el acceso.</value>
+  </data>
+  <data name="AccountNotFound.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">La cuenta especificada no se ha encontrado.</value>
+  </data>
+  <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Se ha producido un error de autenticación.</value>
+  </data>
+  <data name="CredentialsRequired.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Indique sus credenciales antes de actualizar la lista de containers.</value>
+  </data>
+  <data name="ListContainers.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Se ha producido un error al obtener la lista de containers.</value>
+  </data>
+  <data name="MultipleFolderMappingsWithSameSettings.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Ya hay otra asignación de carpetas utilizando la misma cuenta y container. Seleccione otra cuenta o container.</value>
+  </data>
+  <data name="NewContainer.ErrorMessage" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Se ha producido un error al crear el nuevo container.</value>
+  </data>
+  <data name="NewContainer.Text" lastModified="2018-03-24 09:16:10">
+    <value xml:space="preserve">Nuevo container</value>
+  </data>
+  <data name="plAccountKey.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Introduzca la clave de la cuenta. Puede utilizar tanto la clave principal como la secundaria para la clave de la cuenta.</value>
+  </data>
+  <data name="plAccountKey.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Clave de cuenta</value>
+  </data>
+  <data name="plAccountName.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Introduzca el nombre de la cuenta.</value>
+  </data>
+  <data name="plAccountName.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Nombre de cuenta</value>
+  </data>
+  <data name="plContainerName.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Seleccione el nombre del container.</value>
+  </data>
+  <data name="plContainerName.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Nombre del container</value>
+  </data>
+  <data name="plCustomDomain.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Introduzca el mismo dominio especificado previamente en la cuenta de almacenamiento de Azure</value>
+  </data>
+  <data name="plCustomDomain.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Dominio personalizado</value>
+  </data>
+  <data name="plDirectLink.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Si marca esta opción, la ruta de los archivos de esta carpeta apuntará a la ruta real. Si no está marcada, se utilizará la ruta con LinkClick.</value>
+  </data>
+  <data name="plDirectLink.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Utilizar enlace directo</value>
+  </data>
+  <data name="plUseHttps.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Seleccione esta opción si quiere utilizar endpoints HTTPS.</value>
+  </data>
+  <data name="plUseHttps.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Utilizar enpoints HTTPS</value>
+  </data>
+  <data name="RefreshContainerList.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">&lt;Actualizar&gt;</value>
+  </data>
+  <data name="SelectContainer.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">&lt;Seleccionar un container&gt;</value>
+  </data>
+  <data name="SelectExistingContainer.Text" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Seleccionar un container existente</value>
+  </data>
+  <data name="tbCustomDomain.Error" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">El dominio personalizado tiene que ser un nombre DNS válido</value>
+  </data>
+  <data name="tbCustomDomain.Help" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">Introduzca el mismo dominio especificado previamente en la cuenta de almacenamiento de Azure</value>
+  </data>
+  <data name="valAccountKey.ErrorMessage" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">La clave de la cuenta es obligatoria</value>
+  </data>
+  <data name="valAccountName.ErrorMessage" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">El nombre de la cuenta es obligatorio</value>
+  </data>
+  <data name="valContainerName.ErrorMessage" lastModified="2018-03-24 10:21:46">
+    <value xml:space="preserve">El nombre del container es obligatorio</value>
+  </data>
+</root>

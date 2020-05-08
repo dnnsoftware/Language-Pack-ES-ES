@@ -12,6 +12,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="AcceptTerms.Required" lastModified="2018-03-25 06:50:26">
+    <value xml:space="preserve">Tiene que aceptar los términos de la licencia y continuar</value>
+  </data>
+  <data name="AcceptTerms.Text" lastModified="2018-03-25 04:50:00">
+    <value xml:space="preserve">Acepto los términos de la &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;licencia&lt;/a&gt;</value>
+  </data>
   <data name="AccountInfo.Text">
     <value xml:space="preserve">Información de cuenta de acceso</value>
   </data>
@@ -213,13 +219,13 @@ Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). 
   <data name="IISVerificationFail.Text">
     <value xml:space="preserve">El grupo de aplicaciones de IIS tiene que ejecutarse en Modo Integrado</value>
   </data>
-  <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 18:18:45">
+  <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 16:18:45">
     <value xml:space="preserve">El programa de mejoras del producto nos permite entender mejor como mejorar DNN para usted. Los datos enviados nos ayudarán a analizar el uso y lo que es más importante para los usuarios del producto. Todos los datos enviados son anónimos y para uso interno. Ver más información sobre el &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras del Producto&lt;/a&gt;.</value>
   </data>
-  <data name="ImprovementProgramLabel.Text" lastModified="2016-11-29 18:18:45">
+  <data name="ImprovementProgramLabel.Text" lastModified="2016-11-29 16:18:45">
     <value xml:space="preserve">Enviar información anónima de uso a DNN</value>
   </data>
-  <data name="ImprovementsProgramTitle.Text" lastModified="2016-11-29 18:18:45">
+  <data name="ImprovementsProgramTitle.Text" lastModified="2016-11-29 16:18:45">
     <value xml:space="preserve">Programa de mejoras del producto</value>
   </data>
   <data name="InitHostSetting.Text">

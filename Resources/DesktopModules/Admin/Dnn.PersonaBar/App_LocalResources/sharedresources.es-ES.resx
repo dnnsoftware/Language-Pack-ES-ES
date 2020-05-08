@@ -15,7 +15,7 @@
   <data name="All.Text">
     <value xml:space="preserve">Todo</value>
   </data>
-  <data name="AllSites.Text" lastModified="2017-02-05 15:44:43">
+  <data name="AllSites.Text" lastModified="2017-02-05 13:44:43">
     <value xml:space="preserve">Todos los sitios</value>
   </data>
   <data name="Anonymous.Text">
@@ -99,6 +99,18 @@
   <data name="Never.Text">
     <value xml:space="preserve">Nunca</value>
   </data>
+  <data name="Promp_MainFlagIsRequired.Text" lastModified="2018-03-24 11:13:29">
+    <value xml:space="preserve">'[0]' es obligatorio. Utilice la opción --[1] o incluya el valor como primer argumento después del nombre del comando.\n</value>
+  </data>
+  <data name="Promp_PositiveValueRequired.Text" lastModified="2018-03-24 11:13:29">
+    <value xml:space="preserve">'[0]' tiene que ser mayor que 0.\n</value>
+  </data>
+  <data name="Prompt_FlagIsRequired.Text" lastModified="2018-03-24 11:13:29">
+    <value xml:space="preserve">'[0]' es obligatorio.\n</value>
+  </data>
+  <data name="Prompt_InvalidType.Text" lastModified="2018-03-24 11:13:29">
+    <value xml:space="preserve">El valor proporcionado para '[0]' no es válido '[1]'.\n</value>
+  </data>
   <data name="RegisterationFailed.Text">
     <value xml:space="preserve">{0}</value>
   </data>
@@ -119,6 +131,12 @@
   </data>
   <data name="SecondsAgo.Text">
     <value xml:space="preserve">hace {0} segundos</value>
+  </data>
+  <data name="SwitchOff.Text" lastModified="2020-05-08 16:21:27">
+    <value xml:space="preserve">Off</value>
+  </data>
+  <data name="SwitchOn.Text" lastModified="2020-05-08 16:21:27">
+    <value xml:space="preserve">On</value>
   </data>
   <data name="UnauthorizedRequest.Text">
     <value xml:space="preserve">Se ha denegado la autorización para esta petición.</value>

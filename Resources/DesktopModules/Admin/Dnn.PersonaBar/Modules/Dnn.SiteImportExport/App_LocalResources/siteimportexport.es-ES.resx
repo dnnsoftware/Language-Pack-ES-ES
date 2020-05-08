@@ -228,139 +228,145 @@
   <data name="LastUpdate.Text">
     <value xml:space="preserve">Última actualización</value>
   </data>
-  <data name="lblLanguages.Help" lastModified="2017-04-29 05:14:07">
+  <data name="lblLanguages.Help" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Seleccione los idiomas adicionales que quiera incluir en la plantilla multi idioma, o seleccione un solo idioma para una plantilla con un único idioma.</value>
   </data>
-  <data name="lblLanguages.Text" lastModified="2017-04-29 05:14:07">
+  <data name="lblLanguages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Exportar idiomas</value>
   </data>
-  <data name="lblNote.Text" lastModified="2017-04-29 05:14:07">
+  <data name="lblNote.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">El idioma predeterminado ({0}) se incluirá siempre.</value>
   </data>
-  <data name="lblSelectLanguages.Text" lastModified="2017-04-29 05:14:07">
+  <data name="lblSelectLanguages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">-- Seleccionar idiomas --</value>
   </data>
-  <data name="LegendExport.Text" lastModified="2017-04-29 05:14:07">
+  <data name="LegendExport.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Exportación del sitio</value>
   </data>
-  <data name="LegendImport.Text" lastModified="2017-04-29 05:14:07">
+  <data name="LegendImport.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Importación del sitio</value>
   </data>
-  <data name="LogSection.Text" lastModified="2017-04-29 05:14:07">
+  <data name="LogSection.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Resultado de importación/exportación</value>
   </data>
-  <data name="Mode.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Mode.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Modo</value>
   </data>
-  <data name="Name.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Name.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Nombre</value>
   </data>
-  <data name="nav_SiteImportExport.Text" lastModified="2017-04-29 05:14:07">
+  <data name="nav_SiteImportExport.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Importar / Exportar</value>
   </data>
-  <data name="No.Text" lastModified="2017-04-29 05:14:07">
+  <data name="No.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">No</value>
   </data>
-  <data name="NoExportItem.ErrorMessage" lastModified="2017-04-29 05:14:07">
+  <data name="NoExportItem.ErrorMessage" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Se ha producido un error al enviar la petición. Inténtelo de nuevo.</value>
   </data>
-  <data name="NoJobs.Text" lastModified="2017-04-29 05:14:07">
+  <data name="NoJobs.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">No se ha encontrado ningún proceso</value>
   </data>
-  <data name="NoPackages.Text" lastModified="2017-04-29 05:14:07">
+  <data name="NoPackages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">No se ha encontrado ningún paquete de importación</value>
   </data>
-  <data name="OverwriteCollisions.Text" lastModified="2017-04-29 05:14:07">
+  <data name="OverwriteCollisions.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sobreescribir colisiones</value>
   </data>
-  <data name="PackageDescription.Text" lastModified="2017-04-29 05:14:07">
+  <data name="PackageDescription.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Descripción del paquete</value>
   </data>
-  <data name="Pages.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Pages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Páginas</value>
   </data>
-  <data name="PagesInExport.Text" lastModified="2017-04-29 05:14:07">
+  <data name="PagesInExport.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Páginas exportadas</value>
   </data>
-  <data name="PageTemplates.Text" lastModified="2017-04-29 05:14:07">
+  <data name="PageTemplates.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Plantillas de página</value>
   </data>
-  <data name="Permissions.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Permissions.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Permisos</value>
   </data>
-  <data name="ProfileProperties.Text" lastModified="2017-04-29 05:14:07">
+  <data name="ProfileProperties.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Propiedades del perfil</value>
   </data>
-  <data name="Roles.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Roles.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Roles y grupos</value>
   </data>
-  <data name="RunNow.Text" lastModified="2017-04-29 05:14:07">
+  <data name="RunNow.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Ejecutar ahora</value>
   </data>
-  <data name="SearchPlaceHolder.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SearchPlaceHolder.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Buscar</value>
   </data>
-  <data name="SelectException.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SelectException.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Seleccione un paquete de importación y vuelva a intentarlo.</value>
   </data>
-  <data name="SelectImportPackage.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SelectImportPackage.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Seleccione el paquete a importar</value>
   </data>
-  <data name="ShowFilterLabel.Text" lastModified="2017-04-29 05:14:07">
+  <data name="ShowFilterLabel.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Filtro:</value>
   </data>
-  <data name="ShowSiteLabel.Text" lastModified="2017-04-29 05:14:07">
+  <data name="ShowSiteLabel.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sitio:</value>
   </data>
-  <data name="ShowSortLabel.Text" lastModified="2017-04-29 05:14:07">
+  <data name="ShowSortLabel.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Orden:</value>
   </data>
-  <data name="Site.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Site.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sitio</value>
   </data>
-  <data name="SiteImportExport.Header" lastModified="2017-04-29 05:14:07">
+  <data name="SiteImportExport.Header" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Importar / Exportar</value>
   </data>
-  <data name="SortByDateNewest.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SortByDateNewest.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Fecha (más nuevo)</value>
   </data>
-  <data name="SortByDateOldest.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SortByDateOldest.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Fecha (más antiguo)</value>
   </data>
-  <data name="SortByName.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SortByName.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Nombre</value>
   </data>
-  <data name="SummaryNoteDescription.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SummaryNoteDescription.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Los archivos de exportación se han archivo de forma segura en la carpeta de la web: App_Data/ExportImport.</value>
   </data>
-  <data name="SummaryNoteTitle.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SummaryNoteTitle.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">*Atención: </value>
   </data>
-  <data name="Timestamp.Text" lastModified="2017-04-29 05:14:07">
+  <data name="SwitchOff.Text" lastModified="2018-03-24 18:31:03">
+    <value xml:space="preserve">Off</value>
+  </data>
+  <data name="SwitchOn.Text" lastModified="2018-03-24 18:31:03">
+    <value xml:space="preserve">On</value>
+  </data>
+  <data name="Timestamp.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Fecha</value>
   </data>
-  <data name="TotalExportSize.Text" lastModified="2017-04-29 05:14:07">
+  <data name="TotalExportSize.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Tamaño total de la exportación</value>
   </data>
-  <data name="Users.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Users.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Usuarios</value>
   </data>
-  <data name="UsersStep1.Text" lastModified="2017-04-29 05:14:07">
+  <data name="UsersStep1.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Usuarios (paso 1 / 2)</value>
   </data>
-  <data name="UsersStep2.Text" lastModified="2017-04-29 05:14:07">
+  <data name="UsersStep2.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Usuarios (paso 2 / 2)</value>
   </data>
-  <data name="VerifyPackage.Text" lastModified="2017-04-29 05:14:07">
+  <data name="VerifyPackage.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Espere un momento, procesando el paquete...</value>
   </data>
-  <data name="Vocabularies.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Vocabularies.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Vocabularios</value>
   </data>
-  <data name="Website.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Website.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sitio web</value>
   </data>
-  <data name="Yes.Text" lastModified="2017-04-29 05:14:07">
+  <data name="Yes.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sí</value>
   </data>
 </root>
