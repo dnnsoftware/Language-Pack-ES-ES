@@ -328,7 +328,7 @@
   <data name="plBatch.Text">
     <value xml:space="preserve">Número de mensajes enviados en cada lote:</value>
   </data>
-  <data name="plConnectionLimit.Help" lastModified="2018-03-24 18:30:24">
+  <data name="plConnectionLimit.Help" lastModified="2018-03-24 17:30:24">
     <value xml:space="preserve">Número máximo de conexiones permitidas en este ServidePoint. El valor predeterminado es 2 y el máximo 2147483647.</value>
   </data>
   <data name="plConnectionLimit.Text">
@@ -348,6 +348,12 @@
   </data>
   <data name="plGUID.Text">
     <value xml:space="preserve">GUID sistema:</value>
+  </data>
+  <data name="plHostEmail.Help" lastModified="2020-05-09 09:28:42">
+    <value xml:space="preserve">El email de sistema se utiliza para verificar el servidor de correo. También es posible que algunas extensiones lo utilizen para contactar con el responsable de la instalación.</value>
+  </data>
+  <data name="plHostEmail.Text" lastModified="2020-05-09 09:28:42">
+    <value xml:space="preserve">Email de sistema</value>
   </data>
   <data name="plMaxIdleTime.Help">
     <value xml:space="preserve">El tiempo, en milisegundos, que una una conexión asociada con el ServidePoint puede mantenerse inactiva antes de que se cierre para reutilizarla en otra conexión. El valor predeterminado es 0 y el máximo 2147483647.</value>

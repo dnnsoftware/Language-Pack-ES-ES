@@ -12,7 +12,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AccountData.Text" lastModified="2017-04-27 11:31:48">
+  <data name="AccountData.Text" lastModified="2017-04-26 23:31:48">
     <value xml:space="preserve">Datos de la cuenta</value>
   </data>
   <data name="AccountSettings.Text">
@@ -26,6 +26,15 @@
   </data>
   <data name="All.Text">
     <value xml:space="preserve">Todos</value>
+  </data>
+  <data name="Answer.Help" lastModified="2020-05-09 00:02:58">
+    <value xml:space="preserve">Introduzca la respuesta para la pregunta de la contraseña.</value>
+  </data>
+  <data name="Answer.Required" lastModified="2020-05-09 00:02:58">
+    <value xml:space="preserve">Tiene que introducir la respuesta.</value>
+  </data>
+  <data name="Answer.Text" lastModified="2020-05-09 00:02:58">
+    <value xml:space="preserve">Respuesta de contraseña:</value>
   </data>
   <data name="Approved.Help">
     <value xml:space="preserve">Indica si el usuario está autorizado en el sitio.</value>
@@ -81,7 +90,7 @@
   <data name="cmdUnLock.Text">
     <value xml:space="preserve">Desbloquear cuenta</value>
   </data>
-  <data name="cmUnlockUser.Text" lastModified="2017-02-04 16:53:54">
+  <data name="cmUnlockUser.Text" lastModified="2017-02-04 10:53:54">
     <value xml:space="preserve">Desbloquear usuario</value>
   </data>
   <data name="Confirm.Help">
@@ -95,6 +104,9 @@
   </data>
   <data name="ConfirmMismatch.ErrorMessage">
     <value xml:space="preserve">La contraseña y la confirmación tienen que coincidir.</value>
+  </data>
+  <data name="CouldNotRemoveAll.Text" lastModified="2020-05-09 02:03:18">
+    <value xml:space="preserve">No se han podido eliminar todos los usuarios.</value>
   </data>
   <data name="Created.Header">
     <value xml:space="preserve">Creado</value>
@@ -156,7 +168,7 @@
   <data name="Expires.Header">
     <value xml:space="preserve">Caduca</value>
   </data>
-  <data name="False.Text" lastModified="2017-04-27 11:31:48">
+  <data name="False.Text" lastModified="2017-04-26 23:31:48">
     <value xml:space="preserve">No</value>
   </data>
   <data name="FirstName.Help">
@@ -173,6 +185,21 @@
   </data>
   <data name="ForceChangePassword.Text">
     <value xml:space="preserve">Forzar cambio de contraseña</value>
+  </data>
+  <data name="HasAgreedToTerms.Help" lastModified="2020-05-09 04:05:25">
+    <value xml:space="preserve">El usuario ha acceptado las condiciones de uso y privacidad del sitio mediante la funciones de consentimiento de datos.</value>
+  </data>
+  <data name="HasAgreedToTerms.Text" lastModified="2020-05-09 04:05:25">
+    <value xml:space="preserve">Condiciones de uso acceptadas</value>
+  </data>
+  <data name="HasAgreedToTerms.title" lastModified="2020-05-09 04:05:25">
+    <value xml:space="preserve">El usuario ha acceptado las condiciones de uso</value>
+  </data>
+  <data name="HasNotAgreedToTerms.Text" lastModified="2020-05-09 04:05:25">
+    <value xml:space="preserve">Condiciones de uso no acceptadas</value>
+  </data>
+  <data name="HasNotAgreedToTerms.title" lastModified="2020-05-09 04:05:25">
+    <value xml:space="preserve">El usuario no ha acceptado las condiciones de uso</value>
   </data>
   <data name="InSufficientPermissions.Text">
     <value xml:space="preserve">No tiene los permisos necesarios para realizar esta acción.</value>
@@ -200,6 +227,12 @@
   </data>
   <data name="LastActivityDate.Text">
     <value xml:space="preserve">Fecha de la última actividad:</value>
+  </data>
+  <data name="LastConsented.Help" lastModified="2020-05-09 06:06:59">
+    <value xml:space="preserve">Última fecha en la cual el usuario consitió las condiciones de uso del sitio. Si las condiciones de uso han cambiado desde entonces, este usuario puede ser indentificado como si no hubiera consentido.</value>
+  </data>
+  <data name="LastConsented.Text" lastModified="2020-05-09 06:06:59">
+    <value xml:space="preserve">Último consentimiento</value>
   </data>
   <data name="LastLockoutDate.Help">
     <value xml:space="preserve">Fecha en la que este usuario fue bloqueado por última vez, después de demasiados inicios de sesión fallidos.</value>
@@ -315,22 +348,25 @@
   <data name="PromoteToSuperUser.Text">
     <value xml:space="preserve">Convertir en superusuario</value>
   </data>
-  <data name="Prompt_AddRoles_Description.Text" lastModified="2018-03-24 07:34:32">
+  <data name="Prompt_AddRoles_Description.Text" lastModified="2018-03-24 01:34:32">
     <value xml:space="preserve">Añadir uno o más roles a un usuario.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagEnd.Text" lastModified="2018-03-24 07:34:32">
+  <data name="Prompt_AddRoles_FlagEnd.Text" lastModified="2018-03-24 01:34:32">
     <value xml:space="preserve">Fecha de finalización del rol.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagId.Text" lastModified="2018-03-24 07:34:32">
+  <data name="Prompt_AddRoles_FlagId.Text" lastModified="2018-03-24 01:34:32">
     <value xml:space="preserve">ID del usuario a quién se quieren añadir los roles. Si se incluye un número como primer argumento, no tiene que usar la opción &lt;span class="mono"&gt;--id&lt;/span&gt; explícitamente.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagRoles.Text" lastModified="2018-03-24 07:34:32">
+  <data name="Prompt_AddRoles_FlagRoles.Text" lastModified="2018-03-24 01:34:32">
     <value xml:space="preserve">Lista de roles separados por comas para aplicar al usuario.</value>
   </data>
-  <data name="Prompt_AddRoles_FlagStart.Text" lastModified="2018-03-24 07:34:32">
+  <data name="Prompt_AddRoles_FlagStart.Text" lastModified="2018-03-24 01:34:32">
     <value xml:space="preserve">Fecha efectiva del rol.</value>
   </data>
-  <data name="Prompt_AddRoles_ResultHtml.Text" lastModified="2018-03-24 08:35:59">
+  <data name="Prompt_AddRoles_NotFound.Text" lastModified="2020-05-09 08:07:53">
+    <value xml:space="preserve">No se encuentra el rol {0} '{1}'. El parámetro --roles solo acepta roles existentes.</value>
+  </data>
+  <data name="Prompt_AddRoles_ResultHtml.Text" lastModified="2018-03-24 02:35:59">
     <value xml:space="preserve">&lt;h4&gt;Añadir un rol al usuario&lt;/h4&gt;
     &lt;code class="block"&gt;add-roles --id 23 --roles Editor&lt;/code&gt; OR
     &lt;code class="block"&gt;add-roles 23 --roles Editor&lt;/code&gt; OR
@@ -341,22 +377,22 @@
     &lt;h4&gt;Añadir múltiples roles a un usuario&lt;/h4&gt;
     &lt;code class="block"&gt;add-roles --id 23 --roles "Editor, Writer, Article Reviewer"&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_CannotPurgeUser.Text" lastModified="2018-03-24 09:36:42">
+  <data name="Prompt_CannotPurgeUser.Text" lastModified="2018-03-24 03:36:42">
     <value xml:space="preserve">No puede eliminar definitivamente  un usuario que no está eliminado. Intente primero con delete-user.</value>
   </data>
-  <data name="Prompt_DateParseError.Text" lastModified="2018-03-24 10:37:30">
+  <data name="Prompt_DateParseError.Text" lastModified="2018-03-24 04:37:30">
     <value xml:space="preserve">No se ha podido procesar la fecha {0} '{1}'. Utilice el formato YYYY-MM-DD.</value>
   </data>
-  <data name="Prompt_DeleteUser_Description.Text" lastModified="2018-03-24 11:40:41">
+  <data name="Prompt_DeleteUser_Description.Text" lastModified="2018-03-24 05:40:41">
     <value xml:space="preserve">Elimina el usuario especificado del portal. Después de eliminarlo, el usuario todavía puede recuperarse. Para eliminarlo definitivamente, ejecute el comando &lt;code&gt;purge-user&lt;/code&gt; después de este.</value>
   </data>
-  <data name="Prompt_DeleteUser_FlagId.Text" lastModified="2018-03-24 11:40:41">
+  <data name="Prompt_DeleteUser_FlagId.Text" lastModified="2018-03-24 05:40:41">
     <value xml:space="preserve">El ID del usuario. Si la opción no se utiliza, el ID del usuario tiene que ser el primer argumento.</value>
   </data>
-  <data name="Prompt_DeleteUser_FlagNotify.Text" lastModified="2018-03-24 11:40:41">
+  <data name="Prompt_DeleteUser_FlagNotify.Text" lastModified="2018-03-24 05:40:41">
     <value xml:space="preserve">Si es 'true', el email de notificación de 'Usuario cancela registro' se enviará (normalmente al administrador del sitio).</value>
   </data>
-  <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-03-24 12:46:23">
+  <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-03-24 06:46:23">
     <value xml:space="preserve">&lt;h4&gt;Elimina un usuario&lt;/h4&gt;
     &lt;p&gt;El ejemplo elimina el usuario con el ID 345. En este momento el usuario todavía no está eliminado definitivamente y se puede encontrar el la papelera de reciclaje. Puede utilizar el comando &lt;code&gt;get-user 345&lt;/code&gt; para ver los detalles del usuario y comprobar que &lt;code&gt;IsDeleted&lt;/code&gt; es ahora cierto. Puede utilizar luego el comando &lt;code&gt;restore-user&lt;/code&gt;para recuperar el usuario o hacerlo mediante el interfaz de usuario de DNN. Si quiere eliminar definitivamente el usuario, tiene que ejecutar un segundo comando: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345&lt;/code&gt;
@@ -369,22 +405,22 @@
     &lt;p&gt;Este ejemplo es una forma más explícita de la misma acción.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_EmailSent.Text" lastModified="2018-03-24 12:46:23">
+  <data name="Prompt_EmailSent.Text" lastModified="2018-03-24 06:46:23">
     <value xml:space="preserve">Se ha enviado un email al usuario.</value>
   </data>
-  <data name="Prompt_GetUser_Description.Text" lastModified="2018-03-24 13:48:12">
+  <data name="Prompt_GetUser_Description.Text" lastModified="2018-03-24 07:48:12">
     <value xml:space="preserve">Permite mostrar la información de un usuario a partir de su ID, email  o código de usuario. Soporta búsquedas parciales. Devuelve el primer usuario encontrado.</value>
   </data>
-  <data name="Prompt_GetUser_FlagEmail.Text" lastModified="2018-03-24 13:48:12">
+  <data name="Prompt_GetUser_FlagEmail.Text" lastModified="2018-03-24 07:48:12">
     <value xml:space="preserve">El email del usuario que quiere mostrar. Puede usar el asterisco  (&lt;span class="mono"&gt; * &lt;/span&gt;) como comodín para indicar 0 o más caracteres.</value>
   </data>
-  <data name="Prompt_GetUser_FlagId.Text" lastModified="2018-03-24 13:48:12">
+  <data name="Prompt_GetUser_FlagId.Text" lastModified="2018-03-24 07:48:12">
     <value xml:space="preserve">Indica explícitamente el ID del usuario que se quiere mostrar.</value>
   </data>
-  <data name="Prompt_GetUser_FlagUsername.Text" lastModified="2018-03-24 14:57:56">
+  <data name="Prompt_GetUser_FlagUsername.Text" lastModified="2018-03-24 08:57:56">
     <value xml:space="preserve">El código de usuario del usuario que quiere mostrar. Puede usar el asterisco  (&lt;span class="mono"&gt; * &lt;/span&gt;) como comodín para indicar 0 o más caracteres.</value>
   </data>
-  <data name="Prompt_GetUser_ResultHtml.Text" lastModified="2018-03-24 18:12:59">
+  <data name="Prompt_GetUser_ResultHtml.Text" lastModified="2018-03-24 12:12:59">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Obtener el usuario actual&lt;/h4&gt;
         &lt;code class="block"&gt;
@@ -655,31 +691,31 @@
         &lt;/table&gt;
       &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_IfSpecifiedMustHaveValue.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Si indica la opción --{0}, el valor tiene que  ser 'true' o 'false.</value>
   </data>
-  <data name="Prompt_InvalidFlag.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_InvalidFlag.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Opción inválida '--{0}'. ¿Quería decir --{1}?</value>
   </data>
-  <data name="Prompt_ListUsers_Description.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_ListUsers_Description.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Permite buscar usuarios a partir del email o código de usuario. Permite búsquedas parciales con comodines. Solo se puede utilizar una opción de búsqueda a la vez, las opciones no pueden combinarse.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagEmail.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_ListUsers_FlagEmail.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Patrón de búsqueda para encontrar el usuario a partir del email. Puede utilizar el asterisco (&lt;span class="mono"&gt; * &lt;/span&gt;) para indicar 0 o más caracteres.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagMax.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_ListUsers_FlagMax.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Tamaño de página. El valor máximo es 500.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagPage.Text" lastModified="2018-03-24 16:01:50">
+  <data name="Prompt_ListUsers_FlagPage.Text" lastModified="2018-03-24 10:01:50">
     <value xml:space="preserve">Número de página a mostrar.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagRole.Text" lastModified="2018-03-24 17:04:07">
+  <data name="Prompt_ListUsers_FlagRole.Text" lastModified="2018-03-24 11:04:07">
     <value xml:space="preserve">Nombre del rol de seguridad del que se quiere mostrar los usuarios incluidos. Nota: no se permite la búsqueda con comodines para esta opción. Los nombres de roles no diferencían entre mayúsculas y minúsculas pero los espacios tienen que coincidir.</value>
   </data>
-  <data name="Prompt_ListUsers_FlagUsername.Text" lastModified="2018-03-24 17:04:07">
+  <data name="Prompt_ListUsers_FlagUsername.Text" lastModified="2018-03-24 11:04:07">
     <value xml:space="preserve">Patrón de búsqueda para encontrar el usuario a partir del código de usuario. Puede utilizar el asterisco (&lt;span class="mono"&gt; * &lt;/span&gt;) para indicar 0 o más caracteres.</value>
   </data>
-  <data name="Prompt_ListUsers_ResultHtml.Text" lastModified="2018-03-24 19:13:08">
+  <data name="Prompt_ListUsers_ResultHtml.Text" lastModified="2018-03-24 13:13:08">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Obtener todos los usuarios del sitio&lt;/h4&gt;
         &lt;code class="block"&gt;
@@ -849,98 +885,98 @@
         &lt;/table&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_NewUser_Description.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_Description.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">Crea un nuevo usuario en el sitio</value>
   </data>
-  <data name="Prompt_NewUser_FlagApproved.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_FlagApproved.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">Indica si la cuenta de usuario está autorizada. El valor predeterminado es 'true'.</value>
   </data>
-  <data name="Prompt_NewUser_FlagEmail.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_FlagEmail.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">El email del usuario.</value>
   </data>
-  <data name="Prompt_NewUser_FlagFirstname.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_FlagFirstname.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">El nombre del usuario.</value>
   </data>
-  <data name="Prompt_NewUser_FlagLastname.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_FlagLastname.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">El apellido del usuario.</value>
   </data>
-  <data name="Prompt_NewUser_FlagNotify.Text" lastModified="2018-03-24 20:16:47">
+  <data name="Prompt_NewUser_FlagNotify.Text" lastModified="2018-03-24 14:16:47">
     <value xml:space="preserve">Si es 'true', se enviará al usuario el email de bienvenid. El formato del email se determina a partir de la opciones de configuración de registro del sitio. Si no se incluye la opción, se utilizará la configuración del sitio. Si el tipo de registro del sitio es "Ninguno" no se enviará ninguna notificación sin importar el valor de la opción &lt;code&gt;--notify&lt;/code&gt;.</value>
   </data>
-  <data name="Prompt_NewUser_FlagPassword.Text" lastModified="2018-03-24 21:18:52">
+  <data name="Prompt_NewUser_FlagPassword.Text" lastModified="2018-03-24 15:18:52">
     <value xml:space="preserve">La contraseña del usuario. Si no se indica, se asignará una contraseña aleatoria. Tenga en cuenta que a menos que indique que el usuario tiene que reiniciar su contraseña, debería verificar que  &lt;em&gt;almenos alguién&lt;/en&gt; reciba la notificación de la nueva contraseña.</value>
   </data>
-  <data name="Prompt_NewUser_FlagUsername.Text" lastModified="2018-03-24 21:18:52">
+  <data name="Prompt_NewUser_FlagUsername.Text" lastModified="2018-03-24 15:18:52">
     <value xml:space="preserve">El código de usuario del usuario.</value>
   </data>
-  <data name="Prompt_NewUser_ResultHtml.Text" lastModified="2018-03-24 22:21:26">
+  <data name="Prompt_NewUser_ResultHtml.Text" lastModified="2018-03-24 16:21:26">
     <value xml:space="preserve">&lt;h4&gt;Crea un usuario solo con los valores obligatorios&lt;/h4&gt;
     &lt;p&gt;Esta opción asigna una contraseña aleatoria y la asigna al nuevo usuario. El nombre para mostrar se genera a partir del nombre y apellidos. Fíjese como al tener "van Doorne" un espacio, hay que incluir el apellido entre comillas dobles. El nombre para mostrar finalmente será "Erik van Doorne".&lt;/p&gt;
     &lt;code class="block"&gt;new-user --username edoorne --email edoorne@myemail.com --firstname Erik --lastname "van Doorne"&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_NothingToSetUser.Text" lastModified="2018-03-24 23:23:18">
+  <data name="Prompt_NothingToSetUser.Text" lastModified="2018-03-24 17:23:18">
     <value xml:space="preserve">No hay nada para actualizar. Incluya una o más opciones con los valores para actualizar al usuario o utilice 'help set-user' para más información.</value>
   </data>
-  <data name="Prompt_NoUserId.Text" lastModified="2018-03-24 23:23:18">
+  <data name="Prompt_NoUserId.Text" lastModified="2018-03-24 17:23:18">
     <value xml:space="preserve">No se ha incluido el ID del usuario. No se realiza ninguna acción.</value>
   </data>
-  <data name="Prompt_OnlyOneFlagRequired.Text" lastModified="2018-03-24 23:23:18">
+  <data name="Prompt_OnlyOneFlagRequired.Text" lastModified="2018-03-24 17:23:18">
     <value xml:space="preserve">Tiene que utilizar solo una opción: --{0}, --{1}, or --{2}.</value>
   </data>
-  <data name="Prompt_PasswordReset.Text" lastModified="2018-03-24 23:23:18">
+  <data name="Prompt_PasswordReset.Text" lastModified="2018-03-24 17:23:18">
     <value xml:space="preserve">La contraseña del usuario se ha reiniciado.</value>
   </data>
-  <data name="Prompt_ResetPassword_Description.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_ResetPassword_Description.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Genera un reinicio de la contraseña del usuario. &lt;em&gt;No estable automáticamente la contraseña del usuario&lt;/em&gt;. De forma predeterminada, este comando envia al usuario el email  para cambiar la contraseña. Puede modificar este comportamiento utilizando la opción &lt;code&gt;--notify&lt;/code&gt; con el valor &lt;code&gt;false&lt;/code&gt;</value>
   </data>
-  <data name="Prompt_ResetPassword_FlagId.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_ResetPassword_FlagId.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">ID del usuario a quién se enviará el enlace de reinicio de la contraseña.</value>
   </data>
-  <data name="Prompt_ResetPassword_FlagNotify.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_ResetPassword_FlagNotify.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Si es 'true', el sistema enviará la notificación al email del usuario.</value>
   </data>
-  <data name="Prompt_ResetPassword_ResultHtml.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_ResetPassword_ResultHtml.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">&lt;code class="block"&gt;
     reset-password &lt;em&gt;userId&lt;/em&gt;
   &lt;/code&gt;</value>
   </data>
-  <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_RestoreNotRequired.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Este usuario no está eliminado. No hay nada que recuperar.</value>
   </data>
-  <data name="Prompt_RolesEmpty.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_RolesEmpty.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">--roles no puede estar vacío.</value>
   </data>
-  <data name="Prompt_SearchUserParameterRequired.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_SearchUserParameterRequired.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Para buscar un usuario tiene que indicar alguna de las opciones --id (UserId), --email (Email del usuario), or --name (código de usuario).</value>
   </data>
-  <data name="Prompt_SetUser_Description.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_SetUser_Description.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Permite establecer varios valores al usuario especificado.</value>
   </data>
-  <data name="Prompt_SetUser_FlagApproved.Text" lastModified="2018-03-25 00:29:56">
+  <data name="Prompt_SetUser_FlagApproved.Text" lastModified="2018-03-24 18:29:56">
     <value xml:space="preserve">Estado de aprobación del usuario.</value>
   </data>
-  <data name="Prompt_SetUser_FlagDisplayname.Text" lastModified="2018-03-25 01:30:24">
+  <data name="Prompt_SetUser_FlagDisplayname.Text" lastModified="2018-03-24 19:30:24">
     <value xml:space="preserve">Nombre para mostrar del usuario.</value>
   </data>
-  <data name="Prompt_SetUser_FlagEmail.Text" lastModified="2018-03-25 01:30:24">
+  <data name="Prompt_SetUser_FlagEmail.Text" lastModified="2018-03-24 19:30:24">
     <value xml:space="preserve">Email del usuario.</value>
   </data>
-  <data name="Prompt_SetUser_FlagFirstname.Text" lastModified="2018-03-25 01:30:24">
+  <data name="Prompt_SetUser_FlagFirstname.Text" lastModified="2018-03-24 19:30:24">
     <value xml:space="preserve">Nombre del usuario.</value>
   </data>
-  <data name="Prompt_SetUser_FlagId.Text" lastModified="2018-03-25 02:32:49">
+  <data name="Prompt_SetUser_FlagId.Text" lastModified="2018-03-24 20:32:49">
     <value xml:space="preserve">ID del usuario que se quiere actualizar. Este valor es obligatorio, pero si incluye el valor como primer argumento después del  nombre del comando no es necesario utilizar explícitamente la opción &lt;span class="mono"&gt;--id&lt;/span&gt; flag. (vea los ejemplos a continuación)</value>
   </data>
-  <data name="Prompt_SetUser_FlagLastname.Text" lastModified="2018-03-25 02:32:49">
+  <data name="Prompt_SetUser_FlagLastname.Text" lastModified="2018-03-24 20:32:49">
     <value xml:space="preserve">Apellido del usuario</value>
   </data>
-  <data name="Prompt_SetUser_FlagPassword.Text" lastModified="2018-03-25 02:32:49">
+  <data name="Prompt_SetUser_FlagPassword.Text" lastModified="2018-03-24 20:32:49">
     <value xml:space="preserve">La nueva contraseña que se asignará al usuario. Tiene que ser una contraseña válida según las reglas del sitio.</value>
   </data>
-  <data name="Prompt_SetUser_FlagUsername.Text" lastModified="2018-03-25 02:32:49">
+  <data name="Prompt_SetUser_FlagUsername.Text" lastModified="2018-03-24 20:32:49">
     <value xml:space="preserve">Código de usuario del usuario.</value>
   </data>
-  <data name="Prompt_SetUser_ResultHtml.Text" lastModified="2018-03-25 04:36:02">
+  <data name="Prompt_SetUser_ResultHtml.Text" lastModified="2018-03-24 21:36:02">
     <value xml:space="preserve">&lt;div&gt;
         &lt;h4&gt;Aprobar/Desaprobar un usuario&lt;/h4&gt;
         &lt;p&gt;Aprueba o desaprueba el usuario con ID 345. 
@@ -965,23 +1001,32 @@
 
     &lt;/div&gt;</value>
   </data>
-  <data name="Prompt_StartDateGreaterThanEnd.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_StartDateGreaterThanEnd.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">La fecha de inicio no puede ser posterior a la fecha de finalizacion.</value>
   </data>
-  <data name="Prompt_UserAlreadyDeleted.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_UserAlreadyDeleted.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">El usuario ya está eliminado. Si quiere eliminar al usuario definitivamente utilice \"purge-user\"</value>
   </data>
-  <data name="Prompt_UserDeletionFailed.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_UserDeletionFailed.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">El usuario se ha encontrado pero el sistema no lo ha podido eliminar.</value>
   </data>
-  <data name="Prompt_UserIdIsRequired.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_UserIdIsRequired.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">Tiene que especificar el ID del usuario como primer argumento o utilizar la opción --id.</value>
   </data>
-  <data name="Prompt_UserPurged.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_UserPurged.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">El usuario ha sido eliminado definitivamente del sitio.</value>
   </data>
-  <data name="Prompt_UsersCategory.Text" lastModified="2018-03-25 06:38:41">
+  <data name="Prompt_UsersCategory.Text" lastModified="2018-03-24 22:38:41">
     <value xml:space="preserve">Comandos de usuarios</value>
+  </data>
+  <data name="Question.Help" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Introduzca la pregunda de seguridad para recuperar la contraseña.</value>
+  </data>
+  <data name="Question.Required" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Tiene que introducir la pregunta de contraseña.</value>
+  </data>
+  <data name="Question.Text" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Pregunta de seguridad:</value>
   </data>
   <data name="Random.Help">
     <value xml:space="preserve">Seleccione esta opción para generar una contraseña aleatoria.</value>
@@ -995,11 +1040,26 @@
   <data name="RegisteredUsers.Text">
     <value xml:space="preserve">Usuarios registrados</value>
   </data>
+  <data name="RemoveDeleted.Btn" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Eliminar usuarios borrados</value>
+  </data>
+  <data name="RemoveDeleted.Confirm" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">¿Está seguro que desea eliminar definitivamente los usuaros borrados? Esta acción no se puede deshacer.</value>
+  </data>
+  <data name="RemoveDeleted.Done" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Todos los usuarios borrados han sido eliminados.</value>
+  </data>
   <data name="RemoveUser.Confirm">
     <value xml:space="preserve">¿Está seguro que desea eliminar este usuario de forma permanente?</value>
   </data>
   <data name="RemoveUser.Text">
     <value xml:space="preserve">Eliminar permanentemente usuario</value>
+  </data>
+  <data name="RequestedRemoval.Text" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">Eliminación solicitada</value>
+  </data>
+  <data name="RequestsRemoval.title" lastModified="2020-05-09 10:10:56">
+    <value xml:space="preserve">El usuario ha solicitado ser eliminado del sitio</value>
   </data>
   <data name="ResetPassword.Text">
     <value xml:space="preserve">Enviar enlace de reinicio de contraseña</value>
@@ -1037,13 +1097,13 @@
   <data name="SuperUsers.Text">
     <value xml:space="preserve">Superusuarios</value>
   </data>
-  <data name="SwitchOff.Text" lastModified="2017-04-27 11:31:48">
+  <data name="SwitchOff.Text" lastModified="2017-04-26 23:31:48">
     <value xml:space="preserve">Desactivado</value>
   </data>
-  <data name="SwitchOn.Text" lastModified="2017-04-27 11:31:48">
+  <data name="SwitchOn.Text" lastModified="2017-04-26 23:31:48">
     <value xml:space="preserve">Activado</value>
   </data>
-  <data name="True.Text" lastModified="2017-04-27 11:31:48">
+  <data name="True.Text" lastModified="2017-04-26 23:31:48">
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="UnAuthorized.Text">
@@ -1112,10 +1172,10 @@
   <data name="UserUnAuthorized.Text">
     <value xml:space="preserve">El usuario ha sido desautorizado.</value>
   </data>
-  <data name="UserUnLocked.Text" lastModified="2017-02-04 17:54:26">
+  <data name="UserUnLocked.Text" lastModified="2017-02-04 11:54:26">
     <value xml:space="preserve">Se ha desbloqueado el usuario.</value>
   </data>
-  <data name="UserUnlockError.Text" lastModified="2017-02-04 17:54:26">
+  <data name="UserUnlockError.Text" lastModified="2017-02-04 11:54:26">
     <value xml:space="preserve">No se ha podido desbloquear el usuario.</value>
   </data>
   <data name="UserUpdated.Text">

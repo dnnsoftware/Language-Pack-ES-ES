@@ -51,19 +51,19 @@
   <data name="AuthSystem.LangPackType">
     <value xml:space="preserve">Sistema de autenticación</value>
   </data>
-  <data name="BackToLanguages.Text" lastModified="2017-02-04 18:53:03">
+  <data name="BackToLanguages.Text" lastModified="2017-02-03 18:53:03">
     <value xml:space="preserve">VOLVER A IDIOMAS</value>
   </data>
-  <data name="BackToSiteBehavior.Text" lastModified="2017-02-04 18:53:03">
+  <data name="BackToSiteBehavior.Text" lastModified="2017-02-03 18:53:03">
     <value xml:space="preserve">VOLVER A COMPORTAMIENTO</value>
   </data>
-  <data name="BackToSiteSettings.Text" lastModified="2017-02-04 18:53:03">
+  <data name="BackToSiteSettings.Text" lastModified="2017-02-03 18:53:03">
     <value xml:space="preserve">VOLVER A CONFIGURACIÓN</value>
   </data>
-  <data name="BrowseAction.Text" lastModified="2018-03-23 22:33:19">
+  <data name="BrowseAction.Text" lastModified="2018-03-22 22:33:19">
     <value xml:space="preserve">Pulse {guardar|[ENTER]} para guardar, o {cancelar|[ESC]} para cancelar</value>
   </data>
-  <data name="BrowseButton.Text" lastModified="2018-03-23 22:33:19">
+  <data name="BrowseButton.Text" lastModified="2018-03-22 22:33:19">
     <value xml:space="preserve">Explorar sistema de archivos</value>
   </data>
   <data name="Browser.Header">
@@ -81,7 +81,7 @@
   <data name="cmdAddAlias.Text">
     <value xml:space="preserve">Añadir alias</value>
   </data>
-  <data name="cmdAddEntry.Text" lastModified="2018-03-23 22:33:19">
+  <data name="cmdAddEntry.Text" lastModified="2018-03-22 22:33:19">
     <value xml:space="preserve">Añadir entrada</value>
   </data>
   <data name="cmdAddField.Text">
@@ -120,13 +120,64 @@
   <data name="CurrentSiteDefault.Text">
     <value xml:space="preserve">Idioma por omisión del sitio</value>
   </data>
+  <data name="DataConsentActive.Help" lastModified="2020-05-07 13:38:30">
+    <value xml:space="preserve">Cuando la opción está activada, se forzará a los usuarios registrados a que accepten las condiciones de uso.</value>
+  </data>
+  <data name="DataConsentActive.Text" lastModified="2020-05-07 11:35:29">
+    <value xml:space="preserve">Activar consentimiento de datos</value>
+  </data>
+  <data name="DataConsentConsentRedirect.Help" lastModified="2020-05-07 11:35:29">
+    <value xml:space="preserve">Indica la página que a la que se dirigirá a los usuarios para que firmen el consentimiento de datos. Si no se selecciona ninguna página, se mostrará una página predefinida por el sistema.</value>
+  </data>
+  <data name="DataConsentConsentRedirect.Text" lastModified="2020-05-07 11:35:29">
+    <value xml:space="preserve">Redirección de consentimiento</value>
+  </data>
+  <data name="DataConsentDelay.ErrorMessage" lastModified="2020-05-07 11:35:29">
+    <value xml:space="preserve">Tiene que ser un valor entero.</value>
+  </data>
+  <data name="DataConsentDelay.Text" lastModified="2020-05-07 13:38:30">
+    <value xml:space="preserve">Demora de eliminación</value>
+  </data>
+  <data name="DataConsentResetTerms.Completed" lastModified="2020-05-07 15:39:42">
+    <value xml:space="preserve">Los consentimientos se han restablecido y todos los usuarios tendrán que acceptar las condiciones de uso de nuevo.</value>
+  </data>
+  <data name="DataConsentResetTerms.Confirm" lastModified="2020-05-07 17:40:19">
+    <value xml:space="preserve">¿Está seguro que desea restablecer el consentimiento para todos los usuarios y preguntar de nuevo?</value>
+  </data>
+  <data name="DataConsentResetTerms.Text" lastModified="2020-05-07 19:40:33">
+    <value xml:space="preserve">Restablecer condiciones de uso</value>
+  </data>
+  <data name="DataConsentResetTerms.Warning" lastModified="2020-05-07 21:41:31">
+    <value xml:space="preserve">Utilize esta opción para forzar a todos los usuarios a acceptar de nuevo las condiciones de uso. Puede utilizar esta opción cuando las condiciones de uso hayan cambiado.</value>
+  </data>
+  <data name="DataConsentSettings.Text" lastModified="2020-05-07 21:41:31">
+    <value xml:space="preserve">Configuración de consentimiento de datos</value>
+  </data>
+  <data name="DataConsentUserDelayedHardDelete.Text" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">Eliminación con demora</value>
+  </data>
+  <data name="DataConsentUserDeleteAction.Help" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">Indique como se comportará el sistema cuando un usuario indique que desea eliminar su perfil de usuario del sitio.</value>
+  </data>
+  <data name="DataConsentUserDeleteAction.Text" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">Acción al borrar usuario</value>
+  </data>
+  <data name="DataConsentUserDeleteManual.Text" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">Manual</value>
+  </data>
+  <data name="DataConsentUserHardDelete.Text" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">Borrado duro</value>
+  </data>
   <data name="DataType.Header">
     <value xml:space="preserve">Tipo datos</value>
+  </data>
+  <data name="Days.Text" lastModified="2020-05-08 01:44:42">
+    <value xml:space="preserve">días</value>
   </data>
   <data name="DeactivateLanguageWarning.Text">
     <value xml:space="preserve">¿Está seguro que desea desactivar {0}?</value>
   </data>
-  <data name="DefaultImageTitle.Text" lastModified="2018-03-23 23:33:34">
+  <data name="DefaultImageTitle.Text" lastModified="2018-03-22 23:33:34">
     <value xml:space="preserve">Imagen</value>
   </data>
   <data name="DefaultLanguage.Text">
@@ -159,10 +210,10 @@
   <data name="DisableLocalizedContent.Text">
     <value xml:space="preserve">Desactivar traducción de contenidos</value>
   </data>
-  <data name="DragDefault.Text" lastModified="2018-03-24 00:34:12">
+  <data name="DragDefault.Text" lastModified="2018-03-23 00:34:12">
     <value xml:space="preserve">Arrastre y suelte un archivo o seleccione una opción</value>
   </data>
-  <data name="DragOver.Text" lastModified="2018-03-24 00:34:12">
+  <data name="DragOver.Text" lastModified="2018-03-23 00:34:12">
     <value xml:space="preserve">Arrastre y suelte un archivo</value>
   </data>
   <data name="DuplicateAlias.Text">
@@ -192,13 +243,13 @@
   <data name="EnableLocalizedContentClickCancel.Text">
     <value xml:space="preserve">Clique cancelar si quiere cambiar el idioma predeterminado del sitio.</value>
   </data>
-  <data name="EnableLocalizedContentHelpText.Text">
-    <value xml:space="preserve">Si habilita la traducción de contenidos podrá proporcionar contenidos en distintos idiomas en los módulo además de mostrar los textos de la interfaz traducidos. Al activar esta opción el idioma predeterminado del sitio se bloqueará y  no podrá cambiarlo.</value>
+  <data name="EnableLocalizedContentHelpText.Text" lastModified="2020-05-09 10:01:13">
+    <value xml:space="preserve">Si habilita la traducción de contenidos podrá proporcionar contenidos en distintos idiomas en los módulo además de mostrar los textos de la interfaz traducidos. Al activar esta opción el idioma predeterminado del sitio se bloqueará y &lt;strong&gt;no podrá cambiarlo&lt;/strong&gt;.</value>
   </data>
-  <data name="EnableSortOrder.Help" lastModified="2018-03-24 01:34:59">
+  <data name="EnableSortOrder.Help" lastModified="2018-03-23 01:34:59">
     <value xml:space="preserve">Marque esta opción para activar la ordenación personalizada de los elementos de la lista.</value>
   </data>
-  <data name="EnableSortOrder.Text" lastModified="2018-03-24 01:34:59">
+  <data name="EnableSortOrder.Text" lastModified="2018-03-23 01:34:59">
     <value xml:space="preserve">Activar ordenación</value>
   </data>
   <data name="EnglishName.Text">
@@ -222,10 +273,10 @@
   <data name="fallBackLabel.Text">
     <value xml:space="preserve">Idioma alternativo:</value>
   </data>
-  <data name="File.Text" lastModified="2018-03-24 01:34:59">
+  <data name="File.Text" lastModified="2018-03-23 01:34:59">
     <value xml:space="preserve">Archivo</value>
   </data>
-  <data name="Folder.Text" lastModified="2018-03-24 01:34:59">
+  <data name="Folder.Text" lastModified="2018-03-23 01:34:59">
     <value xml:space="preserve">Carpeta</value>
   </data>
   <data name="FriendsAndGroups.Text">
@@ -233,6 +284,12 @@
   </data>
   <data name="Full.LangPackType">
     <value xml:space="preserve">Completo</value>
+  </data>
+  <data name="GdprResetTerms.Completed" lastModified="2020-05-08 03:46:23">
+    <value xml:space="preserve">El consentimiento de las condiciones de uso se ha restablecido</value>
+  </data>
+  <data name="GdprResetTerms.Confirm" lastModified="2020-05-08 03:46:23">
+    <value xml:space="preserve">¿Esta seguro que desea restablecer el consentimiento para todos los usuarios y forzar la pregunta de nuevo?</value>
   </data>
   <data name="Global.Text">
     <value xml:space="preserve">Global</value>
@@ -249,11 +306,14 @@
   <data name="HighlightPendingTranslations.Text">
     <value xml:space="preserve">Resaltar traducciones pendientes</value>
   </data>
-  <data name="Host.Text" lastModified="2018-03-24 02:35:06">
+  <data name="Host.Text" lastModified="2018-03-23 02:35:06">
     <value xml:space="preserve">Sistema</value>
   </data>
   <data name="HostSkins.Text">
     <value xml:space="preserve">Temas de sistema</value>
+  </data>
+  <data name="Hours.Text" lastModified="2020-05-08 03:46:23">
+    <value xml:space="preserve">Horas</value>
   </data>
   <data name="HtmlEditor.Text">
     <value xml:space="preserve">Configuración del editor HTML</value>
@@ -282,10 +342,10 @@
   <data name="InvalidAlias.Text">
     <value xml:space="preserve">El alias del sitio no es válido. Introduzca un alias diferente.</value>
   </data>
-  <data name="InvalidEntryText.Text" lastModified="2018-03-24 03:35:26">
+  <data name="InvalidEntryText.Text" lastModified="2018-03-23 03:35:26">
     <value xml:space="preserve">El texto es obligatorio</value>
   </data>
-  <data name="InvalidEntryValue.Text" lastModified="2018-03-24 03:35:26">
+  <data name="InvalidEntryValue.Text" lastModified="2018-03-23 03:35:26">
     <value xml:space="preserve">El valor es obligatorio</value>
   </data>
   <data name="InvalidLocale.ErrorMessage">
@@ -318,7 +378,7 @@
   <data name="Languages.Text">
     <value xml:space="preserve">IDIOMAS</value>
   </data>
-  <data name="LanguageSelectionLabel.Text" lastModified="2017-02-04 17:52:29">
+  <data name="LanguageSelectionLabel.Text" lastModified="2017-02-03 17:52:29">
     <value xml:space="preserve">IDIOMA</value>
   </data>
   <data name="LanguageSettings.Text">
@@ -429,43 +489,43 @@
   <data name="lblType.Text">
     <value xml:space="preserve">Tipo de paquete de recursoS</value>
   </data>
-  <data name="LinkButton.Text" lastModified="2018-03-24 04:35:54">
+  <data name="LinkButton.Text" lastModified="2018-03-23 04:35:54">
     <value xml:space="preserve">Introduzca la URL del enlace</value>
   </data>
-  <data name="LinkInputAction.Text" lastModified="2018-03-24 12:38:55">
+  <data name="LinkInputAction.Text" lastModified="2018-03-23 12:38:55">
     <value xml:space="preserve">Pulse {guardar|[ENTER]} para guardar, o {cancelar|[ESC]} para cancelar</value>
   </data>
-  <data name="LinkInputPlaceholder.Text" lastModified="2018-03-24 08:37:02">
+  <data name="LinkInputPlaceholder.Text" lastModified="2018-03-23 08:37:02">
     <value xml:space="preserve">http://example.com/imagename.jpg</value>
   </data>
-  <data name="LinkInputTitle.Text" lastModified="2018-03-24 16:40:29">
+  <data name="LinkInputTitle.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">URL del enlace</value>
   </data>
-  <data name="ListEntries.Help" lastModified="2018-03-24 10:38:34">
+  <data name="ListEntries.Help" lastModified="2018-03-23 10:38:34">
     <value xml:space="preserve">GESTIONAR ELEMENTO DE LISTA: Los detalles de la propiedad se han actualizado. Esta propiedad es de tipo lista. El siguiente paso consiste en definir los elementos de la lista.</value>
   </data>
-  <data name="ListEntries.Text" lastModified="2018-03-24 09:37:16">
+  <data name="ListEntries.Text" lastModified="2018-03-23 09:37:16">
     <value xml:space="preserve">Elementos de la lista</value>
   </data>
-  <data name="ListEntryCreateSuccess.Text" lastModified="2018-03-24 15:39:53">
+  <data name="ListEntryCreateSuccess.Text" lastModified="2018-03-23 15:39:53">
     <value xml:space="preserve">El elemento de la lista se ha creado.</value>
   </data>
-  <data name="ListEntryDeletedWarning.Text" lastModified="2018-03-24 06:36:33">
+  <data name="ListEntryDeletedWarning.Text" lastModified="2018-03-23 06:36:33">
     <value xml:space="preserve">¿Está seguro que desea eliminar el elemento de la lista?</value>
   </data>
-  <data name="ListEntryDeleteError.Text" lastModified="2018-03-24 07:36:54">
+  <data name="ListEntryDeleteError.Text" lastModified="2018-03-23 07:36:54">
     <value xml:space="preserve">No se ha podido eliminar el elemento de la lista. Vuelva a intentarlo.</value>
   </data>
-  <data name="ListEntryDeleteSuccess.Text" lastModified="2018-03-24 15:39:53">
+  <data name="ListEntryDeleteSuccess.Text" lastModified="2018-03-23 15:39:53">
     <value xml:space="preserve">El elemento de la lista se ha eliminado.</value>
   </data>
-  <data name="ListEntryText.Text" lastModified="2018-03-24 14:39:11">
+  <data name="ListEntryText.Text" lastModified="2018-03-23 14:39:11">
     <value xml:space="preserve">Texto</value>
   </data>
-  <data name="ListEntryUpdateSuccess.Text" lastModified="2018-03-24 15:39:53">
+  <data name="ListEntryUpdateSuccess.Text" lastModified="2018-03-23 15:39:53">
     <value xml:space="preserve">El elemento de la lista se ha actualizado.</value>
   </data>
-  <data name="ListEntryValue.Text" lastModified="2018-03-24 16:40:29">
+  <data name="ListEntryValue.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">Valor</value>
   </data>
   <data name="Localization.Help">
@@ -507,7 +567,7 @@
   <data name="MissingFiles.Text">
     <value xml:space="preserve">Archivos de recursos no encontrados: </value>
   </data>
-  <data name="Mode.HelpText" lastModified="2018-03-25 05:09:43">
+  <data name="Mode.HelpText" lastModified="2018-03-24 03:09:43">
     <value xml:space="preserve">Seleccione "Global" para editar el archivo base de un idioma, la otra opción  solo afectará al sitio seleccionado.</value>
   </data>
   <data name="Mode.Label">
@@ -537,7 +597,7 @@
   <data name="No.Text">
     <value xml:space="preserve">No</value>
   </data>
-  <data name="NoData.Text" lastModified="2018-03-24 11:38:49">
+  <data name="NoData.Text" lastModified="2018-03-23 11:38:49">
     <value xml:space="preserve">No hay registros para mostrar</value>
   </data>
   <data name="None.Text">
@@ -546,11 +606,17 @@
   <data name="NoneSpecified.Text">
     <value xml:space="preserve">Sin especificar</value>
   </data>
-  <data name="NotSpecified.Text" lastModified="2018-03-24 05:36:07">
+  <data name="NoSpecialCharacterName.Text" lastModified="2020-05-08 05:46:50">
+    <value xml:space="preserve">Esta propiedad no acepta caracteres especiales.</value>
+  </data>
+  <data name="NotSpecified.Text" lastModified="2018-03-23 05:36:07">
     <value xml:space="preserve">&lt; Sin especificar &gt;</value>
   </data>
   <data name="ObsoleteEntries.Text">
     <value xml:space="preserve">Archivos con entradas obsoletas: </value>
+  </data>
+  <data name="Off.Text" lastModified="2020-05-08 05:46:50">
+    <value xml:space="preserve">Off</value>
   </data>
   <data name="OldFiles.Text">
     <value xml:space="preserve">Archivos más antiguos que el original: </value>
@@ -596,6 +662,12 @@
   </data>
   <data name="plCategoryName.Text">
     <value xml:space="preserve">Nombre de la categoría</value>
+  </data>
+  <data name="plCookieMoreLink.Help" lastModified="2020-05-08 07:49:34">
+    <value xml:space="preserve">El mensaje de consentimiento de cookies incluye un enlace para explicar las cookies a los usuarios. Si quiere sobreescribir este enlace (por omisión, el enlace apunta a cookiesandme.com) puede proporcionar aquí un enlace alternativo.</value>
+  </data>
+  <data name="plCookieMoreLink.Text" lastModified="2020-05-08 09:53:58">
+    <value xml:space="preserve">URL de consentimiento de Cookies</value>
   </data>
   <data name="plDescription.Help">
     <value xml:space="preserve">Introduzca la descripción del sitio</value>
@@ -732,6 +804,12 @@
   <data name="plPortalName.Text">
     <value xml:space="preserve">Título del sitio</value>
   </data>
+  <data name="plPrivacyTabId.Help" lastModified="2020-05-08 11:55:14">
+    <value xml:space="preserve">Indica la página que se mostrará cuando los usuarios cliquen el enlace de privacidad. Si no se selecciona ninguna página el sistema mostrará el texto de privacidad por omisión.</value>
+  </data>
+  <data name="plPrivacyTabId.Text" lastModified="2020-05-08 11:55:14">
+    <value xml:space="preserve">Página de privacidad</value>
+  </data>
   <data name="plPropertyHelp.Help">
     <value xml:space="preserve">Escriba el texto para de ayuda de la propiedad en el idioma seleccionado.</value>
   </data>
@@ -768,11 +846,23 @@
   <data name="plSearchTabId.Text">
     <value xml:space="preserve">Página de resultados de búsquedas</value>
   </data>
+  <data name="plShowCookieConsent.Help" lastModified="2020-05-08 13:56:50">
+    <value xml:space="preserve">Esta opción permite decidir si se mostrará un mensaje de consentimiento de cookies en este sitio. Los usuarios tendrán que clicar el mensaje para aceptarlo y cerrarlo. El mensaje no se volverá a mostrar una vez aceptado.</value>
+  </data>
+  <data name="plShowCookieConsent.Text" lastModified="2020-05-08 15:57:07">
+    <value xml:space="preserve">Mostrar consentimiento de Cookies</value>
+  </data>
   <data name="plSplashTabId.Help">
     <value xml:space="preserve">Página inicial de bienvenida de su sitio.</value>
   </data>
   <data name="plSplashTabId.Text">
     <value xml:space="preserve">Página inicial de bienvenida</value>
+  </data>
+  <data name="plTermsTabId.Help" lastModified="2020-05-07 11:35:29">
+    <value xml:space="preserve">Indica la página que muestra las condiciones de uso del sitio web. Si no se selecciona ninguna página, se mostrará el texto por omisión cuando un visitante pulse el enlace para ver las condiciones de uso.</value>
+  </data>
+  <data name="plTermsTabId.Text" lastModified="2020-05-08 17:57:18">
+    <value xml:space="preserve">Página de condiciones de uso</value>
   </data>
   <data name="plTimeZone.Help">
     <value xml:space="preserve">La zona horaria del sitio.</value>
@@ -809,6 +899,12 @@
   </data>
   <data name="Primary.Header">
     <value xml:space="preserve">PRIMARIO</value>
+  </data>
+  <data name="PrivacyCommunicationSettings.Text" lastModified="2020-05-08 19:57:42">
+    <value xml:space="preserve">Configuración de comunicaciones</value>
+  </data>
+  <data name="PrivacyCookieConsentSettings.Text" lastModified="2020-05-08 21:57:49">
+    <value xml:space="preserve">Configuración de Consentimiento de Cookies</value>
   </data>
   <data name="ProcessingPage.Text">
     <value xml:space="preserve">{0}: Página {1} de {2} - {3}</value>
@@ -863,6 +959,9 @@
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Help">
     <value xml:space="preserve">Nombre de la propiedad.</value>
+  </data>
+  <data name="ProfilePropertyDefinition_PropertyName.NoSpecialCharacters" lastModified="2020-05-08 23:58:47">
+    <value xml:space="preserve">El nombre de la propiedad no acepta caracteres especiales o espacios.</value>
   </data>
   <data name="ProfilePropertyDefinition_PropertyName.Required">
     <value xml:space="preserve">El nombre de la propiedad es obligatorio.</value>
@@ -942,6 +1041,9 @@
   <data name="RequiredTextBox.Text">
     <value xml:space="preserve">La longitud tiene que ser un valor entero mayor o igual que 0. Si utiliza un campo de texto, la longitud tiene que ser mayor que 0.</value>
   </data>
+  <data name="Reset.Text" lastModified="2020-05-09 01:58:56">
+    <value xml:space="preserve">Restablecer</value>
+  </data>
   <data name="ResourceFile.Text">
     <value xml:space="preserve">Archivo de recursos</value>
   </data>
@@ -972,10 +1074,10 @@
   <data name="SaveTranslationsToFile.Text">
     <value xml:space="preserve">Guardar las traducciones en archivo</value>
   </data>
-  <data name="SearchFilesPlaceHolder.Text" lastModified="2018-03-24 13:39:04">
+  <data name="SearchFilesPlaceHolder.Text" lastModified="2018-03-23 13:39:04">
     <value xml:space="preserve">Buscar archivos...</value>
   </data>
-  <data name="SearchFoldersPlaceHolder.Text" lastModified="2018-03-24 13:39:04">
+  <data name="SearchFoldersPlaceHolder.Text" lastModified="2018-03-23 13:39:04">
     <value xml:space="preserve">Buscar carpetas...</value>
   </data>
   <data name="SearchIndex.Text">
@@ -1032,7 +1134,7 @@
   <data name="siteDefaultLabel.Text">
     <value xml:space="preserve">Idioma por omisión</value>
   </data>
-  <data name="SiteSelectionLabel.Text" lastModified="2017-02-04 17:52:29">
+  <data name="SiteSelectionLabel.Text" lastModified="2017-02-03 17:52:29">
     <value xml:space="preserve">EDICIÓN DEL SITIO</value>
   </data>
   <data name="SiteTemplates.Text">
@@ -1083,7 +1185,7 @@
   <data name="TabIgnoreWords.Text">
     <value xml:space="preserve">Palabras ignoradas</value>
   </data>
-  <data name="TabLanguage.Text" lastModified="2017-02-04 18:53:03">
+  <data name="TabLanguage.Text" lastModified="2017-02-03 18:53:03">
     <value xml:space="preserve">Idiomas</value>
   </data>
   <data name="TabMessaging.Text">
@@ -1091,6 +1193,9 @@
   </data>
   <data name="TabMore.Text">
     <value xml:space="preserve">Más</value>
+  </data>
+  <data name="TabPrivacy.Text" lastModified="2020-05-09 03:59:06">
+    <value xml:space="preserve">Privacidad</value>
   </data>
   <data name="TabSearch.Text">
     <value xml:space="preserve">Buscar</value>
@@ -1143,7 +1248,7 @@
   <data name="UnassignPrimary.Text">
     <value xml:space="preserve">Desasignar primario</value>
   </data>
-  <data name="UnPublishedAllTranslatedPages.Text" lastModified="2017-02-04 17:52:29">
+  <data name="UnPublishedAllTranslatedPages.Text" lastModified="2017-02-03 17:52:29">
     <value xml:space="preserve">Las páginas de han despublicado.</value>
   </data>
   <data name="UnpublishTranslatedPages.Text">
@@ -1152,19 +1257,19 @@
   <data name="Updated.Text">
     <value xml:space="preserve">Se ha guardado el archivo {0}.</value>
   </data>
-  <data name="UploadButton.Text" lastModified="2018-03-24 16:40:29">
+  <data name="UploadButton.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">Cargar un archivo</value>
   </data>
-  <data name="UploadComplete.Text" lastModified="2018-03-24 16:40:29">
+  <data name="UploadComplete.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">Carga finalizada</value>
   </data>
-  <data name="UploadDefault.Text" lastModified="2018-03-24 11:38:49">
+  <data name="UploadDefault.Text" lastModified="2018-03-23 11:38:49">
     <value xml:space="preserve">myImage.jpg</value>
   </data>
-  <data name="UploadFailed.Text" lastModified="2018-03-24 16:40:29">
+  <data name="UploadFailed.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">Carga errónea</value>
   </data>
-  <data name="Uploading.Text" lastModified="2018-03-24 16:40:29">
+  <data name="Uploading.Text" lastModified="2018-03-23 16:40:29">
     <value xml:space="preserve">Cargando...</value>
   </data>
   <data name="UrlMappingSettings.Text">
@@ -1212,7 +1317,13 @@
   <data name="Visible.Header">
     <value xml:space="preserve">Visible</value>
   </data>
-  <data name="WrongFormat.Text" lastModified="2018-03-24 17:40:37">
+  <data name="Warning.Text" lastModified="2020-05-09 05:59:18">
+    <value xml:space="preserve">Atención</value>
+  </data>
+  <data name="Weeks.Text" lastModified="2020-05-09 05:59:18">
+    <value xml:space="preserve">Semanas</value>
+  </data>
+  <data name="WrongFormat.Text" lastModified="2018-03-23 17:40:37">
     <value xml:space="preserve">Formato erróneo</value>
   </data>
   <data name="Yes.Text">
