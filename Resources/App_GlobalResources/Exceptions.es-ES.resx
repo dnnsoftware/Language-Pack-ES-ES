@@ -15,8 +15,11 @@
   <data name="AddFileExtensionNotAllowed.Text">
     <value xml:space="preserve">No se permite la extensión '{0}'. No se ha añadido el archivo.</value>
   </data>
-  <data name="AddFileInvalidContent.Text" lastModified="2018-03-24 08:25:37">
+  <data name="AddFileInvalidContent.Text" lastModified="2018-03-24 07:25:37">
     <value xml:space="preserve">El contenido de '{0}' no es válido. El archivo no se ha añadido.</value>
+  </data>
+  <data name="AddFilenameNotAllowed.Text" lastModified="2020-05-08 20:59:10">
+    <value xml:space="preserve">El nombre de archivo '{0}' no está permitido. El archivo no se ha añadido.</value>
   </data>
   <data name="AddFileNoSpaceAvailable.Text">
     <value xml:space="preserve">El sitio no tiene espacio disponible para guardar el archivo especificado. El archivo no se ha añadido.</value>
@@ -30,13 +33,16 @@
   <data name="AddFolderAlreadyExists.Text">
     <value xml:space="preserve">La carpeta ya existe en la ubicación. La carpeta no se ha añadido.</value>
   </data>
+  <data name="AddFolderNotAllowed.Text" lastModified="2020-05-08 20:59:10">
+    <value xml:space="preserve">La carpeta '{0}' no está permitida. La carpeta no se ha añadido.</value>
+  </data>
   <data name="AddFolderParentCannotBeFound.Text">
     <value xml:space="preserve">No se pudo encontrar la carpeta madre.</value>
   </data>
   <data name="AddFolderUnderlyingSystemError.Text">
     <value xml:space="preserve">No se cumplen los permisos. La carpeta no se ha añadido.</value>
   </data>
-  <data name="AlreadyFollowingUser.Text" lastModified="2015-12-28 04:21:43">
+  <data name="AlreadyFollowingUser.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">Ya está siguiendo a este usuario.</value>
   </data>
   <data name="AmbiguousController.Text">
@@ -51,10 +57,10 @@
   <data name="CannotMoveFolderBetweenFolderType.Text">
     <value xml:space="preserve">La carpeta '{0}' no se puede mover. Mover carpetas entre los dos tipos de carpeta seleccionadas no está permitido.</value>
   </data>
-  <data name="ContentTypeDoesNotExist.Text" lastModified="2015-12-28 04:21:43">
+  <data name="ContentTypeDoesNotExist.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El tipo de contenido especificado no es válido.</value>
   </data>
-  <data name="ContentTypeFieldDefinitionDoesNotExist.Text" lastModified="2015-12-28 04:21:43">
+  <data name="ContentTypeFieldDefinitionDoesNotExist.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El tipo de contenido al que pertenece la definición del campo no es válido.</value>
   </data>
   <data name="ControllerNotFound.Text">
@@ -69,7 +75,7 @@
   <data name="CopyFileUnderlyingSystemError.Text">
     <value xml:space="preserve">El sistema subyacente produjo una excepción. El archivo no se ha copiado.</value>
   </data>
-  <data name="CreateValidatorException.Text" lastModified="2015-12-28 04:21:43">
+  <data name="CreateValidatorException.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">No se puede instanciar el validador - {0}</value>
   </data>
   <data name="DeleteFileUnderlyingSystemError.Text">
@@ -78,19 +84,19 @@
   <data name="DeleteFolderUnderlyingSystemError.Text">
     <value xml:space="preserve">El sistema subyacente produjo una excepción. La carpeta no se ha eliminado.</value>
   </data>
-  <data name="DynamicContentEntityInUse.Text" lastModified="2015-12-28 04:21:43">
+  <data name="DynamicContentEntityInUse.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El {0} con ID {1} está en uso y no se puede eliminiar.</value>
   </data>
-  <data name="EntityIsNotValid.Text" lastModified="2015-12-28 04:21:43">
+  <data name="EntityIsNotValid.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El elemento con el tipo '{0}' no es válido.</value>
   </data>
   <data name="ErrorCreatingBusinessControllerClass.Text">
     <value xml:space="preserve">Se ha producido un error al crear la clase controladora '{0}' del módulo ({1}) id=({2}), página ({3}), portal ({4})</value>
   </data>
-  <data name="ErrorMessageCannotBeNullOrEmpty.Text" lastModified="2015-12-28 04:21:43">
+  <data name="ErrorMessageCannotBeNullOrEmpty.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">ErrorKey y ErrorMessage no pueden ser nulos o vacíos.</value>
   </data>
-  <data name="FieldDefinitionInvalidDeadLoop.Text" lastModified="2015-12-28 04:21:43">
+  <data name="FieldDefinitionInvalidDeadLoop.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">No se puede crear el campo con el nombre {0} porque crearía una referencia circular.</value>
   </data>
   <data name="FileLockedOutOfPublishPeriodError.Text">
@@ -126,22 +132,22 @@
   <data name="InvalidPublishPeriod.Text">
     <value xml:space="preserve">La fecha final tiene que ser posterior a la fecha inicial.</value>
   </data>
-  <data name="InvalidValidatorException.Text" lastModified="2015-12-28 04:21:43">
+  <data name="InvalidValidatorException.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">No se puede crear el ValidatorType - {0}.</value>
   </data>
   <data name="InvalidZipFile.Text">
     <value xml:space="preserve">El archivo especificado no es un archivo comprimido zip.</value>
   </data>
-  <data name="IPAddressIncorrect.Text" lastModified="2018-03-24 09:25:59">
+  <data name="IPAddressIncorrect.Text" lastModified="2018-03-24 08:25:59">
     <value xml:space="preserve">La dirección IP no tiene un formato válido.</value>
   </data>
-  <data name="JsonContentTypeInvalid.Text" lastModified="2015-12-28 04:21:43">
+  <data name="JsonContentTypeInvalid.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El contentTypeId especificado en el documento json ({0}) no existe.</value>
   </data>
-  <data name="JsonInvalidField.Text" lastModified="2015-12-28 04:21:43">
+  <data name="JsonInvalidField.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">El tipo de contenido no incluye el campo - {0}.</value>
   </data>
-  <data name="JsonMissingContent.Text" lastModified="2015-12-28 04:21:43">
+  <data name="JsonMissingContent.Text" lastModified="2015-12-28 03:21:43">
     <value xml:space="preserve">No hay ningún nodo de contenido en el documento json.</value>
   </data>
   <data name="LuceneControllerIsDisposed.Text">
@@ -222,7 +228,7 @@
   <data name="ProfileService_UpdateVanityUrl.Error">
     <value xml:space="preserve">Se ha producido un error al actualizar la URL del perfil. Si continua viendo este mensaje, póngase en contacto con el administrador.</value>
   </data>
-  <data name="PropertyCannotBeEmpty.Text" lastModified="2015-12-28 05:22:14">
+  <data name="PropertyCannotBeEmpty.Text" lastModified="2015-12-28 04:22:14">
     <value xml:space="preserve">La propiedad '{1}' en el objeto '{0}' no puede ser vacía (total = 0).</value>
   </data>
   <data name="PropertyCannotBeNegative.Text">
@@ -255,10 +261,10 @@
   <data name="SearchIndexingDirectoryNoValid.Text">
     <value xml:space="preserve">El directorio del índice de búsqueda está vacío o no existe.</value>
   </data>
-  <data name="SitemapProviderError.Text" lastModified="2015-09-13 22:25:27">
+  <data name="SitemapProviderError.Text" lastModified="2015-09-13 20:25:27">
     <value xml:space="preserve">El proveedor de URL de sitemap '{0}' ha fallado con el siguiente error: {1}</value>
   </data>
-  <data name="SitemapUrlGenerationError.Text" lastModified="2015-09-13 22:25:27">
+  <data name="SitemapUrlGenerationError.Text" lastModified="2015-09-13 20:25:27">
     <value xml:space="preserve">La generación del sitemap para la página '{0} - {1}' ha producido un error: {2}</value>
   </data>
   <data name="StartDateMustNotBeInThePast.Text">
@@ -267,13 +273,13 @@
   <data name="StartDateRequired.Text">
     <value xml:space="preserve">La fecha inicial es obligatoria.</value>
   </data>
-  <data name="SubnetMaskIncorrect.Text" lastModified="2018-03-24 10:26:24">
+  <data name="SubnetMaskIncorrect.Text" lastModified="2018-03-24 09:26:24">
     <value xml:space="preserve">La máscara de subred no tiene un formato válido.</value>
   </data>
-  <data name="SystemContentTypesSecurityException.Text" lastModified="2015-12-28 06:23:13">
+  <data name="SystemContentTypesSecurityException.Text" lastModified="2015-12-28 05:23:13">
     <value xml:space="preserve">Los tipos de contenido de sistema solo pueden ser creados, modificados o eliminados por los superusuarios.</value>
   </data>
-  <data name="SystemDataTypesSecurityException.Text" lastModified="2015-12-28 06:23:13">
+  <data name="SystemDataTypesSecurityException.Text" lastModified="2015-12-28 05:23:13">
     <value xml:space="preserve">Los tipos de datos de sistema solo pueden ser creados, modificados o eliminados por los superusuarios.</value>
   </data>
   <data name="SystemWorkflowDeletionException.Text">
@@ -318,13 +324,13 @@
   <data name="UnderlyingSystemError.Text">
     <value xml:space="preserve">El sistema subyacente produjo una excepción.</value>
   </data>
-  <data name="UpdateUserMembershipFailed.Text" lastModified="2015-09-13 22:25:27">
+  <data name="UpdateUserMembershipFailed.Text" lastModified="2015-09-13 20:25:27">
     <value xml:space="preserve">Ha fallado la actualización de la cuenta Asp.net. Posible causa: ha activado "requiresrequiresUniqueEmail" en la sección "membership" del archivo web.config y sin embargo hay varios usuarios con el mismo correo que el usuario actual.</value>
   </data>
   <data name="UserCannotReviewWorkflowState.Text">
     <value xml:space="preserve">El usuario no puede modificar el estado del flujo de trabajo</value>
   </data>
-  <data name="UserDoesNotExist.Text" lastModified="2015-12-28 06:23:13">
+  <data name="UserDoesNotExist.Text" lastModified="2015-12-28 05:23:13">
     <value xml:space="preserve">El usuario que quiere seguir ya no existe.</value>
   </data>
   <data name="UserHasNoPermissionToAdd.Text">

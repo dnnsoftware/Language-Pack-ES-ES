@@ -12,21 +12,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <!--DOTWARE TST S.L.-->
   <data name="Activated.Header">
     <value xml:space="preserve">Activada</value>
   </data>
-  <data name="CheckOutEvoq">
-    <value xml:space="preserve">Evop un exhaustivo conjunto de funciones que su equipo adorará. Organizaciones de todo el mundo confían en Evoq para desarrollar potentes experiancias web.</value>
+  <data name="Community" lastModified="2020-05-09 00:37:05">
+    <value xml:space="preserve">DNN tiene una comunidad activa y vibrante. Visítenos y participe en nuestras actividades. Obtenga ayuda, discuta proyectos y manténgase al día de todas las novedades.</value>
   </data>
-  <data name="CheckOutEvoq.Header">
-    <value xml:space="preserve">PRUEBE EVOQ</value>
+  <data name="Community.Header" lastModified="2020-05-09 00:37:05">
+    <value xml:space="preserve">LA COMUNIDAD</value>
   </data>
-  <data name="DocumentCenter">
-    <value xml:space="preserve">En en centro de documentación de DNN encontrará todas las respuestas, tutoriales y ayuda del producto que pueda necesitar.</value>
+  <data name="Docs" lastModified="2020-05-09 02:38:57">
+    <value xml:space="preserve">DNN Docs tambíen es Open Souce! Aprenda como empezar con DNN, realize tutoriales paso a paso o lea la documentación de la API.</value>
   </data>
-  <data name="DocumentCenter.Header">
-    <value xml:space="preserve">CENTRO DE DOCUMENTACIÓN</value>
+  <data name="Docs.Header" lastModified="2020-05-09 02:38:57">
+    <value xml:space="preserve">DOCUMENTACIÓN</value>
   </data>
   <data name="Error.ACT1.Text">
     <value xml:space="preserve">Error en la activación de la licencia. Los detalles proporcionados no coinciden con una licencia válida.&lt;br /&gt;&lt;br /&gt;Verifique los detalles de su licencia en &lt;a href="{0}" target="_blank"&gt;su página de licencias en www.dnnsoftware.com&lt;/a&gt; e inténtelo de nuevo. Si el error continúa, póngase en contacto con el departamento de soporte técnico.</value>
@@ -74,6 +73,18 @@ No se ha podido añadir la activación de nuevo a su factura debido a un problem
   </data>
   <data name="Expires.Header">
     <value xml:space="preserve">CADUCA</value>
+  </data>
+  <data name="GitHub" lastModified="2020-05-09 08:44:50">
+    <value xml:space="preserve">La plataforma DNN se gestiona como un proyecto Open Source en GitHub. Visítenos en GitHub y participe. Registre incidencias, proporcione feedback y contribuya.</value>
+  </data>
+  <data name="GitHub.Header" lastModified="2020-05-09 08:44:50">
+    <value xml:space="preserve">CÓDIGO</value>
+  </data>
+  <data name="Intro" lastModified="2020-05-09 08:44:50">
+    <value xml:space="preserve">DNN® (anteriormente DotNetNuke®) es la plataforma Open Source líder para gestión de contenidos (CMS) en el ecosistema Microsoft. Con DNN se pueden crear sitios web profesionales y fáciles de utilizar, intranets sociales, portales de comunidades, o extranets de partners. Con contenidos dinámicos de muchos tipos diferentes, los sitios DNN se pueden instalar y actualizar muy fácilmente. La plataforma DNN se ha descargado más de 8 millones de veces y gestiona más de 750.000 sitios web a nivel mundial. La comunidad DNN de más de 1 millón de usuarios proporciona una potente red de soporte.</value>
+  </data>
+  <data name="Intro.Header" lastModified="2020-05-08 22:34:59">
+    <value xml:space="preserve">DNN Platform</value>
   </data>
   <data name="InvoiceNumber.Header">
     <value xml:space="preserve">NÚMERO DE FACTURA</value>
@@ -137,12 +148,6 @@ No se ha podido añadir la activación de nuevo a su factura debido a un problem
   </data>
   <data name="Success.TrialExtensionRequest">
     <value xml:space="preserve">Su solicitud de licencia ampliada de prueba se ha enviado. Debería recibir un mensaje en 1 día laborable con las instrucciones para ampliar su licencia. Si tiene preguntas sobre ampliaciones de la licencia de prueba, llame al Departamento Comercial de DotNetNuke Corp. en el 650-288-3150.</value>
-  </data>
-  <data name="UpgradeToEvoq">
-    <value xml:space="preserve">¿Está preparado para llevar su presencia web al siguiente nivel? Inicie una prueba gratuita o programe una demo personalizada para su equipo.</value>
-  </data>
-  <data name="UpgradeToEvoq.Header">
-    <value xml:space="preserve">ACTUALIZAR</value>
   </data>
   <data name="WebLicenseList.url">
     <value xml:space="preserve">http://www.dnnsoftware.com/Support/Success-Network/License-Management</value>
