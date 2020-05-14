@@ -150,11 +150,11 @@
   <data name="Permissions.Text">
     <value xml:space="preserve">Permisos</value>
   </data>
-  <data name="plAdminBorder.Help">
-    <value xml:space="preserve">Al marcar esta opción activará un borde rojo alredor del módulo visible para los administradores.</value>
+  <data name="plAdminBorder.Help" lastModified="2020-05-14 10:02:20">
+    <value xml:space="preserve">Marque esta opción para ocultar el mensaje de notificación que se muestra en la parte superior del módulo cuanto solo lo pueden ver los administradores.</value>
   </data>
-  <data name="plAdminBorder.Text">
-    <value xml:space="preserve">Ocultar borde de administrador</value>
+  <data name="plAdminBorder.Text" lastModified="2020-05-14 10:02:20">
+    <value xml:space="preserve">Ocultar mensaje de visibilidad administrador</value>
   </data>
   <data name="plAlign.Help">
     <value xml:space="preserve">Seleccione la alineación del módulo</value>
@@ -216,8 +216,8 @@
   <data name="plDisplayTitle.Text" lastModified="2015-12-28 08:23:16">
     <value xml:space="preserve">Mostrar el container</value>
   </data>
-  <data name="plEndDate.Help">
-    <value xml:space="preserve">Escriba la última fecha en que debe mostrarse el módulo. Si lo desea puede escoger la fecha en el calendario.</value>
+  <data name="plEndDate.Help" lastModified="2020-05-14 10:02:20">
+    <value xml:space="preserve">Seleccione la última fecha en que debe mostrarse el módulo. Después de esta fecha el módulo será visible solamente para los usuarios con permisos de gestión sobre el módulo.</value>
   </data>
   <data name="plEndDate.Text">
     <value xml:space="preserve">Fecha final:</value>
