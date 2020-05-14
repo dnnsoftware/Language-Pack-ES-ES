@@ -11,6 +11,7 @@
 !.\readme.md
 !.gitkeep
 !*/
+!.github/workflows/*
 
 # This is empty create manifest for editing
 !Install_empty_es-ES.dnn
