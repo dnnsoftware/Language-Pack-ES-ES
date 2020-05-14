@@ -15,13 +15,13 @@
   <data name="AddNewSite.Header">
     <value xml:space="preserve">Añadir nuevo sitio</value>
   </data>
-  <data name="AddNewSite.Text" lastModified="2017-04-29 05:30:28">
+  <data name="AddNewSite.Text" lastModified="2017-04-29 01:30:28">
     <value xml:space="preserve">Añadir nuevo sitio</value>
   </data>
   <data name="AssignCurrentUserAsAdmin.Label">
     <value xml:space="preserve">Añadir usuario actual como Administrador</value>
   </data>
-  <data name="BackToSites.Text" lastModified="2017-02-05 14:51:46">
+  <data name="BackToSites.Text" lastModified="2017-02-05 12:51:46">
     <value xml:space="preserve">Volver a la lista de sitios</value>
   </data>
   <data name="BasicSettings.Text">
@@ -47,6 +47,9 @@
   </data>
   <data name="ControlTitle_template.Text">
     <value xml:space="preserve">Crear plantilla de sitio</value>
+  </data>
+  <data name="CreatePortalHomeFolderExists.Error" lastModified="2020-05-09 09:29:29">
+    <value xml:space="preserve">La carpeta de portal {0} ya está en uso.</value>
   </data>
   <data name="CreateSite_AdminEmail.Label">
     <value xml:space="preserve">Email</value>
@@ -81,7 +84,7 @@
   <data name="Description.Label">
     <value xml:space="preserve">Descripción</value>
   </data>
-  <data name="Description.Text" lastModified="2017-04-29 05:30:28">
+  <data name="Description.Text" lastModified="2017-04-29 01:30:28">
     <value xml:space="preserve">Descripción</value>
   </data>
   <data name="Directory.Text">
@@ -277,7 +280,13 @@
   <data name="SiteDetails_Users.Text">
     <value xml:space="preserve">Usuarios</value>
   </data>
-  <data name="Sites.Text" lastModified="2017-04-29 05:30:28">
+  <data name="SiteExport.Text" lastModified="2018-03-24 17:31:49">
+    <value xml:space="preserve">Exportar sitio</value>
+  </data>
+  <data name="SiteImport.Text" lastModified="2018-03-24 17:31:49">
+    <value xml:space="preserve">Impotar sitio</value>
+  </data>
+  <data name="Sites.Text" lastModified="2017-04-29 01:30:28">
     <value xml:space="preserve">Sitios</value>
   </data>
   <data name="SiteSettings.Text">

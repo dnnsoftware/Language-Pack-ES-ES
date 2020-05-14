@@ -18,25 +18,25 @@
   <data name="ControlTitle_exportmodule.Text">
     <value xml:space="preserve">Exportar módulo</value>
   </data>
-  <data name="Error.Text" lastModified="2015-12-28 06:47:42">
-    <value xml:space="preserve">Se h aproducido un error durante la exportación.</value>
+  <data name="Error.Text" lastModified="2020-05-08 16:12:26">
+    <value xml:space="preserve">Se ha producido un error durante la exportación.</value>
   </data>
-  <data name="ExportNotSupported.Text" lastModified="2015-12-28 06:47:42">
-    <value xml:space="preserve">El módulo especificado no soporta la exportación del contenido.</value>
+  <data name="ExportNotSupported.Text" lastModified="2020-05-08 16:12:26">
+    <value xml:space="preserve">El módulo especificado no soporta la exportación de contenido.</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;h1&gt;Exportar Módulo&lt;/h1&gt;&lt;p&gt;Los administradores pueden exportar contenido para el módulo especificado.&lt;/p&gt;</value>
   </data>
-  <data name="NoContent.Text" lastModified="2015-12-28 06:47:42">
+  <data name="NoContent.Text" lastModified="2015-12-28 05:47:42">
     <value xml:space="preserve">El módulo seleccionado no tiene ningún contenido.</value>
   </data>
-  <data name="plFile.Help" lastModified="2015-12-28 06:47:42">
+  <data name="plFile.Help" lastModified="2015-12-28 05:47:42">
     <value xml:space="preserve">Indique el nombre del archivo de exportación.</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Archivo</value>
   </data>
-  <data name="plFolder.Help" lastModified="2015-12-28 06:47:42">
+  <data name="plFolder.Help" lastModified="2015-12-28 05:47:42">
     <value xml:space="preserve">Seleccione la carpeta de exportación.</value>
   </data>
   <data name="plFolder.Text">
@@ -45,7 +45,7 @@
   <data name="Root.Text">
     <value xml:space="preserve">Raíz</value>
   </data>
-  <data name="Validation.Text" lastModified="2015-12-28 06:47:42">
+  <data name="Validation.Text" lastModified="2015-12-28 05:47:42">
     <value xml:space="preserve">Debe especificar un archivo y una carpeta para la exportación.</value>
   </data>
 </root>

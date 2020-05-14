@@ -12,7 +12,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <!--DOTWARE TST S.L.-->
   <data name="Actions.Header">
     <value xml:space="preserve">Acciones</value>
   </data>
@@ -67,20 +66,23 @@
   <data name="CannotDelete.Text">
     <value xml:space="preserve">No puede eliminar esta regla puesto que causaría el bloqueo de la IP actual.</value>
   </data>
-  <data name="CheckAllowableFileExtensionsFailure.Text">
-    <value xml:space="preserve">Se han encontrado las extensiones asp, aspx o php en las extensiones permitidas. Esto puede permitir cargar archivos con código ejecutable. Puede borrar estas extensiones en Configuración -&gt; Más -&gt; Más opciones de seguridad -&gt; Extensiones permitidas.</value>
+  <data name="Check.Text" lastModified="2018-03-24 01:17:31">
+    <value xml:space="preserve">[ Comprobar ]</value>
+  </data>
+  <data name="CheckAllowableFileExtensionsFailure.Text" lastModified="2018-03-24 11:27:13">
+    <value xml:space="preserve">Se han encontrado las extensiones asp, aspx o php en las extensiones permitidas. Esto puede permitir cargar archivos con código ejecutable. Puede borrar estas extensiones en Configuración - Más - Más opciones de seguridad - Extensiones permitidas.</value>
   </data>
   <data name="CheckAllowableFileExtensionsName.Text">
     <value xml:space="preserve">Comprueba si se permite la carga de archivos con extensiones peligrosas.</value>
   </data>
-  <data name="CheckAllowableFileExtensionsReason.Text">
-    <value xml:space="preserve">Se han encontrado las extensiones asp, aspx o php en las extensiones permitidas. Esto puede permitir cargar archivos con código ejecutable. Puede borrar estas extensiones en Configuración -&gt; Más -&gt; Más opciones de seguridad -&gt; Extensiones permitidas.</value>
+  <data name="CheckAllowableFileExtensionsReason.Text" lastModified="2018-03-24 12:27:34">
+    <value xml:space="preserve">Se han encontrado las extensiones asp, aspx o php en las extensiones permitidas. Esto puede permitir cargar archivos con código ejecutable. Puede borrar estas extensiones en Configuración - Más - Más opciones de seguridad - Extensiones permitidas.</value>
   </data>
   <data name="CheckAllowableFileExtensionsSuccess.Text">
     <value xml:space="preserve">Las extensiones permitidas son correctas.</value>
   </data>
-  <data name="CheckBiographyFailure.Text">
-    <value xml:space="preserve">El campo permite texto enriquecido. Los spammers pueden añadir enlaces o html.</value>
+  <data name="CheckBiographyFailure.Text" lastModified="2020-05-09 01:24:15">
+    <value xml:space="preserve">El campo permite texto enriquecido. Los spammers pueden añadir enlaces a webs en su campo de biografía. El tipo del campo se puede cambiar en CONFIGURACIÓN -&gt; Configuración del sitio -&gt; Comportamiento del sitio -&gt; Perfil de usuario.</value>
   </data>
   <data name="CheckBiographyName.Text">
     <value xml:space="preserve">Valida si el perfil público permite texto enriquecido.</value>
@@ -88,8 +90,8 @@
   <data name="CheckBiographyReason.Text">
     <value xml:space="preserve">El campo de biografía es un vector frecuente para los spammers puesto que pueden añadir enlaces o html. A partir de DNN 7.2.0 este campo se ha cambiado a un campo de texto que elimina este riesgo.</value>
   </data>
-  <data name="CheckBiographySuccess.Text">
-    <value xml:space="preserve">El campo está definido como un campo de texto.</value>
+  <data name="CheckBiographySuccess.Text" lastModified="2020-05-09 03:25:03">
+    <value xml:space="preserve">El campo no está activado o está definido como un campo de texto.</value>
   </data>
   <data name="CheckDebugFailure.Text">
     <value xml:space="preserve">debug está activado. Debería modificar el archivo web.config y establecer este valor a 'false'.</value>
@@ -154,8 +156,8 @@
   <data name="CheckModuleHeaderAndFooterSuccess.Text">
     <value xml:space="preserve">No se han encontrado módulos con cabeceras o pies configurados.</value>
   </data>
-  <data name="CheckPasswordFormatFailure.Text">
-    <value xml:space="preserve">La opción "passwordFormat" no está establecida como "Hashed" en web.config. Considere cambiar esta opción a "Hashed".</value>
+  <data name="CheckPasswordFormatFailure.Text" lastModified="2018-03-24 10:26:25">
+    <value xml:space="preserve">La opción "passwordFormat" no está establecida como "Hashed" en web.config. Considere cambiar esta opción a "Hashed". Para más información consulte &lt;a href="http://www.dnnsoftware.com/wiki/hashed-passwords" target="_blank"&gt;aquí&lt;/a&gt;.</value>
   </data>
   <data name="CheckPasswordFormatName.Text">
     <value xml:space="preserve">Verificar configuración del formato de contraseñas</value>
@@ -217,6 +219,18 @@
   <data name="CheckSuperuserOldPasswordSuccess.Text">
     <value xml:space="preserve">Todos los superusuarios han actualizado su contraseña en los últimos 6 meses.</value>
   </data>
+  <data name="CheckTelerikVulnerabilityFailure.Text" lastModified="2018-03-24 02:19:44">
+    <value xml:space="preserve">La vulnerabilidad del componente Telerik no se ha corregido. Vaya a http://www.dnnsoftware.com/community-blog/cid/155449/critical-security-update--september2017 para ver la información detallada y descargar la actualización.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilityName.Text" lastModified="2018-03-24 02:19:44">
+    <value xml:space="preserve">Comprobar si el componente Telerik tiene vulnerabilidades.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilityReason.Text" lastModified="2018-03-24 02:19:44">
+    <value xml:space="preserve">Componentes de terceros utilizados en DNN pueden tener vulnerabilidades y requerir una actualización.</value>
+  </data>
+  <data name="CheckTelerikVulnerabilitySuccess.Text" lastModified="2018-03-24 02:19:44">
+    <value xml:space="preserve">Componente Telerik ya actualizado.</value>
+  </data>
   <data name="CheckTracing.Text">
     <value xml:space="preserve">Tracing está activado. Debería modificar el archivo web.config y establecer este valor a 'false'.</value>
   </data>
@@ -250,8 +264,8 @@
   <data name="CheckViewstatemacName.Text">
     <value xml:space="preserve">Verificar si el Viewstate está protegido.</value>
   </data>
-  <data name="CheckViewstatemacReason.Text">
-    <value xml:space="preserve">Un Viewstate MAC es una versión encriptada de la variable oculta donde se guarda el estado de la página cuando ésta se envia al navegador. Si esta propiedad esta activada, el campo encriptado se verifica para comprobar que el estado no se haya modificado en el cliente.</value>
+  <data name="CheckViewstatemacReason.Text" lastModified="2020-05-09 05:26:09">
+    <value xml:space="preserve">Un Viewstate MAC es una versión encriptada de la variable oculta donde se guarda el estado de la página cuando ésta se envia al navegador. Si esta propiedad está activada, el campo encriptado se verifica para comprobar que el estado no se haya modificado en el cliente.</value>
   </data>
   <data name="CheckViewstatemacSuccess.Text">
     <value xml:space="preserve">El Viewstate está protegido con el uso de MAC.</value>
@@ -298,6 +312,9 @@
   <data name="Delete.Text">
     <value xml:space="preserve">Eliminar filtro</value>
   </data>
+  <data name="DeletedTab.Text" lastModified="2018-03-24 03:20:35">
+    <value xml:space="preserve">La página con el ID {0} está eliminada.</value>
+  </data>
   <data name="DeleteError.Text">
     <value xml:space="preserve">No se ha podido eliminar el filtro. Vuelva a intentarlo.</value>
   </data>
@@ -307,6 +324,9 @@
   <data name="DenyIP.Text">
     <value xml:space="preserve">Bloquear</value>
   </data>
+  <data name="Disabled.Text" lastModified="2018-03-24 03:20:35">
+    <value xml:space="preserve">La página con el ID {0} está desactivada.</value>
+  </data>
   <data name="DisplayName.Header">
     <value xml:space="preserve">Nombre</value>
   </data>
@@ -315,6 +335,9 @@
   </data>
   <data name="Email.Header">
     <value xml:space="preserve">Email</value>
+  </data>
+  <data name="Empty.Text" lastModified="2018-03-24 03:20:35">
+    <value xml:space="preserve">{0} no puede estar vacío.</value>
   </data>
   <data name="ExecuteCommand.Error">
     <value xml:space="preserve">La cuenta SQL Server puede ejecutar xp_cmdshell que permite ejecutar programas en la línea de comandos del servidor SQL Server.</value>
@@ -418,6 +441,9 @@
   <data name="MemberSettingsUpdateSuccess.Text">
     <value xml:space="preserve">Se ha actualizado la configuración de usuarios.</value>
   </data>
+  <data name="MembershipDaysBeforePasswordReuse.ErrorMessage" lastModified="2018-03-24 04:21:41">
+    <value xml:space="preserve">El número de días antes la reutilización de contrañas tiene que ser un números entre 0 y 10000.</value>
+  </data>
   <data name="MembershipNumberPasswords.ErrorMessage">
     <value xml:space="preserve">El número de contraseñas a guardar tiene que ser un número entre 0 y 10000.</value>
   </data>
@@ -477,6 +503,9 @@
   </data>
   <data name="Notes.Text">
     <value xml:space="preserve">ATENCIÓN</value>
+  </data>
+  <data name="NotValid.Text" lastModified="2018-03-24 05:21:59">
+    <value xml:space="preserve">{0} {1} no és válido.</value>
   </data>
   <data name="OtherSettingsError.Text">
     <value xml:space="preserve">No se ha podido actualizar la configuración. Vuelva a intentarlo.</value>
@@ -568,6 +597,12 @@
   <data name="plDebugMode.Text">
     <value xml:space="preserve">Modo depuración</value>
   </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Help" lastModified="2020-05-09 09:37:41">
+    <value xml:space="preserve">Lista de extensiones de archivos permitidas para subir al sitio web. Los administradores del sitio pueden sobreescribir esta opción pero no podrán añadir otros tipos no incluidos en la lista principal. Nota: esta lista se filtrará con la lista superior al guardar.</value>
+  </data>
+  <data name="plDefaultEndUserExtensionWhitelist.Text" lastModified="2020-05-09 09:37:41">
+    <value xml:space="preserve">Lista permitida de extensiones para usuarios</value>
+  </data>
   <data name="plEnableBannedList.Help">
     <value xml:space="preserve">Indica si se comprobarán las contraseñas a partir de la lista de términos prohibidos.</value>
   </data>
@@ -598,8 +633,8 @@
   <data name="plEnableStrengthMeter.Text">
     <value xml:space="preserve">Activar la validación de seguridad de contraseña</value>
   </data>
-  <data name="plFileExtensions.Help">
-    <value xml:space="preserve">Escriba las extensiones de archivos permitidas (separadas por comas)</value>
+  <data name="plFileExtensions.Help" lastModified="2020-05-09 11:38:41">
+    <value xml:space="preserve">Escriba las extensiones de archivos permitidas (separadas por comas) para los archivos que suban los administradores del sitio.</value>
   </data>
   <data name="plFileExtensions.Text">
     <value xml:space="preserve">Extensiones de archivos permitidas:</value>
@@ -609,6 +644,12 @@
   </data>
   <data name="plFirstIP.Text">
     <value xml:space="preserve">Primera IP</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Help" lastModified="2020-05-08 23:22:16">
+    <value xml:space="preserve">Forzar el cierre de sesión en otros navegadores después de cambiar la contraseña de un usuario.</value>
+  </data>
+  <data name="plForceLogOutAfterPasswordChanged.Text" lastModified="2020-05-08 23:22:16">
+    <value xml:space="preserve">Forzar cierre de sesión al cambiar contraseña</value>
   </data>
   <data name="plHideLoginControl.Help">
     <value xml:space="preserve">Marque esta opción para ocultar el enlace a la página de identificación.</value>
@@ -627,6 +668,12 @@
   </data>
   <data name="plNumberPasswords.Text">
     <value xml:space="preserve">Número de contraseñas a guardar</value>
+  </data>
+  <data name="plPasswordDays.Help" lastModified="2018-03-24 07:23:31">
+    <value xml:space="preserve">Indique los días que tienen que pasar antes de poder reutilizar una contraseña.</value>
+  </data>
+  <data name="plPasswordDays.Text" lastModified="2018-03-24 07:23:31">
+    <value xml:space="preserve">Número de días antes de reutilizar contraseñas</value>
   </data>
   <data name="plRememberMe.Help">
     <value xml:space="preserve">Configura la casilla de verificación Recordar en los controles de acceso. Si activa esta opción los usuarios podrán crear cookies persistentes para recordar la identificación</value>
@@ -892,8 +939,8 @@
   <data name="Security_RequireValidProfileAtLogin.Text">
     <value xml:space="preserve">Requerir perfil válido para iniciar sesión</value>
   </data>
-  <data name="Security_UserNameValidation.Help">
-    <value xml:space="preserve">Puede introducir una expresión regular para validar los nombres de usuarios proporcionados. Si cambia esta opción tiene que proporcionar el mensaje de error que se mostrará a los usuarios cuando seleccionen un nombre de usuario inválido. (SharedResources.resx - Username.RegExError)</value>
+  <data name="Security_UserNameValidation.Help" lastModified="2018-03-24 09:25:25">
+    <value xml:space="preserve">Puede introducir una expresión regular para validar los nombres de usuarios proporcionados. Si cambia esta opción tiene que proporcionar el mensaje de error que se mostrará a los usuarios cuando seleccionen un nombre de usuario inválido en Configuración - Configuración del sitio - Idiomas.</value>
   </data>
   <data name="Security_UserNameValidation.Text">
     <value xml:space="preserve">Validación de nombre de usuario</value>
@@ -990,6 +1037,9 @@
   </data>
   <data name="Username.Text">
     <value xml:space="preserve">USUARIO</value>
+  </data>
+  <data name="UserNotMemberOfRole.Text" lastModified="2018-03-24 08:23:57">
+    <value xml:space="preserve">El usuario no es miembro del rol {0}.</value>
   </data>
   <data name="Verified.Text">
     <value xml:space="preserve">Verificado</value>

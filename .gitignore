@@ -1,0 +1,22 @@
+#################
+## DNN es-ES.resx translations from a working site
+#################
+
+# Forget all files
+*
+
+# Except the following
+!.gitattributes
+!.gitignore
+!.\readme.md
+!.gitkeep
+!*/
+
+# This is empty create manifest for editing
+!Install_empty_es-ES.dnn
+
+# And certainly not the translated resx files, but not the created artifacts
+!*[a-zA-Z].es-ES.resx
+
+# Don't forget  the language pack manifest
+!resources\DNNCE_es-ES.dnn

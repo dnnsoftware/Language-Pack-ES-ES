@@ -39,7 +39,7 @@
   <data name="ASSEMBLY_Added.Text">
     <value xml:space="preserve">Ensamblados registrados</value>
   </data>
-  <data name="ASSEMBLY_AddedBindingRedirect.Text" lastModified="2015-09-14 04:35:37">
+  <data name="ASSEMBLY_AddedBindingRedirect.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Redirección de ensamblado añadida</value>
   </data>
   <data name="ASSEMBLY_InUse.Text">
@@ -48,7 +48,7 @@
   <data name="ASSEMBLY_Registered.Text">
     <value xml:space="preserve">Ensamblado ya registrado</value>
   </data>
-  <data name="ASSEMBLY_RemovedBindingRedirect.Text" lastModified="2015-09-14 04:35:37">
+  <data name="ASSEMBLY_RemovedBindingRedirect.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Redirección de ensamblado eliminada</value>
   </data>
   <data name="ASSEMBLY_UnRegistered.Text">
@@ -125,6 +125,9 @@
   </data>
   <data name="CLEANUP_ProcessComplete.Text">
     <value xml:space="preserve">Se ha completado el proceso del archivo de limpieza - {0}</value>
+  </data>
+  <data name="CLEANUP_ProcessError.Text" lastModified="2020-05-08 02:17:31">
+    <value xml:space="preserve">Se ha producido un error durante el proceso de limpieza de archivos: {0}</value>
   </data>
   <data name="CLEANUP_Processing.Text">
     <value xml:space="preserve">Procesando el archivo de limpieza - {0}</value>
@@ -231,7 +234,7 @@
   <data name="Containers.Text">
     <value xml:space="preserve">Containers</value>
   </data>
-  <data name="ContentType.Text" lastModified="2015-12-28 07:55:22">
+  <data name="ContentType.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Tipo de contenido</value>
   </data>
   <data name="ContractExpired.Error">
@@ -257,6 +260,9 @@
   </data>
   <data name="CreatePortal.Error">
     <value xml:space="preserve">Error creando el sitio web</value>
+  </data>
+  <data name="CreatePortalHomeFolderExists.Error" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">La carpeta {0} ya está en uso.</value>
   </data>
   <data name="CreateProfileDefinitions.Error">
     <value xml:space="preserve">Error creando las definiciones del perfil</value>
@@ -288,7 +294,7 @@
   <data name="DASHBOARD_UnRegistered.Text">
     <value xml:space="preserve">Panel de control (Dashboard), desregistrado satisfactoriamente.</value>
   </data>
-  <data name="DataType.Text" lastModified="2015-12-28 07:55:22">
+  <data name="DataType.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Tipo de datos</value>
   </data>
   <data name="Day.Text">
@@ -678,8 +684,8 @@
   <data name="FileUpload.UnzipFilePromptTitle.Text">
     <value xml:space="preserve">Información de la extracción</value>
   </data>
-  <data name="FileUpload.UnzipFileSuccessPromptBody.Text">
-    <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] de [TOTAL] archivos se han extraído correctamente.&lt;/div&gt;</value>
+  <data name="FileUpload.UnzipFileSuccessPromptBody.Text" lastModified="2018-03-24 02:39:03">
+    <value xml:space="preserve">&lt;div class="validFiles"&gt;&lt;p&gt;[TOTAL] de [TOTAL] archivos se han extraído correctamente.&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="FileWrite.Text">
     <value xml:space="preserve">Escribiendo archivo</value>
@@ -792,17 +798,17 @@
   <data name="IgnoreFriend.Text">
     <value xml:space="preserve">Ignorar petición de amistad</value>
   </data>
-  <data name="InsecureAdmin.Text">
-    <value xml:space="preserve">Su cuenta de administrador está utilizando la contraseña predeterminada. Puede cambiarla en Administración -&gt; Cuentas de usuario. Verifique también que ha establecido un email válido.</value>
+  <data name="InsecureAdmin.Text" lastModified="2020-05-09 00:25:58">
+    <value xml:space="preserve">Su cuenta de administrador está utilizando la contraseña predeterminada. Vaya al menú GESTIONAR -&gt; Usuarios y actualice la contraseña. Verifique también que ha establecido un email válido.</value>
   </data>
-  <data name="InsecureDefaults.Text">
-    <value xml:space="preserve">Las cuentas de sistema y admin están usando las contraseñas predeterminadas. Vaya al elemento apropiado (Sistema -&gt; Cuentas de superusuarios o Administración -&gt; Cuentas de usuario) y actualice las contraseñas. Asegurese de proporcionar direcciones de email válidas.</value>
+  <data name="InsecureDefaults.Text" lastModified="2020-05-09 02:27:09">
+    <value xml:space="preserve">Las cuentas de sistema (host) y administrador (admin) están usando las contraseñas predeterminadas. Vaya al menú GESTIONAR -&gt; Usuarios y actualice las contraseñas. Asegurese de proporcionar direcciones de email válidas.</value>
   </data>
   <data name="InsecureDefaults.Title">
     <value xml:space="preserve">Cuenta insegura.</value>
   </data>
-  <data name="InsecureHost.Text">
-    <value xml:space="preserve">Su cuenta de sistema (superusuario) está utilizando la contraseña predeterminada. Vaya a Sistema -&gt;Cuentas de superusuarios y actualice la contraseña.</value>
+  <data name="InsecureHost.Text" lastModified="2020-05-09 00:25:58">
+    <value xml:space="preserve">Su cuenta de sistema (superusuario) está utilizando la contraseña predeterminada. Vaya al menú GESTIONAR -&gt; Usuarios y actualice la contraseña.</value>
   </data>
   <data name="InsertSmileyButton.Text">
     <value xml:space="preserve">Insertar emoticono</value>
@@ -860,6 +866,12 @@
   </data>
   <data name="InvalidFileName.Text">
     <value xml:space="preserve">Nombre de archivo no válido - el nombre de archivo no puede contener '</value>
+  </data>
+  <data name="InvalidFirstName.Text" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">El nombre especificado no es válido.</value>
+  </data>
+  <data name="InvalidLastName.Text" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">El apellido especificado no es válido.</value>
   </data>
   <data name="InvalidPassword.Text">
     <value xml:space="preserve">La contraseña no es válida. Escriba una contraseña válida. Las contraseñas deben tener al menos [PasswordLenght] caracteres de longitud, contener al menos [NoneAlphabet] caracteres no alfanuméricos y no pueden coincidir con el nombre de usuario.</value>
@@ -1071,16 +1083,16 @@
   <data name="MinutesAgo.Text">
     <value xml:space="preserve">Hace {0} minutos</value>
   </data>
-  <data name="MODULE_AdminPageAdded.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_AdminPageAdded.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Página de administración {0} añadida al portal {1}.</value>
   </data>
-  <data name="MODULE_AdminPagemoduleAdded.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_AdminPagemoduleAdded.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Módulo añadido a la página de administración {0} del portal {1}.</value>
   </data>
-  <data name="MODULE_AdminPagemoduleRemoved.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_AdminPagemoduleRemoved.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Módulo eliminado de la página de administración {0} del portal {1}.</value>
   </data>
-  <data name="MODULE_AdminPageRemoved.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_AdminPageRemoved.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Página de administración {0} eliminada del portal {1}.</value>
   </data>
   <data name="MODULE_ControlKeyMissing.Text">
@@ -1092,19 +1104,19 @@
   <data name="MODULE_FriendlyNameMissing.Text">
     <value xml:space="preserve">Falta la nombre amigable (FriendlyName) del módulo</value>
   </data>
-  <data name="MODULE_HostAdded.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_HostAdded.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Módulo añadido a la página de sistema {0}.</value>
   </data>
-  <data name="MODULE_HostPageAdded.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_HostPageAdded.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Página de sistema {0} añadida.</value>
   </data>
-  <data name="MODULE_HostPagemoduleAdded.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_HostPagemoduleAdded.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Módulo añadido a la página de sistema {0}.</value>
   </data>
-  <data name="MODULE_HostPagemoduleRemoved.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_HostPagemoduleRemoved.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Módulo eliminado de la página de sistema {0}.</value>
   </data>
-  <data name="MODULE_HostPageRemoved.Text" lastModified="2015-12-28 07:55:22">
+  <data name="MODULE_HostPageRemoved.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Página de sistema {0} eliminada.</value>
   </data>
   <data name="MODULE_InvalidVersion.Text">
@@ -1146,6 +1158,9 @@
   <data name="ModuleNotIntended.Text">
     <value xml:space="preserve">Este módulo solo se puede utilizar en una página configurada como la página de perfil del portal.</value>
   </data>
+  <data name="ModuleShared.Text" lastModified="2018-03-24 01:37:04">
+    <value xml:space="preserve">Módulo compartido</value>
+  </data>
   <data name="ModuleUnavailable.Text">
     <value xml:space="preserve">Error: {0} no está disponible ahora.</value>
   </data>
@@ -1185,7 +1200,7 @@
   <data name="None_Specified.Text">
     <value xml:space="preserve">Ninguno especificado</value>
   </data>
-  <data name="NoRecords.Text" lastModified="2015-12-28 07:55:22">
+  <data name="NoRecords.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">No se han encontrado registros</value>
   </data>
   <data name="Not_Specified.Text">
@@ -1208,6 +1223,12 @@
   </data>
   <data name="OAuthConfigBase_Enabled.Text">
     <value xml:space="preserve">Activar</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Help" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">Marque esta opción para guardar la configuración a nivel de sistema de forma que todos los sitios web de la instalación compartan la misma configuración para este proveedor de autenticación.</value>
+  </data>
+  <data name="OAuthConfigBase_HostConfig.Text" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">¿Utilizar configuración de sistema?</value>
   </data>
   <data name="OAuthConfigBase_LoginURL.Help">
     <value xml:space="preserve">Introduzca la URL de la página de identificación de su web.</value>
@@ -1269,13 +1290,13 @@
   <data name="Password.Text">
     <value xml:space="preserve">Contraseña:</value>
   </data>
-  <data name="PasswordBanned.Text" lastModified="2015-12-28 07:55:22">
+  <data name="PasswordBanned.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">La nueva contraseña no es válida; es una palabra prohibida o es igual que su nombre de usuario.</value>
   </data>
   <data name="PasswordChanged.Text">
     <value xml:space="preserve">La contraseña se ha modificado.</value>
   </data>
-  <data name="PasswordInadequate.Text" lastModified="2015-12-28 07:55:22">
+  <data name="PasswordInadequate.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">La nueva contraseña es válida por motivos de seguridad. Introduzca una nueva contraseña suficientemente larga y compleja para cumplir con los requisitos de seguridad de este sitio.</value>
   </data>
   <data name="PasswordInvalid.Text">
@@ -1296,16 +1317,16 @@
   <data name="PasswordResetFailed.Text">
     <value xml:space="preserve">Su nueva contraseña no se ha acceptado por motivos de seguridad. Verifique que ha escogido una contraseña que no coincide con una anterior y que es lo suficientemente larga y compleja para satisfacer los requisitos de seguridad del sitio web</value>
   </data>
-  <data name="PasswordResetFailed_PasswordInHistory.Text" lastModified="2015-09-14 04:35:37">
+  <data name="PasswordResetFailed_PasswordInHistory.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Su nueva contraseña no se ha aceptado por razones de seguridad. Verifique que introduzce otra contraseña que no haya utilizado antes.</value>
   </data>
-  <data name="PasswordResetFailed_ResetLinkExpired.Text" lastModified="2015-09-14 04:35:37">
+  <data name="PasswordResetFailed_ResetLinkExpired.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Su nueva contraseña no se ha aceptado por razones de seguridad. El enlace para modificar la contraseña ha caducado y ya no es válido.</value>
   </data>
-  <data name="PasswordResetFailed_UserUndefined.Text" lastModified="2015-09-14 04:35:37">
+  <data name="PasswordResetFailed_UserUndefined.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Su nueva contraseña no se ha aceptado por razones de seguridad. Verifique que introduzce otra contraseña que no haya utilizado antes y que el nombre de usuario es correcto.</value>
   </data>
-  <data name="PasswordResetFailed_WrongAnswer.Text" lastModified="2015-09-14 04:35:37">
+  <data name="PasswordResetFailed_WrongAnswer.Text" lastModified="2015-09-13 06:35:37">
     <value xml:space="preserve">Su nueva contraseña no se ha aceptado por razones de seguridad. Verifique que introduzce correctamente su nombre de usuario y la respuesta de seguridad.</value>
   </data>
   <data name="PermissionActionsHeader.Text">
@@ -1332,10 +1353,13 @@
   <data name="PortalTemplate.Error">
     <value xml:space="preserve">Error analizando la plantilla web del sitio</value>
   </data>
+  <data name="PotentialDangerousFile.Text" lastModified="2018-03-24 01:37:04">
+    <value xml:space="preserve">Se ha añadido un archivo potencialmente peligroso al sitio</value>
+  </data>
   <data name="Previous.Text">
     <value xml:space="preserve">Anterior</value>
   </data>
-  <data name="PrivateConfirmationMessage.Text" lastModified="2017-04-29 05:20:21">
+  <data name="PrivateConfirmationMessage.Text" lastModified="2017-04-28 07:20:21">
     <value xml:space="preserve">&lt;strong&gt;Se ha enviadao un email con los detalles de su registro al administrador de la web para su verificación. Una vez que su registro haya sido aprobado se le enviará un email a su dirección. Mientras tanto puede continuar navegado por el sitio.&lt;/strong&gt;</value>
   </data>
   <data name="PrivateMembership.Text">
@@ -1347,8 +1371,8 @@
   <data name="ProcessToken.Text">
     <value xml:space="preserve">Procesando token</value>
   </data>
-  <data name="ProfileUrlCleaned.Text">
-    <value xml:space="preserve">La URL proporcionada contiene caráteres ilegales y se han eliminado. Puede clicar en actualizar de nuevo para acceptar la URL modificada.</value>
+  <data name="ProfileUrlCleaned.Text" lastModified="2020-05-09 08:30:02">
+    <value xml:space="preserve">La URL proporcionada contiene caracteres ilegales y se han eliminado. Puede clicar en actualizar para acceptar la URL modificada.</value>
   </data>
   <data name="ProfileUrlNotUnique.Text">
     <value xml:space="preserve">La URL proporcionada no está disponible y se ha sugerido una alternativa. Si está de acuerdo con esta opción pulse para actualizar.</value>
@@ -1368,7 +1392,7 @@
   <data name="PURGEUSERS.Log">
     <value xml:space="preserve">La lista de usuarios en línea ha sido vaciada satisfactoriamente</value>
   </data>
-  <data name="QuickSettings.Text" lastModified="2015-12-28 07:55:22">
+  <data name="QuickSettings.Text" lastModified="2015-12-27 20:55:22">
     <value xml:space="preserve">Configuración rápida</value>
   </data>
   <data name="ReadError.Text">
@@ -1425,6 +1449,17 @@
   <data name="RestrictedFileType.Text">
     <value xml:space="preserve">El archivo {0} no es de un tipo permitido. Las extensiones permitidas incluyen: {1}. Póngase en contacto con su proveedor de alojamiento si necesita subir un tipo de archivo no permitido actualmente.</value>
   </data>
+  <data name="RestrictFileMail_Body.Text" lastModified="2018-03-24 00:35:54">
+    <value xml:space="preserve">&lt;p&gt;Apreciado administrador,&lt;/p&gt;
+&lt;p&gt;El monitor de seguridad ha detectado que uno o más &lt;b&gt;archivos potencialmente peligrosos&lt;/b&gt; han sido cargados a su web. Para ver todos los archivos cargados, revise el registro de eventos del sitio. Si ya era consciente de esta acción puede ignorar este email, en cualquier otro caso le recomendamos una acción immediata.&lt;/p&gt;
+&lt;p&gt;Archivos(s) añadido(s):&lt;br/&gt;&lt;b&gt;[Path]&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Atentamente,&lt;/p&gt;
+&lt;p&gt;[AppName] [AppVersion]&lt;/p&gt;</value>
+  </data>
+  <data name="RestrictFileMail_Subject.Text" lastModified="2018-03-24 00:35:54">
+    <value xml:space="preserve">Se ha añadido un archivo potencialmente peligroso al sitio</value>
+  </data>
   <data name="Review.Text">
     <value xml:space="preserve">Revisar</value>
   </data>
@@ -1452,7 +1487,7 @@
   <data name="ScriptCollision.Text">
     <value xml:space="preserve">Esta página include más de una petición a diferentes versiones de una libreria JavaScript. Puede ver más detalles en el visor de eventos.</value>
   </data>
-  <data name="Search.Text" lastModified="2017-04-29 03:19:32">
+  <data name="Search.Text" lastModified="2017-04-28 05:19:32">
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="SEARCH_NoLink.Text">
@@ -1532,6 +1567,9 @@
   </data>
   <data name="SMTPConfigurationProblem.Text">
     <value xml:space="preserve">Hay un problema con la configuración del servidor SMTP. El correo no se ha enviado.</value>
+  </data>
+  <data name="SmtpInvalidPort.Text" lastModified="2018-03-24 01:37:04">
+    <value xml:space="preserve">El puerto especificado no es válido. El puerto tiene que ser un valor entre0 y 65536. El email no se ha enviado.</value>
   </data>
   <data name="SQL_Begin.Text">
     <value xml:space="preserve">Comienzo de ejecución de SQL</value>
@@ -1668,8 +1706,8 @@
   <data name="UnTranslateModule.Confirm">
     <value xml:space="preserve">¿Está seguro que quiere marcar este módulo como no traducido?</value>
   </data>
-  <data name="UnverifiedUser.Text">
-    <value xml:space="preserve">Está utilizando una cuenta sin verificar. Tiene que verificar su cuenta pulsando el enlace que le hemos enviado en el email de verificación.</value>
+  <data name="UnverifiedUser.Text" lastModified="2020-05-09 04:28:24">
+    <value xml:space="preserve">Está utilizando una cuenta sin verificar. Tiene que verificar su cuenta pulsando el enlace que le hemos enviado en el email de verificación. Pulse &lt;a href="#" class="send-verification-mail"&gt;aquí&lt;/a&gt; para reenviar el email de verificación.</value>
   </data>
   <data name="Upload.Text">
     <value xml:space="preserve">Cargar</value>
@@ -1712,6 +1750,9 @@
   </data>
   <data name="UserRejected.Text">
     <value xml:space="preserve">El registro de usuario ha sido rechazado. Póngase en contacto con el administrador de la web para obtener más información.</value>
+  </data>
+  <data name="VerificationMailSendSuccessful.Text" lastModified="2020-05-08 20:21:48">
+    <value xml:space="preserve">Email de verificación enviado correctamente.</value>
   </data>
   <data name="VerificationSuccess.Text">
     <value xml:space="preserve">Su cuenta se ha verificado correctamente</value>

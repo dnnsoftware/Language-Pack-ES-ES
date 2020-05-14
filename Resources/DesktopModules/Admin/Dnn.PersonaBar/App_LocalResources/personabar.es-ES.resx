@@ -12,16 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_CloseDialog.Text" lastModified="2017-02-05 15:44:19">
+  <data name="btn_CloseDialog.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">Aceptar</value>
   </data>
   <data name="btn_LoadMore.Text">
     <value xml:space="preserve">Cargar más</value>
   </data>
-  <data name="CriticalUpdate.Text" lastModified="2017-02-05 15:44:19">
+  <data name="CriticalUpdate.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">[ Actualización crítica ]</value>
   </data>
-  <data name="Documentation.Text" lastModified="2017-02-05 15:44:19">
+  <data name="Documentation.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">Documentación</value>
   </data>
   <data name="err_BetweenMinMax.Text">
@@ -63,11 +63,17 @@
   <data name="err_RoleAssignedToUser.Text">
     <value xml:space="preserve">Este rol ya se ha asignado al usuario.</value>
   </data>
-  <data name="Framework.Text" lastModified="2017-02-05 15:44:19">
+  <data name="Framework.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">.Net Framework</value>
   </data>
-  <data name="LicenseKey.Text" lastModified="2017-02-05 15:44:19">
+  <data name="LicenseKey.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">Clave de licencia</value>
+  </data>
+  <data name="LockEditMode.Help" lastModified="2018-03-24 11:09:33">
+    <value xml:space="preserve">Cuando esta bloqueado, el icono se mostrará de color azul, el modo de de edición se mantendrá incluso al navegar a otras páginas.</value>
+  </data>
+  <data name="LockEditMode.Text" lastModified="2018-03-24 11:09:33">
+    <value xml:space="preserve">Clique para bloquear el modo de edición.</value>
   </data>
   <data name="nav_Analytics.Text">
     <value xml:space="preserve">Analíticas</value>
@@ -114,7 +120,7 @@
   <data name="nav_Tools.Text">
     <value xml:space="preserve">Herramientas</value>
   </data>
-  <data name="NormalUpdate.Text" lastModified="2017-02-05 15:44:19">
+  <data name="NormalUpdate.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">[ Nueva actualización ]</value>
   </data>
   <data name="permissiongrid.Actions.Text">
@@ -183,7 +189,7 @@
   <data name="permissiongrid.View.Text">
     <value xml:space="preserve">Ver</value>
   </data>
-  <data name="ServerName.Text" lastModified="2017-02-05 15:44:19">
+  <data name="ServerName.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">Nombre servidor</value>
   </data>
   <data name="title_Tasks.Text">
@@ -192,7 +198,13 @@
   <data name="txt_ViewIndex.Text">
     <value xml:space="preserve">Mostrando {0} de {1}</value>
   </data>
-  <data name="UpgradeLicense.Text" lastModified="2017-02-05 15:44:19">
+  <data name="UnlockEditMode.Help" lastModified="2018-03-24 12:10:49">
+    <value xml:space="preserve">Cuando esta desbloqueado, el modo de edición se desactivará al navegar a otras páginas o cuando complete sus cambios.</value>
+  </data>
+  <data name="UnlockEditMode.Text" lastModified="2018-03-24 12:10:49">
+    <value xml:space="preserve">Clique para desbloquear el modo de edición.</value>
+  </data>
+  <data name="UpgradeLicense.Text" lastModified="2017-02-05 13:44:19">
     <value xml:space="preserve">[ Actualizar a Evoq ]</value>
   </data>
 </root>

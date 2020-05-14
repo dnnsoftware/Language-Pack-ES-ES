@@ -33,89 +33,8 @@
   <data name="//Admin.String">
     <value xml:space="preserve">Administración</value>
   </data>
-  <data name="//Admin//AdvancedSettings.String">
-    <value xml:space="preserve">Configuración avanzada</value>
-  </data>
-  <data name="//Admin//AdvancedURLManagement.String">
-    <value xml:space="preserve">Gestión avanzada de URLs</value>
-  </data>
-  <data name="//Admin//ContentStaging.String">
-    <value xml:space="preserve">Contenido provisional</value>
-  </data>
-  <data name="//Admin//DevicePreviewManagement.String">
-    <value xml:space="preserve">Gestión de dispositivos</value>
-  </data>
-  <data name="//Admin//Extensions.String">
-    <value xml:space="preserve">Extensiones</value>
-  </data>
   <data name="//Admin//FileManagement.String">
     <value xml:space="preserve">Gestión de archivos</value>
-  </data>
-  <data name="//Admin//FileManager.String">
-    <value xml:space="preserve">Gestión de archivos</value>
-  </data>
-  <data name="//Admin//GoogleAnalytics.String">
-    <value xml:space="preserve">Google Analytics</value>
-  </data>
-  <data name="//Admin//GoogleAnalyticsPro.String">
-    <value xml:space="preserve">Google Analytics Pro</value>
-  </data>
-  <data name="//Admin//Languages.String">
-    <value xml:space="preserve">Idiomas</value>
-  </data>
-  <data name="//Admin//Lists.String">
-    <value xml:space="preserve">Listas</value>
-  </data>
-  <data name="//Admin//LogViewer.String">
-    <value xml:space="preserve">Visor de eventos</value>
-  </data>
-  <data name="//Admin//Newsletters.String">
-    <value xml:space="preserve">Boletines</value>
-  </data>
-  <data name="//Admin//Pages.String">
-    <value xml:space="preserve">Gestión de páginas</value>
-  </data>
-  <data name="//Admin//RecycleBin.String">
-    <value xml:space="preserve">Papelera</value>
-  </data>
-  <data name="//Admin//SearchAdmin.String">
-    <value xml:space="preserve">Indexador de contenido</value>
-  </data>
-  <data name="//Admin//SearchEngineSiteMap.String">
-    <value xml:space="preserve">Mapa SEO del sitio</value>
-  </data>
-  <data name="//Admin//SecurityRoles.String">
-    <value xml:space="preserve">Roles de seguridad</value>
-  </data>
-  <data name="//Admin//SharePointConnector.String">
-    <value xml:space="preserve">Conector SharePoint </value>
-  </data>
-  <data name="//Admin//SiteRedirectionManagement.String">
-    <value xml:space="preserve">Redirecciones</value>
-  </data>
-  <data name="//Admin//SiteSettings.String">
-    <value xml:space="preserve">Configuración del sitio</value>
-  </data>
-  <data name="//Admin//SiteWizard.String">
-    <value xml:space="preserve">Asistente</value>
-  </data>
-  <data name="//Admin//Skins.String">
-    <value xml:space="preserve">Temas</value>
-  </data>
-  <data name="//Admin//Tabs.String">
-    <value xml:space="preserve">Gestión de páginas</value>
-  </data>
-  <data name="//Admin//Taxonomy.String">
-    <value xml:space="preserve">Taxonomía</value>
-  </data>
-  <data name="//Admin//UserAccounts.String">
-    <value xml:space="preserve">Cuentas de usuarios</value>
-  </data>
-  <data name="//Admin//UserSwitcher.String">
-    <value xml:space="preserve">Cambio de usuario</value>
-  </data>
-  <data name="//Admin//Vendors.String">
-    <value xml:space="preserve">Anunciantes</value>
   </data>
   <data name="//ContactUs.String">
     <value xml:space="preserve">Contacto</value>
@@ -126,107 +45,11 @@
   <data name="//Host.String">
     <value xml:space="preserve">Sistema</value>
   </data>
-  <data name="//Host//ConfigurationManager.String">
-    <value xml:space="preserve">Archivos de configuración</value>
-  </data>
-  <data name="//Host//Dashboard.String">
-    <value xml:space="preserve">Tablón de mandos</value>
-  </data>
-  <data name="//Host//DeviceDetectionManagement.String">
-    <value xml:space="preserve">Detección de dispositivos</value>
-  </data>
-  <data name="//Host//Extensions.String">
-    <value xml:space="preserve">Extensiones</value>
-  </data>
   <data name="//Host//FileManagement.String">
     <value xml:space="preserve">Gestión de archivos</value>
   </data>
-  <data name="//Host//HostSettings.String">
-    <value xml:space="preserve">Configuración del sistema</value>
-  </data>
   <data name="//Host//HTMLEditorManager.String">
     <value xml:space="preserve">Configuración del editor HTML</value>
-  </data>
-  <data name="//Host//Languages.String">
-    <value xml:space="preserve">Idiomas</value>
-  </data>
-  <data name="//Host//Lists.String">
-    <value xml:space="preserve">Listas</value>
-  </data>
-  <data name="//Host//ModuleDefinitions.String">
-    <value xml:space="preserve">Definiciones de módulo</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures.String">
-    <value xml:space="preserve">Funciones de la versión Profesional</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ActivateyourLicense.String" lastModified="2015-09-13 20:37:19">
-    <value xml:space="preserve">Activar licencia</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//AdvancedURLManagement.String">
-    <value xml:space="preserve">Gestión URL avanzado</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ApplicationIntegrity.String">
-    <value xml:space="preserve">Integridad de la aplicación</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//HealthMonitoring.String">
-    <value xml:space="preserve">Monitorización de estado</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//KnowledgeBase.String">
-    <value xml:space="preserve">Repositorio de conocimiento</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//LicenseManagement.String">
-    <value xml:space="preserve">Gestión de licencias</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//ManageWebServers.String">
-    <value xml:space="preserve">Administrador de servidores web </value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//MySupportTickets.String">
-    <value xml:space="preserve">Tickets de soporte</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SearchCrawlerAdmin.String">
-    <value xml:space="preserve">Administración de indexación</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SecurityCenter.String">
-    <value xml:space="preserve">Centro de seguridad</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SharePointConnector.String">
-    <value xml:space="preserve">Conector SharePoint</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SiteGroups.String">
-    <value xml:space="preserve">Grupos de sitios</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SoftwareandDocumentation.String">
-    <value xml:space="preserve">Software y documentación</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//SpecialOffers.String">
-    <value xml:space="preserve">Ofertas especiales</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//TechnicalSupport.String">
-    <value xml:space="preserve">Soporte técnico</value>
-  </data>
-  <data name="//Host//ProfessionalFeatures//UserSwitcher.String">
-    <value xml:space="preserve">Cambio de usuario</value>
-  </data>
-  <data name="//Host//Schedule.String">
-    <value xml:space="preserve">Programador</value>
-  </data>
-  <data name="//Host//SearchAdmin.String">
-    <value xml:space="preserve">Configuración de indexación</value>
-  </data>
-  <data name="//Host//SiteManagement.String">
-    <value xml:space="preserve">Gestión de sitios</value>
-  </data>
-  <data name="//Host//Skins.String">
-    <value xml:space="preserve">Temas</value>
-  </data>
-  <data name="//Host//SQL.String">
-    <value xml:space="preserve">SQL </value>
-  </data>
-  <data name="//Host//SuperuserAccounts.String">
-    <value xml:space="preserve">Cuentas de superusuario</value>
-  </data>
-  <data name="//Host//Vendors.String">
-    <value xml:space="preserve">Anunciantes</value>
   </data>
   <data name="//Modules.Text">
     <value xml:space="preserve">Módulos</value>
@@ -249,89 +72,85 @@
   <data name="//UserProfile.String">
     <value xml:space="preserve">Perfil de usuario</value>
   </data>
-  <data name="403_3.Error">
+  <data name="403_3.Error" lastModified="2020-05-09 01:50:22">
     <value xml:space="preserve">&lt;div style="height: 100%; width: 90%;"&gt;
-&lt;h1&gt;Error de configuraci&amp;oacute;n de DotNetNuke&lt;/h1&gt;
-{0}&lt;br /&gt;
-&lt;br /&gt;
-Hay un error de configuraci&amp;oacute;n de seguridad en su instalaci&amp;oacute;n (seguramente de permisos). DotNetNuke incluye opciones de carga de contenidos, m&amp;oacute;dulos y temas. Estas funciones requiren una configuraci&amp;oacute;n de seguridad espec&amp;iacute;fica para que la aplicaci&amp;oacute;n pueda crear y borrar archivos en su web.
-&lt;br /&gt;
-&lt;br /&gt;
-Con el explorador de archivos de Windows, vaya a la carpeta ra&amp;iacute;z de su web (C:\DotNetNuke por omisi&amp;oacute;n). Pusle el bot&amp;oacute;n derecho y vaya a Compartir y seguridad (tenga en cuenta que si est&amp;aacute; utilitzando Windows XP puede que hay que tenga que &lt;a target="_blank" href="http://support.microsoft.com/default.aspx/kb/307874"&gt;Desactivar la compartici&amp;oacute;n simple de archivos&lt;/a&gt; antes de que estas opciones est&amp;eacute;n disponibles). Seleccione la pesta&amp;ntilde;a de Seguridad y a&amp;ntilde;ada los usuarios necesarios y los permisos.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;
-    &lt;li&gt;
-    &lt;strong&gt;Si utiliza Windows 2000 - IIS5&lt;/strong&gt;
+    &lt;h1&gt;Error de configuraci&amp;oacute;n de DotNetNuke&lt;/h1&gt;
+    {0}&lt;br /&gt;
     &lt;br /&gt;
-    &lt;ol style="list-style-type: circle;"&gt;
-        &lt;li&gt;la cuenta [SERVER]ASPNET tiene que tener permisos de Lectura, Escritura y Modificaci&amp;oacute;n a partir de la ra&amp;iacute;z de su web.&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;/li&gt;
-    &lt;li&gt;
-    &lt;strong&gt;Si utiliza Windows 2003 - IIS6 o Vista/Windows 2008 - IIS7&lt;/strong&gt;
+    Hay un error de configuraci&amp;oacute;n de seguridad en su instalaci&amp;oacute;n (probablemente a causa de los permisos). DNN incluye opciones de carga de contenidos, m&amp;oacute;dulos y temas. Estas funciones requiren una configuraci&amp;oacute;n de seguridad espec&amp;iacute;fica para que la aplicaci&amp;oacute;n pueda crear y borrar archivos en su web.
     &lt;br /&gt;
-    &lt;ol style="list-style-type: circle;"&gt;
-        &lt;li&gt;la cuenta NT AUTHORITYNETWORK SERVICE tiene que tener permisos de Lectura, Escritura y Modificaci&amp;oacute;n a partir de la ra&amp;iacute;z de su web.&lt;/li&gt;
-    &lt;/ol&gt;
-    &lt;/li&gt;
-&lt;/ul&gt;
-&lt;img src="images/403-3.gif" alt="Imagen que muestra la configuraci&amp;oacute;n de seguridad de la carpeta ra&amp;iacute;z de la web. Asigne los permisos de Lectura, Escritura y Modificaci&amp;oacute;n a las cuentas ASPNET o NT AUTHORITY/NETWORK SERVICE." /&gt;
+    &lt;br /&gt;
+    Con el explorador de archivos de Windows, vaya a la carpeta ra&amp;iacute;z de su web (C:\DotNetNuke por omisi&amp;oacute;n). Pulse el bot&amp;oacute;n derecho sobre la carpeta y vaya a Propiedades. Seleccione la pesta&amp;ntilde;a de Seguridad y a&amp;ntilde;ada los permisos para el usuario que corresponde al Grupo de Aplicaciones seleccionado para la web.
+    &lt;br /&gt;
+    &lt;br /&gt;
+    &lt;ul style="text-align: left; list-style-type: none; list-style-position: outside;"&gt;
+        &lt;li&gt;
+            &lt;strong&gt;Si utiliza una cuenta de sistema como "NT AUTORITY\SERVICIO DE RED"&lt;/strong&gt;
+            &lt;br /&gt;
+            &lt;ol style="list-style-type: circle;"&gt;
+                &lt;li&gt;Esta cuenta tiene que tener permisos de Lectura, Escritura, Modificación y Lectura y Ejecución.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            &lt;strong&gt;Si utiliza una cuenta de tipo "ApplicationPoolIdentity" (opción recomendada)&lt;/strong&gt;
+            &lt;br /&gt;
+            &lt;ol style="list-style-type: circle;"&gt;
+                &lt;li&gt;La cuenta IIS AppPool\[Nombre del grupo de aplicaciones] tiene que tener permisos de Lectura, Escritura, Modificación y Lectura y Ejecución.&lt;/li&gt;
+            &lt;/ol&gt;
+        &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;img src="images/403-3.gif" alt="Imagen que muestra la configuraci&amp;oacute;n de seguridad de la carpeta ra&amp;iacute;z de la web. Asigne los permisos de Lectura, Escritura y Modificaci&amp;oacute;n a la cuenta." /&gt;
 &lt;/div&gt;</value>
   </data>
-  <data name="404.Error">
+  <data name="404.Error" lastModified="2020-05-09 04:09:26">
     <value xml:space="preserve">&lt;p style="height: 100%; width: 90%;"&gt;
-&lt;span style="color: red;"&gt;&lt;strong&gt;El dominio {0} no existe en la base de datos&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;br /&gt;
-DotNetNuke soporta m&amp;uacute;ltiples portales en una misma instalaci&amp;oacute;n/base de datos. Esto se consigue traduciendo la URL del client a un ID de portal v&amp;aacute;lido de la tabla Portals de la base de datos. Los pasos siguientes describen el proceso:
-&lt;br /&gt;
-&lt;br /&gt;
+    &lt;span style="color: red;"&gt;&lt;strong&gt;El dominio {0} no existe en la base de datos&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+    &lt;br /&gt;
+        Este sistema soporta m&amp;uacute;ltiples sitios en una misma instalaci&amp;oacute;n/base de datos. Esto se consigue traduciendo la URL del navegador a un registro v&amp;aacute;lido de la tabla Portals de la base de datos. Los pasos siguientes describen el proceso:
+    &lt;br /&gt;
+    &lt;br /&gt;
 &lt;/p&gt;
 &lt;ol style="text-align: left; list-style-type: decimal; list-style-position: outside;"&gt;
-    &lt;li&gt;&lt;strong&gt;Proceso en el servidor web&lt;/strong&gt;&lt;br /&gt;
-    &lt;ul style="list-style-type: disc;"&gt;
-        &lt;li&gt;Cuando el servidor recibe una petici&amp;oacute;n de un cliente la compara la extensi&amp;oacute;n del nombre de archivo solicitado con las extensiones de aplicaci&amp;oacute;n mapeadas en IIS.&lt;/li&gt;
-        &lt;li&gt;En base a las coincidencias encontradas, la petici&amp;oacute;n se envia al ejecutable definido (aspnet_asapi.dll en el caso de peticiones de ASP.NET).&lt;/li&gt;
-        &lt;li&gt;El proceso aspnet_isapi.dll gestiona la petici&amp;oacute;n medieante un conjunto de eventos ordenados que empiezan con Application_BeginRequest.&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;br /&gt;
-    &lt;br /&gt;
+    &lt;li&gt;
+        &lt;strong&gt;Proceso en el servidor web&lt;/strong&gt;&lt;br /&gt;
+        &lt;ul style="list-style-type: disc;"&gt;
+            &lt;li&gt;Cuando el servidor recibe una petici&amp;oacute;n de un cliente la compara la extensi&amp;oacute;n del nombre de archivo solicitado con las extensiones de aplicaci&amp;oacute;n mapeadas en IIS.&lt;/li&gt;
+            &lt;li&gt;En base a las coincidencias encontradas, IIS envia la petici&amp;oacute;n al ejecutable definido (aspnet_asapi.dll en el caso de peticiones de ASP.NET).&lt;/li&gt;
+            &lt;li&gt;El proceso aspnet_isapi.dll gestiona la petici&amp;oacute;n medieante un conjunto de eventos ordenados que empiezan con Application_BeginRequest.&lt;/li&gt;
+        &lt;/ul&gt;
     &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&lt;/strong&gt;&lt;br /&gt;
-    &lt;ul style="list-style-type: disc;"&gt;
-        &lt;li&gt;La petici&amp;oacute;n se analiza en base al car&amp;aacute;cter "/"&lt;/li&gt;
-        &lt;li&gt;Se construye el dominio con los elementos analizados.
-        &lt;br /&gt;
-        &lt;br /&gt;
-        Por ejemplo:
-        &lt;br /&gt;
-        &lt;br /&gt;
-        URL: http://www.domain.com/default.aspx = Nombre de dominio: www.domain.com&lt;br /&gt;
-        URL: http://209.75.24.131/default.aspx = Nombre de dominio: 209.75.24.131&lt;br /&gt;
-        URL: http://localhost/DotNetNuke/default.aspx = Nombre de dominio: localhost/DotNetNuke&lt;br /&gt;
-        URL: http://www.domain.com/virtualdirectory/default.aspx = Nombre de dominio: www.domain.com/virtualdirectory&lt;br /&gt;
-        URL: http://www.domain.com/directory/default.aspx = Nombre de dominio: www.domain.com/directory&lt;br /&gt;
-        &lt;br /&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Con el nombre de dominio la aplicaci&amp;oacute;n consulta la tabla PortalAlias en la base de datos para encontrar una coincidencia.&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul style="list-style-type: disc;"&gt;
-    &lt;/ul&gt;
+    &lt;li&gt;
+        &lt;strong&gt;HttpModule.URLRewrite OnBeginRequest (UrlRewriteModule.vb)&lt;/strong&gt;&lt;br /&gt;
+        &lt;ul style="list-style-type: disc;"&gt;
+            &lt;li&gt;La petici&amp;oacute;n se analiza en base al car&amp;aacute;cter "/"&lt;/li&gt;
+            &lt;li&gt;
+                Se construye el dominio con los elementos analizados.
+                &lt;br /&gt;
+                &lt;br /&gt;
+                Por ejemplo:
+                &lt;br /&gt;
+                &lt;br /&gt;
+                URL: http://www.domain.com/default.aspx = Nombre de dominio: www.domain.com&lt;br /&gt;
+                URL: http://209.75.24.131/default.aspx = Nombre de dominio: 209.75.24.131&lt;br /&gt;
+                URL: http://localhost/DotNetNuke/default.aspx = Nombre de dominio: localhost/DotNetNuke&lt;br /&gt;
+                URL: http://www.domain.com/virtualdirectory/default.aspx = Nombre de dominio: www.domain.com/virtualdirectory&lt;br /&gt;
+                URL: http://www.domain.com/directory/default.aspx = Nombre de dominio: www.domain.com/directory&lt;br /&gt;
+                &lt;br /&gt;
+            &lt;/li&gt;
+            &lt;li&gt;
+                Con el nombre de dominio la aplicaci&amp;oacute;n consulta la tabla PortalAlias en la base de datos para encontrar una coincidencia.
+                &lt;br/&gt;
+                &lt;br/&gt;
+                Nota: Si est&amp;aacute; instalando la aplicaci&amp;oacute;n en un servidor remoto, tiene que modificar el valor del campo HTTPAlias en la tabla PortalAlias para el registro correspondiente.
+            &lt;/li&gt;
+        &lt;/ul&gt;
     &lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;
-Ejemplo:&lt;/p&gt;
-&lt;p&gt;URL: http://localhost/DotNetNuke/default.aspx&lt;br /&gt;
-URL: http://MACHINENAME/DotNetNuke/default.aspx&lt;br /&gt;
-URL: http://209.32.134.65/DotNetNuke/default.aspx&lt;br /&gt;
-PortalAlias: localhost/DotNetNuke,MACHINENAME/DotNetNuke,209.32.134.65/DotNetNuke &lt;br /&gt;
-&lt;br /&gt;
-Nota: Si est&amp;aacute; instalando la aplicaci&amp;oacute;n en un servidor remoto debe modificar el valor del campo PortalAlias para que sea el registro predeterminado en la tabla Portals de acuerdo con las normas establecidas antes.&lt;/p&gt;</value>
+&lt;/ol&gt;</value>
   </data>
   <data name="500.Error">
     <value xml:space="preserve">{0} </value>
   </data>
-  <data name="503.Error" lastModified="2016-03-17 01:34:37">
+  <data name="503.Error" lastModified="2016-03-16 14:34:37">
     <value xml:space="preserve">{0} - 503 Servicio no disponible</value>
   </data>
   <data name="ActivatingLicense.Text">
@@ -385,16 +204,25 @@ Nota: Si est&amp;aacute; instalando la aplicaci&amp;oacute;n en un servidor remo
   <data name="Can Deploy.Permission">
     <value xml:space="preserve">Desplegar módulo</value>
   </data>
+  <data name="cc_dismiss.Text" lastModified="2020-05-08 09:00:20">
+    <value xml:space="preserve">Aceptar</value>
+  </data>
+  <data name="cc_link.Text" lastModified="2020-05-08 09:00:20">
+    <value xml:space="preserve">Saber más</value>
+  </data>
+  <data name="cc_message.Text" lastModified="2020-05-08 09:00:20">
+    <value xml:space="preserve">Este sitio utiliza cookies para asegurar la mejor experiencia de navegación en la web.</value>
+  </data>
   <data name="ClearCache.Action">
     <value xml:space="preserve">Limpiar caché</value>
   </data>
   <data name="CustomUrlPathCleaned.Error">
     <value xml:space="preserve">La URL de la página contenía caracteres inválidos que se han eliminado. Pulse el botón Actualizar de nuevo para aceptar los cambios realizados.&lt;br/&gt;Atención. Puede ver la lista de caracteres inválidos en la siguiente lista: &lt;&gt;\?:&amp;=+|%# </value>
   </data>
-  <data name="DefaultStopwordGroup.Text" lastModified="2017-04-29 05:18:19">
+  <data name="DefaultStopwordGroup.Text" lastModified="2017-04-28 07:18:19">
     <value xml:space="preserve">y,es,pero,para,en,no,el,este,esta,la,ella,ellos,ellas,era,será,con</value>
   </data>
-  <data name="DefaultSynonymGroup.Text" lastModified="2017-04-29 05:18:19">
+  <data name="DefaultSynonymGroup.Text" lastModified="2017-04-28 07:18:19">
     <value xml:space="preserve">dnn,dotnetnuke</value>
   </data>
   <data name="DeleteModule.Action">
@@ -494,234 +322,233 @@ Operación completada:  [Custom:3]
   <data name="EMAIL_BulkMailStart_Subject.Text">
     <value xml:space="preserve">Correo masivo '{0}' enviado</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text">
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" lastModified="2020-05-09 08:15:37">
     <value xml:space="preserve">&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
 &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
 &lt;head&gt;
- &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
- &lt;style type="text/css"&gt;
-  /* Reset Styles */
-  html, body
-  {
-   height: 100%;
-   width: 100%;
-  }
-  body
-  {
-   margin: 0;
-   padding: 0;
-   font-family: sans-serif;
-   font-size: 0.83em;
-   color: #333;
-  }
-  img
-  {
-   border: 0;
-   height: auto;
-   line-height: 100%;
-   outline: none;
-   text-decoration: none;
-  }
-  table td
-  {
-   border-collapse: collapse;
-  }
-  p
-  {
-   margin: 0 0 1.6em 0;
-  }
-  a
-  {
-   color: #417CD3;
-  }
-  #backgroundTable
-  {
-   height: 100% !important;
-   margin: 0;
-   padding: 0;
-   width: 100% !important;
-  }
-  body
-  {
-   background-color: #fafafa;
-  }
-  
-  #templateContainer
-  {
-   border: 1px solid #eeeeee;
-   box-shadow: 0px 0px 3px 0px #eee;
-  }
-  
-  /* Pre Header Styles */
-  .preheaderContent
-  {
-   padding: 15px 0 5px 0;
-   font-size: 0.9em;
-   color: #999;
-  }
-  .headerContent
-  {
-   background-color: #bbb;
-  }
-  .headerContent a
-  {
-   display: block;
-  }
-  .headerContent img
-  {
-   margin-bottom: 0;
-  }
-  
-  /* Sub Header Styles */
-  #templateSubHeader
-  {
-   color: #ffffff;
-  }
-  #templateSubHeader td
-  {
-   padding: 5px 20px;
-  }
-  
-  /* Template Footer Styles */
-  .footerContent table td
-  {
-   padding-top: 20px;
-   border-top: 1px solid #ddd;
-   font-size: 0.8em;
-  }
-  
-  /* Body Template Footer Styles */
-  #bodyTemplateFooter
-  {
-   padding: 15px 0 5px 0;
-   font-size: 0.9em;
-   color: #999;
-  }
- &lt;/style&gt;
+    &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /&gt;
+    &lt;style type="text/css"&gt;
+        /* Reset Styles */
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            font-size: 0.83em;
+            color: #333;
+        }
+
+        img {
+            border: 0;
+            height: auto;
+            line-height: 100%;
+            outline: none;
+            text-decoration: none;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        p {
+            margin: 0 0 1.6em 0;
+        }
+
+        a {
+            color: #417cd3;
+        }
+
+        #backgroundTable {
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+        }
+
+        body {
+            background-color: #fafafa;
+        }
+
+        #templateContainer {
+            border: 1px solid #eeeeee;
+            box-shadow: 0px 0px 3px 0px #eee;
+        }
+
+        /* Pre Header Styles */
+        .preheaderContent {
+            padding: 15px 0 5px 0;
+            font-size: 0.9em;
+            color: #999;
+        }
+
+        .headerContent {
+            background-color: #bbb;
+        }
+
+            .headerContent a {
+                display: block;
+            }
+
+            .headerContent img {
+                margin-bottom: 0;
+            }
+
+        /* Sub Header Styles */
+        #templateSubHeader {
+            color: #ffffff;
+        }
+
+            #templateSubHeader td {
+                padding: 5px 20px;
+            }
+
+        /* Template Footer Styles */
+        .footerContent table td {
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            font-size: 0.8em;
+        }
+
+        /* Body Template Footer Styles */
+        #bodyTemplateFooter {
+            padding: 15px 0 5px 0;
+            font-size: 0.9em;
+            color: #999;
+        }
+    &lt;/style&gt;
 &lt;/head&gt;
 &lt;body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0"&gt;
- &lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
-  &lt;tr&gt;
-   &lt;td align="center" valign="top"&gt;
-    &lt;!-- // Begin Template Preheader \\ --&gt;
-    &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
-     &lt;tr align="right"&gt;
-      &lt;td valign="top" class="preheaderContent" style="border-top: 5px solid #417CD3;"&gt;
-       &lt;!-- // Begin Module: Standard Preheader \ --&gt;
-       &lt;table border="0" cellpadding="0" cellspacing="0"&gt;
+    &lt;table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%" id="backgroundTable"&gt;
         &lt;tr&gt;
-         &lt;td align="right"&gt;
-          &lt;p&gt;Problemas para ver el correo? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Clique aquí para verlo online.&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-         &lt;/td&gt;
+            &lt;td align="center" valign="top"&gt;
+                &lt;!-- // Begin Template Preheader \\ --&gt;
+                &lt;table border="0" cellpadding="0" cellspacing="0" id="templatePreheader" width="600"&gt;
+                    &lt;tr align="right"&gt;
+                        &lt;td valign="top" class="preheaderContent" style="border-top: 5px solid #417cd3;"&gt;
+                            &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                            &lt;table border="0" cellpadding="0" cellspacing="0"&gt;
+                                &lt;tr&gt;
+                                    &lt;td align="right"&gt;
+                                        &lt;p&gt;
+                                            Problemas para ver el correo? &lt;a href="[NOTIFICATIONURL]"&gt;&lt;span&gt;Clique aquí para verlo online.&lt;/span&gt;&lt;/a&gt;
+                                        &lt;/p&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // End Module: Standard Preheader \ --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // End Template Preheader \\ --&gt;
+                &lt;!-- // Begin Template body \\ --&gt;
+                &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border: 1px solid #eeeeee;"&gt;
+                    &lt;tr&gt;
+                        &lt;td align="center" valign="top"&gt;
+                            &lt;!-- // Begin Template Header \\ --&gt;
+                            &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
+                                &lt;tr&gt;
+                                    &lt;td class="headerContent"&gt;
+                                        &lt;a href="[SITEURL]"&gt;
+                                            &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
+                                            &lt;img src="[LOGOURL]" style="max-width: 600px;" id="headerImage campaign-icon" width="200" /&gt;
+                                        &lt;/a&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // End Template Header \\ --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align="center" valign="top"&gt;
+                            &lt;!-- // Begin Template Sub Header \\ --&gt;
+                            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
+                                &lt;tr&gt;
+                                    &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
+                                        &lt;h2 style="color: #fff; font-weight: 100; font-size: 24px;"&gt;Notificaciones&lt;/h2&gt;
+                                    &lt;/td&gt;
+                                    &lt;!--close subHeaderContent--&gt;
+                                    &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
+                                        &lt;p style="color: #fff;"&gt;&lt;/p&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // End Template Sub Header \\ --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
+                            &lt;!-- // Begin Template Body \\ --&gt;
+                            &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign="top" class="bodyContent"&gt;
+                                        &lt;!-- // Begin Module: Standard Content \\ --&gt;
+                                        &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
+                                            &lt;tr&gt;
+                                                &lt;td valign="top"&gt;[MESSAGEBODY]&lt;/td&gt;
+                                            &lt;/tr&gt;
+                                        &lt;/table&gt;
+                                        &lt;!-- // End Module: Standard Content \\ --&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // End Template Body \\ --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                    &lt;tr&gt;
+                        &lt;td align="center" valign="top"&gt;
+                            &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
+                                &lt;tr&gt;
+                                    &lt;td valign="top" class="footerContent"&gt;
+                                        &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
+                                            &lt;tr&gt;
+                                                &lt;td align="center"&gt;&lt;a href="[UNSUBSCRIBEURL]"&gt;Gestione sus suscripciones&lt;/a&gt; &amp;nbsp; | &amp;nbsp;&lt;/td&gt;
+                                            &lt;/tr&gt;
+                                        &lt;/table&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // End Template Body \\ --&gt;
+                &lt;!-- // Begin Template footer \\ --&gt;
+                &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
+                    &lt;tr&gt;
+                        &lt;td valign="top" class="bodyFooterContent"&gt;
+                            &lt;!-- // Begin Module: Standard Preheader \ --&gt;
+                            &lt;table border="0" cellpadding="0" cellspacing="0" align="center"&gt;
+                                &lt;tr&gt;
+                                    &lt;td align="center"&gt;
+                                        &lt;p&gt;Copyright 2013 &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Todos los derechos reservados.&lt;/p&gt;
+                                        &lt;p&gt;Si no quiere recibir más correos, puede &lt;a href="[UNSUBSCRIBEURL]"&gt;cancelar la suscripción&lt;/a&gt;.&lt;/p&gt;
+                                    &lt;/td&gt;
+                                &lt;/tr&gt;
+                            &lt;/table&gt;
+                            &lt;!-- // End Module: Standard Preheader \ --&gt;
+                        &lt;/td&gt;
+                    &lt;/tr&gt;
+                &lt;/table&gt;
+                &lt;!-- // End Template footer \\ --&gt;
+            &lt;/td&gt;
         &lt;/tr&gt;
-       &lt;/table&gt;
-       &lt;!-- // End Module: Standard Preheader \ --&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
     &lt;/table&gt;
-    &lt;!-- // End Template Preheader \\ --&gt;
-    &lt;!-- // Begin Template body \\ --&gt;
-    &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateContainer" style="border: 1px solid #eeeeee;"&gt;
-     &lt;tr&gt;
-      &lt;td align="center" valign="top"&gt;
-       &lt;!-- // Begin Template Header \\ --&gt;
-       &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateHeader"&gt;
-        &lt;tr&gt;
-         &lt;td class="headerContent"&gt;&lt;a href="[SITEURL]"&gt;
-          &lt;!--&lt;img src="[LOGOURL]" style="max-width:600px;" id="headerImage campaign-icon" /&gt;--&gt;
-          &lt;img src="[LOGOURL]" style="max-width: 600px;" id="headerImage campaign-icon" width="200" /&gt;
-         &lt;/a&gt;&lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;/table&gt;
-       &lt;!-- // End Template Header \\ --&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-      &lt;td align="center" valign="top"&gt;
-       &lt;!-- // Begin Template Sub Header \\ --&gt;
-       &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateSubHeader"&gt;
-        &lt;tr&gt;
-         &lt;td class="subHeaderContent" bgcolor="#417CD3" width="66%" align="left"&gt;
-          &lt;h2 style="color: #fff; font-weight: 100; font-size: 24px;"&gt;Notificaciones&lt;/h2&gt;
-         &lt;/td&gt;
-         &lt;!--close subHeaderContent--&gt;
-         &lt;td width="33%" bgcolor="#417CD3" align="right"&gt;
-          &lt;p style="color: #fff;"&gt;&lt;/p&gt;
-         &lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;/table&gt;
-       &lt;!-- // End Template Sub Header \\ --&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-      &lt;td align="center" valign="top" bgcolor="#ffffff"&gt;
-       &lt;!-- // Begin Template Body \\ --&gt;
-       &lt;table border="0" cellpadding="0" cellspacing="0" width="600" id="templateBody"&gt;
-        &lt;tr&gt;
-         &lt;td valign="top" class="bodyContent"&gt;
-          &lt;!-- // Begin Module: Standard Content \\ --&gt;
-          &lt;table border="0" cellpadding="30" cellspacing="0" width="100%"&gt;
-           &lt;tr&gt;
-            &lt;td valign="top"&gt;[MESSAGEBODY] &lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;/table&gt;
-          &lt;!-- // End Module: Standard Content \\ --&gt;
-         &lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;/table&gt;
-       &lt;!-- // End Template Body \\ --&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-      &lt;td align="center" valign="top"&gt;
-       &lt;table border="0" cellpadding="30" cellspacing="0" width="600" id="templateFooter"&gt;
-        &lt;tr&gt;
-         &lt;td valign="top" class="footerContent"&gt;
-          &lt;table border="0" cellpadding="0" cellspacing="0" width="100%"&gt;
-           &lt;tr&gt;
-            &lt;td align="center"&gt;&lt;a href="[UNSUBSCRIBEURL]"&gt;Gestione sus suscripciones&lt;/a&gt; &amp;nbsp; | &amp;nbsp; &lt;/td&gt;
-           &lt;/tr&gt;
-          &lt;/table&gt;
-         &lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;/table&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
-    &lt;/table&gt;
-    &lt;!-- // End Template Body \\ --&gt;
-    &lt;!-- // Begin Template footer \\ --&gt;
-    &lt;table border="0" cellpadding="0" cellspacing="0" id="bodyTemplateFooter" width="600"&gt;
-     &lt;tr&gt;
-      &lt;td valign="top" class="bodyFooterContent"&gt;
-       &lt;!-- // Begin Module: Standard Preheader \ --&gt;
-       &lt;table border="0" cellpadding="0" cellspacing="0" align="center"&gt;
-        &lt;tr&gt;
-         &lt;td align="center"&gt;
-          &lt;p&gt;Copyright 2013 &lt;a href="[SITEURL]"&gt;[PORTALNAME]&lt;/a&gt; Todos los derechos reservados.&lt;/p&gt;
-          &lt;p&gt;Si no quiere recibir m�s correos, puede &lt;a href="[UNSUBSCRIBEURL]"&gt;cancelar la suscripci�n&lt;/a&gt;.&lt;/p&gt;
-         &lt;/td&gt;
-        &lt;/tr&gt;
-       &lt;/table&gt;
-       &lt;!-- // End Module: Standard Preheader \ --&gt;
-      &lt;/td&gt;
-     &lt;/tr&gt;
-    &lt;/table&gt;
-    &lt;!-- // End Template footer \\ --&gt;
-   &lt;/td&gt;
-  &lt;/tr&gt;
- &lt;/table&gt;
- &lt;!-- wrapper table --&gt;
+    &lt;!-- wrapper table --&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" lastModified="2015-09-13 18:29:57">
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" lastModified="2018-03-24 02:28:34">
     <value xml:space="preserve">&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
     &lt;tr&gt;
         &lt;td&gt;
             &lt;table width="80" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
                 &lt;tr&gt;
-                    &lt;td&gt;&lt;a href="PROFILEURL"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
+                    &lt;td&gt;&lt;a href="[PROFILEURL]"&gt;&lt;img src="[PROFILEPICURL]" /&gt;&lt;/a&gt;&lt;br/&gt;[DISPLAYNAME]&lt;/td&gt;
                 &lt;/tr&gt;
             &lt;/table&gt;
             &lt;table width="350" border="0" cellspacing="0" cellpadding="8" align="left"&gt;
@@ -733,7 +560,7 @@ Operación completada:  [Custom:3]
     &lt;/tr&gt;
 &lt;/table&gt;&lt;/div&gt;</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-11-29 15:08:40">
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" lastModified="2016-11-29 04:08:40">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Ha solicitado el envio del enlace para reiniciar la contraseña en [Portal:PortalName].
@@ -754,7 +581,7 @@ Atentamente,
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text">
     <value xml:space="preserve">[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" lastModified="2015-09-13 16:28:09">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" lastModified="2015-09-12 18:28:09">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Ha solicitado una petición de recordatorio/cambio de contraseña en [Portal:PortalName] pero su cuenta está pendiente de aprobación.
@@ -767,7 +594,7 @@ Atentamente,
 *Si no ha solicitado esta información, elimine este mensaje y no lo tenga en cuenta.
 </value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" lastModified="2015-09-13 16:28:09">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" lastModified="2015-09-12 18:28:09">
     <value xml:space="preserve">[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text">
@@ -871,7 +698,7 @@ Atentamente,
   <data name="EMAIL_SUBJECT_FORMAT.Text">
     <value xml:space="preserve">Nuevo mensaje de {0}</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-11-29 13:51:26">
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" lastModified="2016-11-29 02:51:26">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Gracias por registrarse en [Portal:PortalName]. Su registro ha sido aprobado y su cuenta se ha activado.
@@ -882,7 +709,7 @@ Usuario: [User:UserName]
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-11-29 12:43:23">
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" lastModified="2016-11-29 01:43:23">
     <value xml:space="preserve">El registro para [Portal:URL] ha sido aprobado</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text">
@@ -954,7 +781,7 @@ Atentamente,
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text">
     <value xml:space="preserve">[Portal:PortalName] - Nuevo registro de usuario</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" lastModified="2017-04-29 03:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" lastModified="2017-04-28 05:16:28">
     <value xml:space="preserve">Apreciado [User:DisplayName],
 
 Su cuenta en [Portal:PortalName] ha sido desautorizada.
@@ -967,7 +794,7 @@ Si tiene alguna consulta, póngase en contacto con el administrador en [Portal:E
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" lastModified="2017-04-29 03:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" lastModified="2017-04-28 05:16:28">
     <value xml:space="preserve">Su cuenta ha sido desautorizada en [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text">
@@ -1052,21 +879,29 @@ Atentamente,
   <data name="ImportModule.Action">
     <value xml:space="preserve">Importar contenido</value>
   </data>
-  <data name="License.Text" lastModified="2017-02-05 13:42:42">
-    <value xml:space="preserve">&lt;p&gt;DotNetNuke&amp;reg; - http://www.dotnetnuke.com&lt;br /&gt;
-Copyright (c) 2002-2017&lt;br/&gt;
-    by DotNetNuke Corporation&lt;/p&gt;
-    &lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated 
-documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
-the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
-    to permit persons to whom the Software is furnished to do so, subject to the following conditions:&lt;/p&gt;
-    &lt;p&gt;The above copyright notice and this permission notice shall be included in all copies or substantial portions 
-    of the Software.&lt;/p&gt;
-    &lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
-TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
-THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF 
-CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
-    DEALINGS IN THE SOFTWARE.&lt;/p&gt;</value>
+  <data name="License.Text" lastModified="2020-05-09 06:10:14">
+    <value xml:space="preserve">&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
+
+&lt;h3&gt;Copyright (c) .NET Foundation and Contributors&lt;/h3&gt;
+&lt;p&gt;All Rights Reserved&lt;/p&gt;
+
+&lt;p&gt;Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:&lt;/p&gt;
+
+&lt;p&gt;The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.&lt;/p&gt;
+
+&lt;p&gt;THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.&lt;/p&gt;</value>
   </data>
   <data name="Localize.Action">
     <value xml:space="preserve">Traducir</value>
@@ -1083,24 +918,24 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
   <data name="Manage.Text">
     <value xml:space="preserve">Administrar</value>
   </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text">
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" lastModified="2020-05-08 11:01:14">
     <value xml:space="preserve">&lt;div align="left"&gt;
         &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
-        applies to the [Portal:PortalName] Web site and governs data collection and usage.
-        By using the [Portal:PortalName] website, you consent to the data practices described
+        applies to the [Portal:PortalName] site and governs data collection and usage.
+        By using the [Portal:PortalName] site, you consent to the data practices described
         in this statement.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;Collection of your Personal Information&lt;/span&gt;&lt;/p&gt;
-        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your e-mail
+        &lt;p&gt;[Portal:PortalName] collects personally identifiable information, such as your email
         address, name, home or work address or telephone number. [Portal:PortalName] also
         collects anonymous demographic information, which is not unique to you, such as
         your ZIP code, age, gender, preferences, interests and favorites.&lt;/p&gt;
         &lt;p&gt;There is also information about your computer hardware and software that is automatically
         collected by [Portal:PortalName]. This information can include: your IP address,
-        browser type, domain names, access times and referring Web site addresses. This
+        browser type, domain names, access times and referring website addresses. This
         information is used by [Portal:PortalName] for the operation of the service, to
         maintain quality of the service, and to provide general statistics regarding use
-        of the [Portal:PortalName] Web site.&lt;/p&gt;
+        of the [Portal:PortalName] site.&lt;/p&gt;
         &lt;p&gt;Please keep in mind that if you directly disclose personally identifiable information
         or personally sensitive data through [Portal:PortalName] public message boards,
         this information may be collected and used by others. Note: [Portal:PortalName]
@@ -1168,7 +1003,7 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
         of encryption, such as the Secure Socket Layer (SSL) protocol.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;Changes to this Statement&lt;/span&gt;&lt;/p&gt;
         &lt;p&gt;[Portal:PortalName] will occasionally update this Statement of Privacy to reflect
-company and customer feedback. [Portal:PortalName] encourages you to periodically 
+company and customer feedback. [Portal:PortalName] encourages you to periodically
         review this Statement to be informed of how [Portal:PortalName] is protecting your
         information.&lt;/p&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;Contact Information&lt;/span&gt;&lt;/p&gt;
@@ -1179,7 +1014,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         problem.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text">
+  <data name="MESSAGE_PORTAL_TERMS.Text" lastModified="2018-03-24 03:30:49">
     <value xml:space="preserve">&lt;div align="left"&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
@@ -1363,8 +1198,8 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         Infringement.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text">
-    <value xml:space="preserve">Para recuperar su contraseña, tendrá que proporcionar su nombre de usuario, y la respuesta a la Pregunta de contraseña.</value>
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" lastModified="2020-05-08 23:26:48">
+    <value xml:space="preserve">Para recuperar su contraseña, tendrá que proporcionar su nombre de usuario y la respuesta a la Pregunta de contraseña.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text">
     <value xml:space="preserve">Por favor, verifique su cambio de email volviendo a introducir su contraseña.</value>
@@ -1417,7 +1252,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="NoLoginControl.Text">
     <value xml:space="preserve">Ha sido redireccionado a esta página de inicio por omisión porque la página de inicio para este sitio web no contiene un módulo DotNetNuke correcto de inicio de sesión, o los permisos no están correctamente configurados.</value>
   </data>
-  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-17 01:34:37">
+  <data name="NoSitesForThisInstallation.Error" lastModified="2016-03-16 14:34:37">
     <value xml:space="preserve">No hay ningún sitio en esta instalación.</value>
   </data>
   <data name="OnlineHelp.Action">
@@ -1459,7 +1294,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="SearchCrawler Admin.String">
     <value xml:space="preserve">Configuración de indexación</value>
   </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-17 01:34:37">
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" lastModified="2016-03-16 14:34:37">
     <value xml:space="preserve">El sitio ha recibido peticiones de acceso mientras la instación/actualización estaba en proceso.</value>
   </data>
   <data name="SkinLoadError.Text">
@@ -1468,7 +1303,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="SyndicateModule.Action">
     <value xml:space="preserve">Suscripción (RSS)</value>
   </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-17 01:34:37">
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" lastModified="2016-03-16 14:34:37">
     <value xml:space="preserve">Hay una instalación en proceso. Vuelva a intentarlo en unos minutos.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text">
@@ -1530,5 +1365,13 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   </data>
   <data name="Write to Folder.Permission">
     <value xml:space="preserve">Guardar en carpeta</value>
+  </data>
+  <data name="MESSAGE_LOGIN_INSTRUCTIONS.Text">
+    <value>
+    </value>
+  </data>
+  <data name="MESSAGE_REGISTRATION_INSTRUCTIONS.Text">
+    <value>
+    </value>
   </data>
 </root>

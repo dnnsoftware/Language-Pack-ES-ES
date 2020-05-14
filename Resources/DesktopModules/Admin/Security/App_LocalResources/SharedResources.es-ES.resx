@@ -120,8 +120,8 @@
   <data name="PasswordReset.Text">
     <value xml:space="preserve">La contraseña se ha reiniciado.</value>
   </data>
-  <data name="Username.Help">
-    <value xml:space="preserve">Introduzca el código de usuario. Tiene que tener como mínimo cinco caracteres alfanuméricos.</value>
+  <data name="Username.Help" lastModified="2018-03-25 06:44:31">
+    <value xml:space="preserve">Introduzca el código de usuario. Tiene que tener como mínimo cinco caracteres alfanuméricos, no puede empezar o acabar con espacios y no puede contener ninguno de los siguiente caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
   </data>
   <data name="Username.RegExError">
     <value xml:space="preserve">El código de usuario introducido no es válido.</value>
