@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
   <packages>
-    <package name="Core_es-ES" type="CoreLanguagePack" version="09.05.00">
+    <package name="Core_es-ES" type="CoreLanguagePack" version="09.06.00">
       <friendlyName>DNN Core Español (España, alfabetización internacional)</friendlyName>
       <description>Spanish (Spain, International Sort) language pack for DNN Platform</description>
       <iconFile />
@@ -461,7 +461,7 @@
         </component>
       </components>
     </package>
-    <package name="DDRMenu_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DDRMenu_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DDR Menu Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for DDR Menu.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -490,7 +490,7 @@
         </component>
       </components>
     </package>
-    <package name="DigitalAssetsManagement_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DigitalAssetsManagement_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Digital Asset Management Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Digital Asset Management.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -547,7 +547,7 @@
         </component>
       </components>
     </package>
-    <package name="DNN_HTML_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DNN_HTML_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>HTML Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for HTML.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -592,7 +592,7 @@
         </component>
       </components>
     </package>
-    <package name="Journal_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="Journal_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Journal Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Journal.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -629,7 +629,7 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Modules.MemberDirectory_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DotNetNuke.Modules.MemberDirectory_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Member Directory Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Member Directory.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -658,7 +658,7 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Modules.CoreMessaging_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DotNetNuke.Modules.CoreMessaging_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Message Center Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Message Center.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -687,7 +687,7 @@
         </component>
       </components>
     </package>
-    <package name="DNNCorp.RazorHost_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DNNCorp.RazorHost_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Razor Host Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Razor Host.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -728,7 +728,7 @@
         </component>
       </components>
     </package>
-    <package name="Social Groups_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="Social Groups_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Social Groups Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Social Groups.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -769,7 +769,7 @@
         </component>
       </components>
     </package>
-    <package name="DefaultAuthentication_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DefaultAuthentication_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Default Authentication Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Default Authentication.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -798,7 +798,7 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Web.Deprecated_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DotNetNuke.Web.Deprecated_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DNN Deprecated Web Controls Library Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for DNN Deprecated Web Controls Library.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -1455,7 +1455,7 @@
         </component>
       </components>
     </package>
-    <package name="Dnn.EditBar.UI_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="Dnn.EditBar.UI_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Dnn.EditBar.UI Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Dnn.EditBar.UI.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -1496,7 +1496,7 @@
         </component>
       </components>
     </package>
-    <package name="Dnn.PersonaBar.UI_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="Dnn.PersonaBar.UI_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Dnn.PersonaBar.UI Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Dnn.PersonaBar.UI.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -1605,7 +1605,7 @@
         </component>
       </components>
     </package>
-    <package name="DotNetNuke.Telerik.Web_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="DotNetNuke.Telerik.Web_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>DotNetNuke Telerik Web Components Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for DotNetNuke Telerik Web Components.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
@@ -2262,7 +2262,7 @@
         </component>
       </components>
     </package>
-    <package name="SiteExportImport_es-ES" type="ExtensionLanguagePack" version="09.05.00">
+    <package name="SiteExportImport_es-ES" type="ExtensionLanguagePack" version="09.06.00">
       <friendlyName>Site Export Import Español (España, alfabetización internacional)</friendlyName>
       <description><![CDATA[Spanish (Spain, International Sort) language pack for Site Export Import.<br />This translation of DNN into Spanish (Spain, International Sort) was done by <a href="http://www.disgrafic.com">Disgrafic ITec SL</a>. All copyrights for the original and translated language are owned by DNN Corp.]]></description>
       <iconFile />
