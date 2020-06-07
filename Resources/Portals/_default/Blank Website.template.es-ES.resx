@@ -25,7 +25,7 @@
     <value xml:space="preserve">es-ES</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] DNN Corp</value>
+    <value xml:space="preserve">Copyright [year] mi sitio web</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text">
     <value xml:space="preserve">Lo sentimos, la página que esta buscando no se ha encontrado. Puede que la página se haya borrado, su nombre haya cambiado o bien esté temporalmente desactivada. Le sugerimos que empieze de nuevo en la página inicial. Póngase en contacto con nosotros si el problema persiste o no puede encontrar lo que necesita.</value>
