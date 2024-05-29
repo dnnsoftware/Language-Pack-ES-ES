@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AnonymizeIp.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Anonimizar IP:</value>
+  <data name="AnonymizeIp.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>Anonimizar IP:</value>
   </data>
-  <data name="btnDelete.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Eliminar conexión</value>
+  <data name="btnDelete.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>Eliminar conexión</value>
   </data>
-  <data name="ConnectorName.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Conector de Google Analytics</value>
+  <data name="ConnectorName.Text" xml:space="preserve" lastModified="2024-05-29 17:31:57">
+    <value>Conector de Google Analytics (antiguo UA)</value>
   </data>
-  <data name="DataConsent.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Atención: esta opción está activada automáticamente dado que el consentimiento de datos está activado.</value>
+  <data name="DataConsent.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>Atención: esta opción está activada automáticamente dado que el consentimiento de datos está activado.</value>
   </data>
-  <data name="TrackAdministrators.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Rastrear administradores:</value>
+  <data name="TrackAdministrators.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>Rastrear administradores:</value>
   </data>
-  <data name="TrackingCodeFormat.ErrorMessage" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">El código de rastreo no se puede dejar vacío.</value>
+  <data name="TrackingCodeFormat.ErrorMessage" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>El código de rastreo no se puede dejar vacío.</value>
   </data>
-  <data name="TrackingID.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">ID de rastreo:</value>
+  <data name="TrackingID.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>ID de rastreo:</value>
   </data>
-  <data name="TrackUserId.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">UserID de rastreo:</value>
+  <data name="TrackUserId.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>UserID de rastreo:</value>
   </data>
-  <data name="UrlParameter.Text" lastModified="2020-05-09 07:23:10">
-    <value xml:space="preserve">Parámetro URL:</value>
+  <data name="UrlParameter.Text" xml:space="preserve" lastModified="2020-05-09 07:23:10">
+    <value>Parámetro URL:</value>
   </data>
 </root>

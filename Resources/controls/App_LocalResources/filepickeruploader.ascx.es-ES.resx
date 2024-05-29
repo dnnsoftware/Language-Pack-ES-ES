@@ -12,16 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="DropFile.Text">
-    <value xml:space="preserve">Arrastre los archivos aquí</value>
+  <data name="DropFile.Text" xml:space="preserve">
+    <value>Arrastre los archivos aquí</value>
   </data>
-  <data name="File.Text">
-    <value xml:space="preserve">Archivo:</value>
+  <data name="File.Text" xml:space="preserve">
+    <value>Archivo:</value>
   </data>
-  <data name="Folder.Text">
-    <value xml:space="preserve">Carpeta:</value>
+  <data name="Folder.Text" xml:space="preserve">
+    <value>Carpeta:</value>
   </data>
-  <data name="UploadFile.Text">
-    <value xml:space="preserve">Cargar archivos</value>
+  <data name="UploadFile.Text" xml:space="preserve">
+    <value>Cargar archivos</value>
   </data>
 </root>

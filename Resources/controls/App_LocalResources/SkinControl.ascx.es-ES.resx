@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Application.Text">
-    <value xml:space="preserve">Valor por omisión de la aplicación</value>
+  <data name="Application.Text" xml:space="preserve">
+    <value>Valor por omisión de la aplicación</value>
   </data>
-  <data name="Host.Text">
-    <value xml:space="preserve">Sistema</value>
+  <data name="Host.Text" xml:space="preserve">
+    <value>Sistema</value>
   </data>
-  <data name="Page.Text">
-    <value xml:space="preserve">Valor por omisión de la página</value>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Valor por omisión de la página</value>
   </data>
-  <data name="Portal.Text">
-    <value xml:space="preserve">Valor por omisión del sitio</value>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>Valor por omisión del sitio</value>
   </data>
-  <data name="Preview.Text">
-    <value xml:space="preserve">Previsualizar</value>
+  <data name="Preview.Text" xml:space="preserve">
+    <value>Previsualizar</value>
   </data>
-  <data name="Site.Text">
-    <value xml:space="preserve">Sitio</value>
+  <data name="Site.Text" xml:space="preserve">
+    <value>Sitio</value>
   </data>
-  <data name="System.Text">
-    <value xml:space="preserve">Valor por omisión del sistema</value>
+  <data name="System.Text" xml:space="preserve">
+    <value>Valor por omisión del sistema</value>
   </data>
 </root>

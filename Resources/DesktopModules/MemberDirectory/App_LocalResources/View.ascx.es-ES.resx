@@ -12,133 +12,133 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AcceptFriend.Text">
-    <value xml:space="preserve">Aceptar peticiones de maigos</value>
+  <data name="AcceptFriend.Text" xml:space="preserve">
+    <value>Aceptar peticiones de maigos</value>
   </data>
-  <data name="AddFriend.Text">
-    <value xml:space="preserve">Añadir como amigo</value>
+  <data name="AddFriend.Text" xml:space="preserve">
+    <value>Añadir como amigo</value>
   </data>
-  <data name="AdvancedSearch.Text">
-    <value xml:space="preserve">Búsqueda avanzada</value>
+  <data name="AdvancedSearch.Text" xml:space="preserve">
+    <value>Búsqueda avanzada</value>
   </data>
-  <data name="Attachments.Text">
-    <value xml:space="preserve">Adjunto(s)</value>
+  <data name="Attachments.Text" xml:space="preserve">
+    <value>Adjunto(s)</value>
   </data>
-  <data name="AutoSuggestError.Text">
-    <value xml:space="preserve">Se ha producido un error al obtener las sugerencias:</value>
+  <data name="AutoSuggestError.Text" xml:space="preserve">
+    <value>Se ha producido un error al obtener las sugerencias:</value>
   </data>
-  <data name="Browse.Text">
-    <value xml:space="preserve">Explorar sitio</value>
+  <data name="Browse.Text" xml:space="preserve">
+    <value>Explorar sitio</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
-  <data name="City.Text">
-    <value xml:space="preserve">Ciudad</value>
+  <data name="City.Text" xml:space="preserve">
+    <value>Ciudad</value>
   </data>
-  <data name="Country.Text">
-    <value xml:space="preserve">País</value>
+  <data name="Country.Text" xml:space="preserve">
+    <value>País</value>
   </data>
-  <data name="CreateMessageError.Text">
-    <value xml:space="preserve">Se ha producido un error al crear el mensaje. Inténtelo de nuevo más tarde.</value>
+  <data name="CreateMessageError.Text" xml:space="preserve">
+    <value>Se ha producido un error al crear el mensaje. Inténtelo de nuevo más tarde.</value>
   </data>
-  <data name="CreateMessageErrorWithDescription.Text">
-    <value xml:space="preserve">Se ha producido un error al crear el mensaje:</value>
+  <data name="CreateMessageErrorWithDescription.Text" xml:space="preserve">
+    <value>Se ha producido un error al crear el mensaje:</value>
   </data>
-  <data name="DismissThis.Text">
-    <value xml:space="preserve">Descartar</value>
+  <data name="DismissThis.Text" xml:space="preserve">
+    <value>Descartar</value>
   </data>
-  <data name="DisplayName.Text">
-    <value xml:space="preserve">Nombre a mostrar</value>
+  <data name="DisplayName.Text" xml:space="preserve">
+    <value>Nombre a mostrar</value>
   </data>
-  <data name="Email.Text">
-    <value xml:space="preserve">Email </value>
+  <data name="Email.Text" xml:space="preserve">
+    <value>Email </value>
   </data>
-  <data name="Follow.Text">
-    <value xml:space="preserve">Seguir</value>
+  <data name="Follow.Text" xml:space="preserve">
+    <value>Seguir</value>
   </data>
-  <data name="FriendPending.Text">
-    <value xml:space="preserve">Petición de amigo pendiente</value>
+  <data name="FriendPending.Text" xml:space="preserve">
+    <value>Petición de amigo pendiente</value>
   </data>
-  <data name="Loading.Text">
-    <value xml:space="preserve">Cargando ...</value>
+  <data name="Loading.Text" xml:space="preserve">
+    <value>Cargando ...</value>
   </data>
-  <data name="LoadMore.Text">
-    <value xml:space="preserve">Cargar más</value>
+  <data name="LoadMore.Text" xml:space="preserve">
+    <value>Cargar más</value>
   </data>
-  <data name="Message.Text">
-    <value xml:space="preserve">Su mensaje</value>
+  <data name="Message.Text" xml:space="preserve">
+    <value>Su mensaje</value>
   </data>
-  <data name="MessageSent.Text">
-    <value xml:space="preserve">Su mensaje se ha enviado correctamente.</value>
+  <data name="MessageSent.Text" xml:space="preserve">
+    <value>Su mensaje se ha enviado correctamente.</value>
   </data>
-  <data name="MessageSentTitle.Text">
-    <value xml:space="preserve">Mensaje enviado</value>
+  <data name="MessageSentTitle.Text" xml:space="preserve">
+    <value>Mensaje enviado</value>
   </data>
-  <data name="Name.Text">
-    <value xml:space="preserve">Nombre</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nombre</value>
   </data>
-  <data name="NoMembers.Text">
-    <value xml:space="preserve">No se han encontrado miembros para las condiciones de búsqueda entradas.</value>
+  <data name="NoMembers.Text" xml:space="preserve">
+    <value>No se han encontrado miembros para las condiciones de búsqueda entradas.</value>
   </data>
-  <data name="NoResults.Text">
-    <value xml:space="preserve">Ningún resultado</value>
+  <data name="NoResults.Text" xml:space="preserve">
+    <value>Ningún resultado</value>
   </data>
-  <data name="Prefix.Text">
-    <value xml:space="preserve">Prefijo</value>
+  <data name="Prefix.Text" xml:space="preserve">
+    <value>Prefijo</value>
   </data>
-  <data name="Refresh.Text">
-    <value xml:space="preserve">Actualizar resultados</value>
+  <data name="Refresh.Text" xml:space="preserve">
+    <value>Actualizar resultados</value>
   </data>
-  <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar adjunto</value>
+  <data name="Remove.Text" xml:space="preserve">
+    <value>Eliminar adjunto</value>
   </data>
-  <data name="RemoveFriend.Text">
-    <value xml:space="preserve">Eliminar amigo</value>
+  <data name="RemoveFriend.Text" xml:space="preserve">
+    <value>Eliminar amigo</value>
   </data>
-  <data name="Search.Text">
-    <value xml:space="preserve">Buscar</value>
+  <data name="Search.Text" xml:space="preserve">
+    <value>Buscar</value>
   </data>
-  <data name="SearchConnections.Text">
-    <value xml:space="preserve">Buscar conexiones...</value>
+  <data name="SearchConnections.Text" xml:space="preserve">
+    <value>Buscar conexiones...</value>
   </data>
-  <data name="SearchError.Text">
-    <value xml:space="preserve">Las búsquedas solo pueden incluir caracteres alfanuméricos y espacios</value>
+  <data name="SearchError.Text" xml:space="preserve">
+    <value>Las búsquedas solo pueden incluir caracteres alfanuméricos y espacios</value>
   </data>
-  <data name="Searching.Text">
-    <value xml:space="preserve">Buscando...</value>
+  <data name="Searching.Text" xml:space="preserve">
+    <value>Buscando...</value>
   </data>
-  <data name="Send.Text">
-    <value xml:space="preserve">Enviar</value>
+  <data name="Send.Text" xml:space="preserve">
+    <value>Enviar</value>
   </data>
-  <data name="SendMessage.Text">
-    <value xml:space="preserve">Enviar mensaje</value>
+  <data name="SendMessage.Text" xml:space="preserve">
+    <value>Enviar mensaje</value>
   </data>
-  <data name="ServerError.Text">
-    <value xml:space="preserve">Se ha producido un error al procesar la petición. Inténtelo más tarde.</value>
+  <data name="ServerError.Text" xml:space="preserve">
+    <value>Se ha producido un error al procesar la petición. Inténtelo más tarde.</value>
   </data>
-  <data name="ServerErrorWithDescription.Text">
-    <value xml:space="preserve">Se ha producido un error al procesar la petición:</value>
+  <data name="ServerErrorWithDescription.Text" xml:space="preserve">
+    <value>Se ha producido un error al procesar la petición:</value>
   </data>
-  <data name="Subject.Text">
-    <value xml:space="preserve">Asunto</value>
+  <data name="Subject.Text" xml:space="preserve">
+    <value>Asunto</value>
   </data>
-  <data name="Throttling.Text">
-    <value xml:space="preserve">Espere antes de enviar un nuevo mensaje.</value>
+  <data name="Throttling.Text" xml:space="preserve">
+    <value>Espere antes de enviar un nuevo mensaje.</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Escriba su mensaje</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Escriba su mensaje</value>
   </data>
-  <data name="To.Text">
-    <value xml:space="preserve">Enviar a</value>
+  <data name="To.Text" xml:space="preserve">
+    <value>Enviar a</value>
   </data>
-  <data name="UnFollow.Text">
-    <value xml:space="preserve">Dejar de seguir</value>
+  <data name="UnFollow.Text" xml:space="preserve">
+    <value>Dejar de seguir</value>
   </data>
-  <data name="Upload.Text">
-    <value xml:space="preserve">Cargar desde Mi PC</value>
+  <data name="Upload.Text" xml:space="preserve">
+    <value>Cargar desde Mi PC</value>
   </data>
-  <data name="UserName.Text">
-    <value xml:space="preserve">Nombre de usuario</value>
+  <data name="UserName.Text" xml:space="preserve">
+    <value>Nombre de usuario</value>
   </data>
 </root>

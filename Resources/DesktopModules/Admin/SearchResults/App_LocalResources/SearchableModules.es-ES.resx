@@ -12,34 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="All.Text">
-    <value xml:space="preserve">Todos</value>
+  <data name="All.Text" xml:space="preserve">
+    <value>Todos</value>
   </data>
-  <data name="Crawler_tab.Text">
-    <value xml:space="preserve">Páginas</value>
+  <data name="Crawler_tab.Text" xml:space="preserve">
+    <value>Páginas</value>
   </data>
-  <data name="Crawler_user.Text">
-    <value xml:space="preserve">Usuarios</value>
+  <data name="Crawler_user.Text" xml:space="preserve">
+    <value>Usuarios</value>
   </data>
-  <data name="Module_Answers.Text">
-    <value xml:space="preserve">Respuestas</value>
+  <data name="Module_Answers.Text" xml:space="preserve">
+    <value>Respuestas</value>
   </data>
-  <data name="Module_Blogs.Text">
-    <value xml:space="preserve">Blogs</value>
+  <data name="Module_Blogs.Text" xml:space="preserve">
+    <value>Blogs</value>
   </data>
-  <data name="Module_Events.Text">
-    <value xml:space="preserve">Eventos</value>
+  <data name="Module_Events.Text" xml:space="preserve">
+    <value>Eventos</value>
   </data>
-  <data name="Module_Group Directory.Text" lastModified="2017-04-29 05:34:40">
-    <value xml:space="preserve">Directorio de grupos</value>
+  <data name="Module_Group Directory.Text" xml:space="preserve" lastModified="2017-04-29 05:34:40">
+    <value>Directorio de grupos</value>
   </data>
-  <data name="Module_Ideas.Text">
-    <value xml:space="preserve">Ideas</value>
+  <data name="Module_Ideas.Text" xml:space="preserve">
+    <value>Ideas</value>
   </data>
-  <data name="Module_Journal.Text">
-    <value xml:space="preserve">Actividad</value>
+  <data name="Module_Journal.Text" xml:space="preserve">
+    <value>Actividad</value>
   </data>
-  <data name="Module_Text/HTML.Text">
-    <value xml:space="preserve">Páginas</value>
+  <data name="Module_Text/HTML.Text" xml:space="preserve">
+    <value>Páginas</value>
   </data>
 </root>

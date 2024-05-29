@@ -1,110 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <!-- 
-    Microsoft ResX Schema 
-    
-    Version 2.0
-    
-    The primary goals of this format is to allow a simple XML format 
-    that is mostly human readable. The generation and parsing of the 
-    various data types are done through the TypeConverter classes 
-    associated with the data types.
-    
-    Example:
-    
-    ... ado.net/XML headers & schema ...
-    <resheader name="resmimetype">text/microsoft-resx</resheader>
-    <resheader name="version">2.0</resheader>
-    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
-    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
-    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
-    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
-    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
-        <value>[base64 mime encoded serialized .NET Framework object]</value>
-    </data>
-    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
-        <comment>This is a comment</comment>
-    </data>
-                
-    There are any number of "resheader" rows that contain simple 
-    name/value pairs.
-    
-    Each data row contains a name, and value. The row also contains a 
-    type or mimetype. Type corresponds to a .NET class that support 
-    text/value conversion through the TypeConverter architecture. 
-    Classes that don't support this are serialized and stored with the 
-    mimetype set.
-    
-    The mimetype is used for serialized objects, and tells the 
-    ResXResourceReader how to depersist the object. This is currently not 
-    extensible. For a given mimetype the value must be set accordingly:
-    
-    Note - application/x-microsoft.net.object.binary.base64 is the format 
-    that the ResXResourceWriter will generate, however the reader can 
-    read any of the formats listed below.
-    
-    mimetype: application/x-microsoft.net.object.binary.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
-            : and then encoded with base64 encoding.
-    
-    mimetype: application/x-microsoft.net.object.soap.base64
-    value   : The object must be serialized with 
-            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
-            : and then encoded with base64 encoding.
-
-    mimetype: application/x-microsoft.net.object.bytearray.base64
-    value   : The object must be serialized into a byte array 
-            : using a System.ComponentModel.TypeConverter
-            : and then encoded with base64 encoding.
-    -->
-  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
-    <xsd:element name="root" msdata:IsDataSet="true">
-      <xsd:complexType>
-        <xsd:choice maxOccurs="unbounded">
-          <xsd:element name="metadata">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" />
-              </xsd:sequence>
-              <xsd:attribute name="name" use="required" type="xsd:string" />
-              <xsd:attribute name="type" type="xsd:string" />
-              <xsd:attribute name="mimetype" type="xsd:string" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="assembly">
-            <xsd:complexType>
-              <xsd:attribute name="alias" type="xsd:string" />
-              <xsd:attribute name="name" type="xsd:string" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="data">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
-              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
-              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
-              <xsd:attribute ref="xml:space" />
-            </xsd:complexType>
-          </xsd:element>
-          <xsd:element name="resheader">
-            <xsd:complexType>
-              <xsd:sequence>
-                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
-              </xsd:sequence>
-              <xsd:attribute name="name" type="xsd:string" use="required" />
-            </xsd:complexType>
-          </xsd:element>
-        </xsd:choice>
-      </xsd:complexType>
-    </xsd:element>
-  </xsd:schema>
   <resheader name="resmimetype">
     <value>text/microsoft-resx</value>
   </resheader>
@@ -112,10 +7,10 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptTerms.Required" xml:space="preserve">
     <value>Acepte los términos del acuerdo de licencia para continuar.</value>
@@ -258,6 +153,9 @@
   <data name="DeletingOldFiles.Text" xml:space="preserve">
     <value>Borrando archivos anteriores de </value>
   </data>
+  <data name="DotNetVersion472Required.Text" xml:space="preserve">
+    <value>Se requiere .Net Framework 4.7.2. Verifique las actualizaciones de Windows antes de continuar.</value>
+  </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Introduzca el email de este usuario.</value>
   </data>
@@ -285,17 +183,8 @@
   <data name="FileAndFolderPermissionCheck.Text" xml:space="preserve">
     <value>Verificación de permisos de archivo y carpeta</value>
   </data>
-  <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve">
-    <value>&lt;div class="permission"&gt;&lt;img alt="Imagen que muestra la configuración de seguridad de la carpeta raíz del web: Leer, Escribir y Modificar, para la cuenta ASPNET o NT AUTHORITY/SERVICIO DE RED." src="..\403-3.gif" align="right" hspace="10"/&gt;
-&lt;p&gt;&lt;strong&gt;&lt;font color='red'&gt;Su sitio ha fallado las verificaciones de permisos.&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;
-Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). Vaya a las propiedades de la carpeta, y seleccione la pestaña Seguridad. Añada las cuentas y permisos necesarios.
-&lt;br/&gt;&lt;br/&gt;
-&lt;h3&gt;Si utiliza Windows 2000 - IIS5&lt;/h3&gt;
-&lt;p&gt;La cuenta ASPNET tiene que tener permisos de Lectura, Escritura y Modificación en la carpeta raíz de la web.&lt;/p&gt;
-&lt;h3&gt;Si utiliza Windows 2003, Windows Vista o Windows Server 2008 y  IIS6 o IIS7&lt;/h3&gt;
-&lt;p&gt;La cuenta NT AUTHORITY\SERVICIO DE RED tiene que tener permisos de Lectura, Escritura y Modificación en la carpeta raíz de la web.&lt;/p&gt;
-&lt;h3&gt;Si utiliza Windows 7 o Windows Server 2008 R2 y  IIS7.5&lt;/h3&gt;
-&lt;p&gt;La cuenta IIS AppPool\DefaultAppPool tiene que tener permisos de Lectura, Escritura y Modificación en la carpeta raíz de la web.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Verificar de nuevo&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
+  <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve" lastModified="2024-05-29 17:34:16">
+    <value>&lt;div class="permission"&gt;&lt;img alt="La imagen que muestra la configuración de seguridad para la carpeta raíz del sitio web debe estar configurada en Control de lectura, escritura y cambios para las cuentas ASPNET o NT AUTHORITY/NETWORK SERVICE." src="..\403-3.gif" align="right" hspace="10"/&gt; &lt;p&gt;&lt;b&gt;&lt;font color='red'&gt;Su sitio no pasó la verificación de permisos.&lt;/font&gt;&lt; /b&gt;&lt;/p&gt; Usando el Explorador de Windows, busque las carpetas de su sitio web ( {0} ). Haga clic derecho en la carpeta y seleccione Compartir y seguridad en el menú emergente. Seleccione la pestaña Seguridad. Agregue la cuenta de usuario adecuada y establezca los permisos. &lt;br/&gt;&lt;br/&gt; &lt;h3&gt;Si usa Windows 8 o superior, Windows Server 2008 R2 o superior, e IIS7.5 o superior&lt;/h3&gt; &lt;p&gt;La cuenta de usuario IIS AppPool\DefaultAppPool debe tener lectura, escritura y Control de cambios de la raíz virtual de su sitio web.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Vuelva a verificar&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="FileAndFolderPermissionCheckTitle.Text" xml:space="preserve">
     <value>Verificando los permisos de archivo y carpeta </value>
@@ -317,15 +206,6 @@ Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). 
   </data>
   <data name="IISVerificationFail.Text" xml:space="preserve">
     <value>El grupo de aplicaciones de IIS tiene que ejecutarse en Modo Integrado</value>
-  </data>
-  <data name="ImprovementProgramExplain.Text" xml:space="preserve">
-    <value>El programa de mejoras del producto nos permite entender mejor como mejorar DNN para usted. Los datos enviados nos ayudarán a analizar el uso y lo que es más importante para los usuarios del producto. Todos los datos enviados son anónimos y para uso interno. Ver más información sobre el &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras del Producto&lt;/a&gt;.</value>
-  </data>
-  <data name="ImprovementProgramLabel.Text" xml:space="preserve">
-    <value>Enviar información anónima de uso a DNN</value>
-  </data>
-  <data name="ImprovementsProgramTitle.Text" xml:space="preserve">
-    <value>Programa de mejoras del producto</value>
   </data>
   <data name="InitHostSetting.Text" xml:space="preserve">
     <value>Inicializando configuración del sistema </value>
@@ -363,14 +243,20 @@ Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). 
   <data name="InstallingMembershipDatabaseScriptStep.Text" xml:space="preserve">
     <value>Instalando scripts de base de datos de Membership </value>
   </data>
+  <data name="InstallingSslStep.Text" xml:space="preserve" lastModified="2024-05-29 17:33:01">
+    <value>Verificando HTTPS para el sitio {0}</value>
+  </data>
+  <data name="InstallingSslStepSiteNotFound.Text" xml:space="preserve" lastModified="2024-05-29 17:33:01">
+    <value>No se ha podido validar HTTPS para el sitio {0}</value>
+  </data>
   <data name="InstallTitle.Text" xml:space="preserve">
     <value>Instalación</value>
   </data>
   <data name="InstallVersion.Text" xml:space="preserve">
     <value>Añadiendo versión de instalación</value>
   </data>
-  <data name="IntroDetail.Text" xml:space="preserve">
-    <value>&lt;a class="videoLink" href="https://www.dnnsoftware.com/Resources/Training/Training-Videos/Installation.aspx" target="new"&gt;Ver el vídeo de instalación&lt;/a&gt;</value>
+  <data name="IntroDetail.Text" xml:space="preserve" lastModified="2024-05-29 17:35:22">
+    <value>&lt;a class="videoLink" href="https://dnncommunity.org/How-To/-Download-and-Install" target="new"&gt;Ver sitio web de la comunidad DNN&lt;/a&gt;</value>
   </data>
   <data name="InvalidQualifier.Text" xml:space="preserve">
     <value>El prefijo de objetos tiene que empezar con una letra y no puede tener más de 20 caracteres.</value>
@@ -384,14 +270,11 @@ Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). 
   <data name="IsSqlServerDbo.Text" xml:space="preserve">
     <value>El usuario de base de datos no tiene permisos de dbo</value>
   </data>
-  <data name="IsValidDotNetVersion.Text" xml:space="preserve">
-    <value>DotNetNuke necesita la versión .NET 4.0 o superior</value>
+  <data name="IsValidSqlServerVersion.Text" xml:space="preserve" lastModified="2024-05-29 17:36:22">
+    <value>DotNetNuke necesita la versión SQL Server 2008 R2 (Express o completo)</value>
   </data>
-  <data name="IsValidSqlServerVersion.Text" xml:space="preserve">
-    <value>DotNetNuke necesita la versión SQL Server 2008 (Express o normal)</value>
-  </data>
-  <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve">
-    <value>Verificando si la base de datos es SQL Server 2008</value>
+  <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve" lastModified="2024-05-29 17:36:22">
+    <value>Verificar que la versión de la base de datos sea SQL 2008 R2 (Express o completo) o superior para funcionar</value>
   </data>
   <data name="Language.Help" xml:space="preserve">
     <value>Seleccione el idioma que quiere utilizar para su sitio web.</value>
@@ -537,13 +420,16 @@ Utilice el Explorador de Windows para ver las carpetas de su sitio web ( {0} ). 
   <data name="WebsiteName.Text" xml:space="preserve">
     <value>Nombre del sitio web</value>
   </data>
+  <data name="WebsiteSsl.Help" xml:space="preserve" lastModified="2024-05-29 17:33:28">
+    <value>El sitio web si configurará para ejecutarse con HTTPS</value>
+  </data>
+  <data name="WebsiteSsl.Text" xml:space="preserve" lastModified="2024-05-29 17:33:28">
+    <value>HTTPS</value>
+  </data>
   <data name="WebsiteTemplate.Help" xml:space="preserve">
     <value>Seleccione el tipo de sitio web que quiere configurar.</value>
   </data>
   <data name="WebsiteTemplate.Text" xml:space="preserve">
     <value>Plantilla</value>
-  </data>
-  <data name="DotNetVersion472Required.Text" xml:space="preserve">
-    <value>Se requiere .Net Framework 4.7.2. Verifique las actualizaciones de Windows antes de continuar.</value>
   </data>
 </root>

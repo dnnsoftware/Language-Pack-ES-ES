@@ -12,19 +12,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CancelButton.Text">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="QuickAddModule.Text" xml:space="preserve" lastModified="2024-05-27 17:59:54">
+    <value>Añadir módulo</value>
   </data>
-  <data name="GeneralTab.Text">
-    <value xml:space="preserve">General</value>
-  </data>
-  <data name="PreviewPanelTitle.Text">
-    <value xml:space="preserve">Previsualizar</value>
-  </data>
-  <data name="SaveButton.Text">
-    <value xml:space="preserve">Guardar</value>
-  </data>
-  <data name="UserCannotReadFileError.Text">
-    <value xml:space="preserve">El usuario no tiene permisos para leer el archivo</value>
+  <data name="QuickAddModule.Tooltip" xml:space="preserve" lastModified="2024-05-27 17:59:54">
+    <value>Añadir el módulo immediatamente al panel seleccionado</value>
   </data>
 </root>
