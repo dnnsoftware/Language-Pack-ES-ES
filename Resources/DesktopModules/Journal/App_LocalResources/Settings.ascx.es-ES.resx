@@ -12,52 +12,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AllowFiles.Help">
-    <value xml:space="preserve">Indique si los usuarios podrán adjuntar archivos a los mensajes.</value>
+  <data name="AllowFiles.Help" xml:space="preserve">
+    <value>Indique si los usuarios podrán adjuntar archivos a los mensajes.</value>
   </data>
-  <data name="AllowFiles.Text">
-    <value xml:space="preserve">Permitir adjuntar archivos</value>
+  <data name="AllowFiles.Text" xml:space="preserve">
+    <value>Permitir adjuntar archivos</value>
   </data>
-  <data name="AllowPhotos.Help">
-    <value xml:space="preserve">Indique si los usuarios podrán adjuntar fotos a los mensajes.</value>
+  <data name="AllowPhotos.Help" xml:space="preserve">
+    <value>Indique si los usuarios podrán adjuntar fotos a los mensajes.</value>
   </data>
-  <data name="AllowPhotos.Text">
-    <value xml:space="preserve">Pemitir adjuntar fotos</value>
+  <data name="AllowPhotos.Text" xml:space="preserve">
+    <value>Pemitir adjuntar fotos</value>
   </data>
-  <data name="AllowResize.Help">
-    <value xml:space="preserve">Indique si quiere que se redimensionen las imágenes grandes. Sólo se redimensionarán las imágenes que tengan alguna dimensión (altura o anchura) mayor de 400px.</value>
+  <data name="AllowResize.Help" xml:space="preserve">
+    <value>Indique si quiere que se redimensionen las imágenes grandes. Sólo se redimensionarán las imágenes que tengan alguna dimensión (altura o anchura) mayor de 400px.</value>
   </data>
-  <data name="AllowResize.Text">
-    <value xml:space="preserve">Redimensionar fotos</value>
+  <data name="AllowResize.Text" xml:space="preserve">
+    <value>Redimensionar fotos</value>
   </data>
-  <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Configuración de la actividad</value>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Configuración de la actividad</value>
   </data>
-  <data name="DefaultPageSize.Help">
-    <value xml:space="preserve">Seleccione el número de mensajes que se mostrarán en una página.</value>
+  <data name="DefaultPageSize.Help" xml:space="preserve">
+    <value>Seleccione el número de mensajes que se mostrarán en una página.</value>
   </data>
-  <data name="DefaultPageSize.Text">
-    <value xml:space="preserve">Número de mensajes por página</value>
+  <data name="DefaultPageSize.Text" xml:space="preserve">
+    <value>Número de mensajes por página</value>
   </data>
-  <data name="EnableEditor.Help">
-    <value xml:space="preserve">Active esta opción para activar o desactivar la entrada directa de elementos en el editor de actividad.</value>
+  <data name="EnableEditor.Help" xml:space="preserve">
+    <value>Active esta opción para activar o desactivar la entrada directa de elementos en el editor de actividad.</value>
   </data>
-  <data name="EnableEditor.Text">
-    <value xml:space="preserve">Activar el editor de actividad</value>
+  <data name="EnableEditor.Text" xml:space="preserve">
+    <value>Activar el editor de actividad</value>
   </data>
-  <data name="JournalFilters.Help">
-    <value xml:space="preserve">Seleccione los tipos de actividad que quiere mostrar.</value>
+  <data name="JournalFilters.Help" xml:space="preserve">
+    <value>Seleccione los tipos de actividad que quiere mostrar.</value>
   </data>
-  <data name="JournalFilters.Text">
-    <value xml:space="preserve">Tipos de actividad</value>
+  <data name="JournalFilters.Text" xml:space="preserve">
+    <value>Tipos de actividad</value>
   </data>
-  <data name="MaxMessageLength.Help">
-    <value xml:space="preserve">Indique el número máximo de caracteres permitidos en los mensajes.</value>
+  <data name="MaxMessageLength.Help" xml:space="preserve">
+    <value>Indique el número máximo de caracteres permitidos en los mensajes.</value>
   </data>
-  <data name="MaxMessageLength.Text">
-    <value xml:space="preserve">Número máximo de caracteres por mensaje</value>
+  <data name="MaxMessageLength.Text" xml:space="preserve">
+    <value>Número máximo de caracteres por mensaje</value>
   </data>
-  <data name="MessageLength_Unlimited.Text">
-    <value xml:space="preserve">Sin límite</value>
+  <data name="MessageLength_Unlimited.Text" xml:space="preserve">
+    <value>Sin límite</value>
   </data>
 </root>

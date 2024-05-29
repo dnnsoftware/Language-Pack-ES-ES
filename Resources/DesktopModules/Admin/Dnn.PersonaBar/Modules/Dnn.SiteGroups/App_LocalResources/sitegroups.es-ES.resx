@@ -12,79 +12,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Añadir</value>
+  <data name="Add.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Añadir</value>
   </data>
-  <data name="AuthenticationDomain.Help" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Normalmente no es necesario.</value>
+  <data name="AuthenticationDomain.Help" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Opcionalmente, puede proporcionar el dominio raíz para la cookie de autenticación, lo que permite a los usuarios permanecer conectados entre subdominios que compartan el mismo dominio raíz.</value>
   </data>
-  <data name="AuthenticationDomain.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Dominio de autenticación:</value>
+  <data name="AuthenticationDomain.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Dominio de autenticación:</value>
   </data>
-  <data name="Cancel.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="Cancel.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Cancelar</value>
   </data>
-  <data name="ChooseASite.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Seleccione un sitio</value>
+  <data name="ChooseASite.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Seleccione un sitio</value>
   </data>
-  <data name="Delete.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Eliminar</value>
+  <data name="Delete.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Eliminar</value>
   </data>
-  <data name="DeleteGroup.Confirm" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este grupo?</value>
+  <data name="DeleteGroup.Confirm" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>¿Está seguro que desea eliminar este grupo de sitios?</value>
   </data>
-  <data name="Description.Help" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Introduzca una descripción para el grupo.</value>
+  <data name="Description.Help" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Descripción del grupo de sitios</value>
   </data>
-  <data name="Description.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Descripción:</value>
+  <data name="Description.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Descripción:</value>
   </data>
-  <data name="Edit.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Editar</value>
+  <data name="Edit.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Editar</value>
   </data>
-  <data name="EditModule_Assigned.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Asignado</value>
+  <data name="EditModule_Assigned.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Asignado</value>
   </data>
-  <data name="EditModule_Unassigned.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">No asignado</value>
+  <data name="EditModule_Unassigned.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>No asignado</value>
   </data>
-  <data name="GroupName.Header" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Nombre del grupo</value>
+  <data name="GroupName.Header" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Nombre del grupo</value>
   </data>
-  <data name="GroupName.Help" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">El nombre ayuda a identificar el grupo de sitios.</value>
+  <data name="GroupName.Help" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>El nombre ayuda a identificar el grupo de sitios.</value>
   </data>
-  <data name="GroupName.Label" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Nombre del grupo:</value>
+  <data name="GroupName.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Nombre del grupo:</value>
   </data>
-  <data name="GroupName.Required" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">El nombre del grupo es obligatorio.</value>
+  <data name="GroupName.Required" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>El nombre del grupo es obligatorio.</value>
   </data>
-  <data name="MasterSite.Header" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal</value>
+  <data name="MasterSite.Header" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Sitio principal</value>
   </data>
-  <data name="MasterSite.Help" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal</value>
+  <data name="MasterSite.Help" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>El sitio principal del grupo.</value>
   </data>
-  <data name="MasterSite.Label" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal:</value>
+  <data name="MasterSite.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Sitio principal:</value>
   </data>
-  <data name="nav_SiteGroups.Text" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Grupos de sitios</value>
+  <data name="nav_SiteGroups.Text" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Grupos de sitios</value>
   </data>
-  <data name="NewSiteGroup.Button" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Nuevo grupo de sitios</value>
+  <data name="NewSiteGroup.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Nuevo grupo</value>
   </data>
-  <data name="NoData.Text" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">No se ha definido ningún grupo todavía.</value>
+  <data name="NoData.Text" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>No hay ningún grupo definido.</value>
   </data>
-  <data name="Save.Button" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Guardar</value>
+  <data name="Save.Button" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Guardar</value>
   </data>
-  <data name="SiteGroup.Label" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Grupo de sitios:</value>
+  <data name="SiteGroup.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Grupo de sitios:</value>
   </data>
-  <data name="Sites.Label" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitios:</value>
+  <data name="Sites.Label" xml:space="preserve" lastModified="2024-05-29 15:26:24">
+    <value>Sitios:</value>
   </data>
 </root>

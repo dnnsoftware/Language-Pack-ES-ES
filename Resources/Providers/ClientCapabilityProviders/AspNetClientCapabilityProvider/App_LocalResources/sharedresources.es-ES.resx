@@ -12,16 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ModuleTitle.Text" lastModified="2018-03-24 10:13:14">
-    <value xml:space="preserve">Detección de dispositivos</value>
+  <data name="ModuleTitle.Text" xml:space="preserve" lastModified="2024-05-27 19:24:19">
+    <value>Detección de dispositivos</value>
   </data>
-  <data name="PageDescription.Text" lastModified="2018-03-24 10:13:14">
-    <value xml:space="preserve">Servicio de detección y redirección móviles</value>
+  <data name="PageDescription.Text" xml:space="preserve" lastModified="2024-05-27 19:24:19">
+    <value>Detección de dispositivos móviles y servicios de redirección.</value>
   </data>
-  <data name="PageName.Text" lastModified="2018-03-24 10:13:14">
-    <value xml:space="preserve">Gestión de detección de dispositivos</value>
+  <data name="PageName.Text" xml:space="preserve" lastModified="2024-05-27 19:24:19">
+    <value>Gestión de detección de dispositivos</value>
   </data>
-  <data name="SuccessMessage.Text" lastModified="2018-03-24 10:13:14">
-    <value xml:space="preserve">Se han actualizado los datos de dispositivos correctamente</value>
+  <data name="SuccessMessage.Text" xml:space="preserve" lastModified="2024-05-27 19:24:32">
+    <value>Actualización de datos de dispositivos completada</value>
   </data>
 </root>

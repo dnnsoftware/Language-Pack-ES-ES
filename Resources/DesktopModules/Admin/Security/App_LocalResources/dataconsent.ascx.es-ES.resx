@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Anonymize.Confirm" lastModified="2020-05-08 12:16:52">
-    <value xml:space="preserve">Sus datos personales se anonimizarán. Después de la anonimización los datos ya no se podrán relacionar con usted y no podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
+  <data name="Anonymize.Confirm" xml:space="preserve" lastModified="2020-05-08 12:16:52">
+    <value>Sus datos personales se anonimizarán. Después de la anonimización los datos ya no se podrán relacionar con usted y no podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="cmdDeleteMe.Text" lastModified="2020-05-09 07:24:00">
-    <value xml:space="preserve">Borrar mi cuenta</value>
+  <data name="cmdDeleteMe.Text" xml:space="preserve" lastModified="2020-05-09 07:24:00">
+    <value>Borrar mi cuenta</value>
   </data>
-  <data name="cmdSubmit.Text" lastModified="2020-05-08 10:16:16">
-    <value xml:space="preserve">Enviar</value>
+  <data name="cmdSubmit.Text" xml:space="preserve" lastModified="2020-05-08 10:16:16">
+    <value>Enviar</value>
   </data>
-  <data name="DataConsent.Text" lastModified="2020-05-08 10:16:16">
-    <value xml:space="preserve">Estoy de acuerdo con los &lt;a href="{0}"&gt;Términos de uso&lt;/a&gt; de este sitio web y su &lt;a href="{1}"&gt;Política de privacidad&lt;/a&gt;</value>
+  <data name="DataConsent.Text" xml:space="preserve" lastModified="2020-05-08 10:16:16">
+    <value>Estoy de acuerdo con los &lt;a href="{0}"&gt;Términos de uso&lt;/a&gt; de este sitio web y su &lt;a href="{1}"&gt;Política de privacidad&lt;/a&gt;</value>
   </data>
-  <data name="DelayedHardDelete.Confirm" lastModified="2020-05-08 16:56:33">
-    <value xml:space="preserve">Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
+  <data name="DelayedHardDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+    <value>Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="HardDelete.Confirm" lastModified="2020-05-08 16:56:33">
-    <value xml:space="preserve">Sus datos personales de borrarán del sitio immediatamente. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
+  <data name="HardDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+    <value>Sus datos personales de borrarán del sitio immediatamente. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="ManualDelete.Confirm" lastModified="2020-05-08 16:56:33">
-    <value xml:space="preserve">Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
+  <data name="ManualDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+    <value>Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
 </root>

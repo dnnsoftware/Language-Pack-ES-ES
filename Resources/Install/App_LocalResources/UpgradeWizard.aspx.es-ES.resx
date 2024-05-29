@@ -12,110 +12,152 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AcceptTerms.Required" lastModified="2018-06-01 16:33:29">
-    <value xml:space="preserve">Acepte los términos del acuerdo de licencia para continuar.</value>
+  <data name="AcceptTerms.Required" xml:space="preserve" lastModified="2018-06-01 16:33:29">
+    <value>Acepte los términos del acuerdo de licencia para continuar.</value>
   </data>
-  <data name="AcceptTerms.Text" lastModified="2018-06-01 16:33:30">
-    <value xml:space="preserve">Acepto los términos del &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;acuerdo de licencia&lt;/a&gt;</value>
+  <data name="AcceptTerms.Text" xml:space="preserve" lastModified="2018-06-01 16:33:30">
+    <value>Acepto los términos del &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;acuerdo de licencia&lt;/a&gt;</value>
   </data>
-  <data name="AccountInfo.Text">
-    <value xml:space="preserve">Información de cuenta</value>
+  <data name="AccountInfo.Text" xml:space="preserve">
+    <value>Información de cuenta</value>
   </data>
-  <data name="BestPractices.Text" lastModified="2018-06-01 16:33:30">
-    <value xml:space="preserve">Está a punto de actualizar su sitio web a una versión más reciente de la aplicación. Aplicar las actualizaciones de forma consistente es la mejor manera de garantizar la seguridad de su sistema, de los usuarios y de los documentos de la web. Antes de proceder con el proceso de actualización verifique que:
+  <data name="BestPractices.Text" xml:space="preserve" lastModified="2018-06-01 16:33:30">
+    <value>Está a punto de actualizar su sitio web a una versión más reciente de la aplicación. Aplicar las actualizaciones de forma consistente es la mejor manera de garantizar la seguridad de su sistema, de los usuarios y de los documentos de la web. Antes de proceder con el proceso de actualización verifique que:
 &lt;ul&gt;
 &lt;li&gt;ha realizado pruebas de actualización en un entorno de test
 &lt;li&gt;ha documentado las características de su instalación incluyendo la compatibilidad de los módulos que se utilizan en este sistema
 &lt;li&gt;ha realizado las copias de seguridad necesarias para poder restaurar el sistema en caso de un error inesperado durante la actualización.
 &lt;/ul&gt;</value>
   </data>
-  <data name="CurrentVersion.Text">
-    <value xml:space="preserve">Versión actual - {0}</value>
+  <data name="CheckingSecurity.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+    <value>Comprobación de los aspectos de seguridad de esta instalación.</value>
   </data>
-  <data name="DatabaseUpgrade.Text">
-    <value xml:space="preserve">Actualizando base de datos </value>
+  <data name="CurrentVersion.Text" xml:space="preserve">
+    <value>Versión actual - {0}</value>
   </data>
-  <data name="Error.Text">
-    <value xml:space="preserve">Error</value>
+  <data name="DatabaseUpgrade.Text" xml:space="preserve">
+    <value>Actualizando base de datos </value>
   </data>
-  <data name="ErrorInStep.Text">
-    <value xml:space="preserve">Ha ocurrido un ERROR - {0}</value>
+  <data name="Error.Text" xml:space="preserve">
+    <value>Error</value>
   </data>
-  <data name="ExtensionsUpgrade.Text">
-    <value xml:space="preserve">Actualizando extensiones</value>
+  <data name="ErrorInStep.Text" xml:space="preserve">
+    <value>Ha ocurrido un ERROR - {0}</value>
   </data>
-  <data name="ImprovementProgramExplain.Text" lastModified="2016-11-29 16:19:57">
-    <value xml:space="preserve">El programa de mejoras del producto nos permite entender mejor como mejorar DNN para usted. Los datos enviados nos ayudarán a analizar el uso y lo que es más importante para los usuarios del producto. Todos los datos enviados son anónimos y para uso interno. Ver más información sobre el &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras del Producto&lt;/a&gt;.</value>
+  <data name="ExtensionsUpgrade.Text" xml:space="preserve">
+    <value>Actualizando extensiones</value>
   </data>
-  <data name="ImprovementProgramLabel.Text" lastModified="2016-11-29 16:19:57">
-    <value xml:space="preserve">Enviar información anónima de uso a DNN</value>
-  </data>
-  <data name="ImprovementsProgramTitle.Text" lastModified="2016-11-29 16:19:57">
-    <value xml:space="preserve">Programa de mejoras del producto</value>
-  </data>
-  <data name="IntroDetail.Text">
-    <value xml:space="preserve">&lt;p&gt;Bienvenido a la página de actualización de DotNetNuke.&lt;/p&gt;
+  <data name="IntroDetail.Text" xml:space="preserve">
+    <value>&lt;p&gt;Bienvenido a la página de actualización de DotNetNuke.&lt;/p&gt;
 
 &lt;p&gt;El primer paso consiste en seleccionar el idioma que quiera usar para la actualización.&lt;/p&gt;</value>
   </data>
-  <data name="InvalidCredentials.Text">
-    <value xml:space="preserve">Usuario y contraseña no reconocidos.</value>
+  <data name="InvalidCredentials.Text" xml:space="preserve">
+    <value>Usuario y contraseña no reconocidos.</value>
   </data>
-  <data name="Next.Text">
-    <value xml:space="preserve">Actualizar ahora</value>
+  <data name="Next.Text" xml:space="preserve">
+    <value>Actualizar ahora</value>
   </data>
-  <data name="NoInstallationLog.Text">
-    <value xml:space="preserve">No hay ningún registro de instalación</value>
+  <data name="NextStep.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+    <value>Siguiente</value>
   </data>
-  <data name="Password.Help">
-    <value xml:space="preserve">Introduzca la contraseña del superusuario.</value>
+  <data name="NoInstallationLog.Text" xml:space="preserve">
+    <value>No hay ningún registro de instalación</value>
   </data>
-  <data name="Password.Text">
-    <value xml:space="preserve">Contraseña:</value>
+  <data name="Password.Help" xml:space="preserve">
+    <value>Introduzca la contraseña del superusuario.</value>
   </data>
-  <data name="Retry.Text">
-    <value xml:space="preserve">Volver a intentar</value>
+  <data name="Password.Text" xml:space="preserve">
+    <value>Contraseña:</value>
   </data>
-  <data name="SeeLogs.Text">
-    <value xml:space="preserve">Ver el registro</value>
+  <data name="Retry.Text" xml:space="preserve">
+    <value>Volver a intentar</value>
   </data>
-  <data name="TimerMinutes.Text">
-    <value xml:space="preserve">Minutos</value>
+  <data name="Security.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+    <value>Seguridad</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Actualización</value>
+  <data name="SeeLogs.Text" xml:space="preserve">
+    <value>Ver el registro</value>
   </data>
-  <data name="Upgrade.Text">
-    <value xml:space="preserve">Actualización</value>
+  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+    <value>Su instalación utiliza Telerik en los siguientes ensamblados:</value>
   </data>
-  <data name="UpgradeDone.Text">
-    <value xml:space="preserve">Actualización completada</value>
+  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+    <value>Parece que tiene extensiones que dependen de Telerik. No podemos eliminar las dependencias que hemos detectado y mostrado anteriormente. Sin embargo, asegúrese de haber parcheado correctamente Telerik y eliminado todos los componentes de Telerik distribuidos por la plataforma DNN según la guía que se encuentra &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal /index.html" target="_blank"&gt;aquí&lt;/a&gt;. Tenga en cuenta que NO podrá actualizar a DNN 10 con esas dependencias a menos que se distribuyan con su propia copia de Telerik.</value>
   </data>
-  <data name="UpgradeStarted.Text" lastModified="2015-12-29 15:59:19">
-    <value xml:space="preserve">Actualización iniciada </value>
+  <data name="TelerikInstalledBulletin.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>En agosto de 2021 se publicó un boletín de seguridad que recomienda la eliminación inmediata de este componente debido a las vulnerabilidades de seguridad de alto nivel presentes. Puede leer más sobre esto en el &lt;a href="https://dnncommunity.org/security" target="_blank"&gt;Centro de seguridad DNN&lt;/a&gt;.</value>
   </data>
-  <data name="UpgradingDatabase.Text">
-    <value xml:space="preserve">Actualizando la base de datos</value>
+  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Dado que su instalación NO parece utilizar ninguno de estos componentes, puede optar por eliminarlos como parte de esta actualización para mejorar la seguridad de su aplicación.</value>
   </data>
-  <data name="Username.Help">
-    <value xml:space="preserve">Introduzca el usuario del superusuario.</value>
+  <data name="TelerikInstalledButNotUsedInfoAutoInstall.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Dado que su instalación NO parece utilizar ninguno de estos componentes, puede eliminarlos de forma segura. Utilice la herramienta de eliminación de Telerik en el menú de la barra de administración para eliminar estos componentes.</value>
   </data>
-  <data name="Username.Text">
-    <value xml:space="preserve">Usuario administrador del sistema (superusuario):</value>
+  <data name="TelerikInstalledDetected.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Hemos detectado la presencia de los componentes de desarrollador de Telerik previamente distribuidos. La versión de Telerik detectada es:</value>
   </data>
-  <data name="Version.Text">
-    <value xml:space="preserve">Actualización - Versión {0}</value>
+  <data name="TelerikInstalledHeading.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Alerta de seguridad</value>
   </data>
-  <data name="VersionsMatch.Text" lastModified="2018-06-01 13:34:17">
-    <value xml:space="preserve">La versión de la base de datos y la aplicación coinciden. No hay ninguna actualización pendiente de aplicar.</value>
+  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Token antifalsificación de Telerik no válido.</value>
   </data>
-  <data name="VersionsMatchButIncrementalExists.Text" lastModified="2015-09-14 05:45:10">
-    <value xml:space="preserve">La versión de la base de datos y la aplicación coinciden. Hay una versión incremental a la que puede actualizar.</value>
+  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Listo para futuras actualizaciones</value>
   </data>
-  <data name="ViewWebsite.Text">
-    <value xml:space="preserve">Ver el sitio web</value>
+  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Hemos confirmado que ha eliminado Telerik, lo que hace que su sitio esté listo para DNN 10.0.0.</value>
   </data>
-  <data name="VisitWebsite.Text">
-    <value xml:space="preserve">Ver el sitio web</value>
+  <data name="TelerikUninstallInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Tenga en cuenta que al seleccionar "Sí" a continuación se completarán &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;estos pasos. &lt;/a&gt; automáticamente.</value>
+  </data>
+  <data name="TelerikUninstallNo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>No, dejar el sitio inseguro</value>
+  </data>
+  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Falta la opción de desinstalación de Telerik.</value>
+  </data>
+  <data name="TelerikUninstallYes.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+    <value>Sí, mejorar la seguridad y eliminar Telerik ahora</value>
+  </data>
+  <data name="TimerMinutes.Text" xml:space="preserve">
+    <value>Minutos</value>
+  </data>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Actualización</value>
+  </data>
+  <data name="Upgrade.Text" xml:space="preserve">
+    <value>Actualización</value>
+  </data>
+  <data name="UpgradeDone.Text" xml:space="preserve">
+    <value>Actualización completada</value>
+  </data>
+  <data name="UpgradeStarted.Text" xml:space="preserve" lastModified="2015-12-29 15:59:19">
+    <value>Actualización iniciada </value>
+  </data>
+  <data name="UpgradingDatabase.Text" xml:space="preserve">
+    <value>Actualizando la base de datos</value>
+  </data>
+  <data name="Username.Help" xml:space="preserve">
+    <value>Introduzca el usuario del superusuario.</value>
+  </data>
+  <data name="Username.Text" xml:space="preserve">
+    <value>Usuario administrador del sistema (superusuario):</value>
+  </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Actualización - Versión {0}</value>
+  </data>
+  <data name="VersionsMatch.Text" xml:space="preserve" lastModified="2018-06-01 13:34:17">
+    <value>La versión de la base de datos y la aplicación coinciden. No hay ninguna actualización pendiente de aplicar.</value>
+  </data>
+  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve" lastModified="2015-09-14 05:45:10">
+    <value>La versión de la base de datos y la aplicación coinciden. Hay una versión incremental a la que puede actualizar.</value>
+  </data>
+  <data name="ViewWebsite.Text" xml:space="preserve">
+    <value>Ver el sitio web</value>
+  </data>
+  <data name="VisitWebsite.Text" xml:space="preserve">
+    <value>Ver el sitio web</value>
   </data>
 </root>

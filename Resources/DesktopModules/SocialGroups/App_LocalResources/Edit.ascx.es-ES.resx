@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="CreateGroup.Text">
-    <value xml:space="preserve">Crear grupo</value>
+  <data name="CreateGroup.Text" xml:space="preserve">
+    <value>Crear grupo</value>
   </data>
-  <data name="GroupName.Help">
-    <value xml:space="preserve">Escriba el nombre del grupo que quiere crear.</value>
+  <data name="GroupName.Help" xml:space="preserve">
+    <value>Escriba el nombre del grupo que quiere crear.</value>
   </data>
-  <data name="GroupName.Text">
-    <value xml:space="preserve">Nombre de grupo</value>
+  <data name="GroupName.Text" xml:space="preserve">
+    <value>Nombre de grupo</value>
   </data>
 </root>

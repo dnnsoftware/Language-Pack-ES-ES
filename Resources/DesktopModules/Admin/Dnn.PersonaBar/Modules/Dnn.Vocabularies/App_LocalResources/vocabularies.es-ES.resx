@@ -12,172 +12,172 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddTerm.Text">
-    <value xml:space="preserve">Añadir término</value>
+  <data name="AddTerm.Text" xml:space="preserve">
+    <value>Añadir término</value>
   </data>
-  <data name="All.Text" lastModified="2017-02-05 14:55:43">
-    <value xml:space="preserve">Todos</value>
+  <data name="All.Text" xml:space="preserve" lastModified="2017-02-05 14:55:43">
+    <value>Todos</value>
   </data>
-  <data name="Application.Text">
-    <value xml:space="preserve">Aplicación</value>
+  <data name="Application.Text" xml:space="preserve">
+    <value>Aplicación</value>
   </data>
-  <data name="BackToVocabularies.Text" lastModified="2017-02-05 14:55:43">
-    <value xml:space="preserve">Volver a vocabularios</value>
+  <data name="BackToVocabularies.Text" xml:space="preserve" lastModified="2017-02-05 14:55:43">
+    <value>Volver a vocabularios</value>
   </data>
-  <data name="cancelCreate.Text">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="cancelCreate.Text" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
-  <data name="Close.Text">
-    <value xml:space="preserve">Cerrar</value>
+  <data name="Close.Text" xml:space="preserve">
+    <value>Cerrar</value>
   </data>
-  <data name="Confirm.Text">
-    <value xml:space="preserve">¿Está seguro que desea añadir un vocabulario?</value>
+  <data name="Confirm.Text" xml:space="preserve">
+    <value>¿Está seguro que desea añadir un vocabulario?</value>
   </data>
-  <data name="ConfirmDeletion_Term.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar el término "{0}"?</value>
+  <data name="ConfirmDeletion_Term.Text" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar el término "{0}"?</value>
   </data>
-  <data name="ConfirmDeletion_Vocabulary.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar "{0}"?</value>
+  <data name="ConfirmDeletion_Vocabulary.Text" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar "{0}"?</value>
   </data>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Vocabularios</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Vocabularios</value>
   </data>
-  <data name="ControlTitle_createvocabulary.Text">
-    <value xml:space="preserve">Crear nuevo vocabulario</value>
+  <data name="ControlTitle_createvocabulary.Text" xml:space="preserve">
+    <value>Crear nuevo vocabulario</value>
   </data>
-  <data name="ControlTitle_edit.Text">
-    <value xml:space="preserve">Editar vocabulario</value>
+  <data name="ControlTitle_edit.Text" xml:space="preserve">
+    <value>Editar vocabulario</value>
   </data>
-  <data name="ControlTitle_editvocabulary.Text">
-    <value xml:space="preserve">Editar vocabulario</value>
+  <data name="ControlTitle_editvocabulary.Text" xml:space="preserve">
+    <value>Editar vocabulario</value>
   </data>
-  <data name="Create.Text">
-    <value xml:space="preserve">Crear nuevo vocabulario</value>
+  <data name="Create.Text" xml:space="preserve">
+    <value>Crear nuevo vocabulario</value>
   </data>
-  <data name="Create.ToolTip">
-    <value xml:space="preserve">Utilice esta opción para crear un nuevo vocabulario</value>
+  <data name="Create.ToolTip" xml:space="preserve">
+    <value>Utilice esta opción para crear un nuevo vocabulario</value>
   </data>
-  <data name="CreateTerm.Text">
-    <value xml:space="preserve">Guardar</value>
+  <data name="CreateTerm.Text" xml:space="preserve">
+    <value>Guardar</value>
   </data>
-  <data name="CreateVocabulary.Text">
-    <value xml:space="preserve">Crear</value>
+  <data name="CreateVocabulary.Text" xml:space="preserve">
+    <value>Crear</value>
   </data>
-  <data name="CurrentTerm.Text">
-    <value xml:space="preserve">Editar término</value>
+  <data name="CurrentTerm.Text" xml:space="preserve">
+    <value>Editar término</value>
   </data>
-  <data name="DeleteTerm.Text">
-    <value xml:space="preserve">Eliminar</value>
+  <data name="DeleteTerm.Text" xml:space="preserve">
+    <value>Eliminar</value>
   </data>
-  <data name="DeleteVocabulary.Text">
-    <value xml:space="preserve">Eliminar</value>
+  <data name="DeleteVocabulary.Text" xml:space="preserve">
+    <value>Eliminar</value>
   </data>
-  <data name="Description.Header">
-    <value xml:space="preserve">Descripción</value>
+  <data name="Description.Header" xml:space="preserve">
+    <value>Descripción</value>
   </data>
-  <data name="Description.Text">
-    <value xml:space="preserve">Descripción</value>
+  <data name="Description.Text" xml:space="preserve">
+    <value>Descripción</value>
   </data>
-  <data name="Description.ToolTip">
-    <value xml:space="preserve">La descripción del término</value>
+  <data name="Description.ToolTip" xml:space="preserve">
+    <value>La descripción del término</value>
   </data>
-  <data name="Edit.Text">
-    <value xml:space="preserve">Editar</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editar</value>
   </data>
-  <data name="EditFieldHelper.Text" lastModified="2017-04-29 05:34:16">
-    <value xml:space="preserve">Pulse INTRO para finalizar o ESC para cancelar</value>
+  <data name="EditFieldHelper.Text" xml:space="preserve" lastModified="2017-04-29 05:34:16">
+    <value>Pulse INTRO para finalizar o ESC para cancelar</value>
   </data>
-  <data name="Hierarchy.Text">
-    <value xml:space="preserve">Editar vocabulario</value>
+  <data name="Hierarchy.Text" xml:space="preserve">
+    <value>Editar vocabulario</value>
   </data>
-  <data name="LoadMore.Text">
-    <value xml:space="preserve">Ver más</value>
+  <data name="LoadMore.Text" xml:space="preserve">
+    <value>Ver más</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Nombre</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nombre</value>
   </data>
-  <data name="Name.Required">
-    <value xml:space="preserve">El nombre del término es obligatorio.</value>
+  <data name="Name.Required" xml:space="preserve">
+    <value>El nombre del término es obligatorio.</value>
   </data>
-  <data name="Name.Text">
-    <value xml:space="preserve">Nombre</value>
+  <data name="Name.Text" xml:space="preserve">
+    <value>Nombre</value>
   </data>
-  <data name="Name.ToolTip">
-    <value xml:space="preserve">Nombre para el vocabulario.</value>
+  <data name="Name.ToolTip" xml:space="preserve">
+    <value>Nombre para el vocabulario.</value>
   </data>
-  <data name="nav_Vocabularies.Text">
-    <value xml:space="preserve">Vocabularios</value>
+  <data name="nav_Vocabularies.Text" xml:space="preserve">
+    <value>Vocabularios</value>
   </data>
-  <data name="NewTerm.Text">
-    <value xml:space="preserve">Crear nuevo término</value>
+  <data name="NewTerm.Text" xml:space="preserve">
+    <value>Crear nuevo término</value>
   </data>
-  <data name="NoVocabularyTerms.Error">
-    <value xml:space="preserve">No se ha encontrado ningún vocabulario.</value>
+  <data name="NoVocabularyTerms.Error" xml:space="preserve">
+    <value>No se ha encontrado ningún vocabulario.</value>
   </data>
-  <data name="ParentTerm.Text">
-    <value xml:space="preserve">Término padre</value>
+  <data name="ParentTerm.Text" xml:space="preserve">
+    <value>Término padre</value>
   </data>
-  <data name="ParentTerm.ToolTip">
-    <value xml:space="preserve">Término padre en la jerarquía.</value>
+  <data name="ParentTerm.ToolTip" xml:space="preserve">
+    <value>Término padre en la jerarquía.</value>
   </data>
-  <data name="Portal.Text">
-    <value xml:space="preserve">Sitio</value>
+  <data name="Portal.Text" xml:space="preserve">
+    <value>Sitio</value>
   </data>
-  <data name="RequiredField.Text">
-    <value xml:space="preserve">Campo obligatorio</value>
+  <data name="RequiredField.Text" xml:space="preserve">
+    <value>Campo obligatorio</value>
   </data>
-  <data name="SaveTerm.Text">
-    <value xml:space="preserve">Actualizar</value>
+  <data name="SaveTerm.Text" xml:space="preserve">
+    <value>Actualizar</value>
   </data>
-  <data name="SaveVocabulary.Text">
-    <value xml:space="preserve">Actualizar</value>
+  <data name="SaveVocabulary.Text" xml:space="preserve">
+    <value>Actualizar</value>
   </data>
-  <data name="Scope.Header">
-    <value xml:space="preserve">Ámbito</value>
+  <data name="Scope.Header" xml:space="preserve">
+    <value>Ámbito</value>
   </data>
-  <data name="Scope.Text">
-    <value xml:space="preserve">Ámbito</value>
+  <data name="Scope.Text" xml:space="preserve">
+    <value>Ámbito</value>
   </data>
-  <data name="Scope.ToolTip">
-    <value xml:space="preserve">El alcance de este vocabulario, para toda la aplicación o específico de un sitio.</value>
+  <data name="Scope.ToolTip" xml:space="preserve">
+    <value>El alcance de este vocabulario, para toda la aplicación o específico de un sitio.</value>
   </data>
-  <data name="Simple.Text">
-    <value xml:space="preserve">Sencillo</value>
+  <data name="Simple.Text" xml:space="preserve">
+    <value>Sencillo</value>
   </data>
-  <data name="TermExists.Error">
-    <value xml:space="preserve">El término "{0}" ya existe en la lista.</value>
+  <data name="TermExists.Error" xml:space="preserve">
+    <value>El término "{0}" ya existe en la lista.</value>
   </data>
-  <data name="TermName.Required">
-    <value xml:space="preserve">El nombre del término es obligatorio.</value>
+  <data name="TermName.Required" xml:space="preserve">
+    <value>El nombre del término es obligatorio.</value>
   </data>
-  <data name="TermName.Text">
-    <value xml:space="preserve">Nombre</value>
+  <data name="TermName.Text" xml:space="preserve">
+    <value>Nombre</value>
   </data>
-  <data name="TermName.ToolTip">
-    <value xml:space="preserve">Nombre del término.</value>
+  <data name="TermName.ToolTip" xml:space="preserve">
+    <value>Nombre del término.</value>
   </data>
-  <data name="Terms.Text">
-    <value xml:space="preserve">Términos</value>
+  <data name="Terms.Text" xml:space="preserve">
+    <value>Términos</value>
   </data>
-  <data name="TermValidationError.Message">
-    <value xml:space="preserve">Se ha producido un error de validación del término. Los términos requieren un nombre.</value>
+  <data name="TermValidationError.Message" xml:space="preserve">
+    <value>Se ha producido un error de validación del término. Los términos requieren un nombre.</value>
   </data>
-  <data name="TermValidationError.MessageHeader">
-    <value xml:space="preserve">Error de validación del término</value>
+  <data name="TermValidationError.MessageHeader" xml:space="preserve">
+    <value>Error de validación del término</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Editar vocabulario</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Editar vocabulario</value>
   </data>
-  <data name="Type.Header">
-    <value xml:space="preserve">Tipo</value>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Tipo</value>
   </data>
-  <data name="Type.Text">
-    <value xml:space="preserve">Tipo</value>
+  <data name="Type.Text" xml:space="preserve">
+    <value>Tipo</value>
   </data>
-  <data name="Type.ToolTip">
-    <value xml:space="preserve">Tipo de vocabulario, sencillo o jerárquico.</value>
+  <data name="Type.ToolTip" xml:space="preserve">
+    <value>Tipo de vocabulario, sencillo o jerárquico.</value>
   </data>
-  <data name="VocabularyExists.Error">
-    <value xml:space="preserve">El vocabulario "{0}" ya existe en la lista.</value>
+  <data name="VocabularyExists.Error" xml:space="preserve">
+    <value>El vocabulario "{0}" ya existe en la lista.</value>
   </data>
 </root>
