@@ -1,6 +1,6 @@
 <dotnetnuke type="Package" version="5.0">
 	<packages>
-		<package name="Core_es-ES" type="CoreLanguagePack" version="9.13.3">
+		<package name="Core_es-ES" type="CoreLanguagePack" version="09.13.03">
 			<friendlyName>DNN Core Español (España, alfabetización internacional)</friendlyName>
 			<description>Spanish (Spain, International Sort) language pack for DNN Platform</description>
 			<iconFile />
@@ -482,7 +482,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DDRMenu_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DDRMenu_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DDR Menu español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -511,7 +511,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_HTML_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNN_HTML_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>HTML español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -556,7 +556,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Journal_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Journal_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Journal español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -593,7 +593,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.MemberDirectory_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DotNetNuke.Modules.MemberDirectory_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Member Directory español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -622,7 +622,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Modules.CoreMessaging_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DotNetNuke.Modules.CoreMessaging_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Message Center español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -651,7 +651,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNNCorp.RazorHost_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNNCorp.RazorHost_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Razor Host español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -692,7 +692,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="ResourceManager_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="ResourceManager_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Resource Manager español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -729,7 +729,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Social Groups_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Social Groups_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Social Groups español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -770,7 +770,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="TelerikRemoval_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="TelerikRemoval_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Telerik Removal español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -795,7 +795,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="AspNetClientCapabilityProvider_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="AspNetClientCapabilityProvider_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke ASP.NET Client Capability Provider español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -820,7 +820,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DefaultAuthentication_es-ES" type="ExtensionLanguagePack" version="9.3.2">
+		<package name="DefaultAuthentication_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Default Authentication español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -849,7 +849,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_FacebookAuthentication_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNN_FacebookAuthentication_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke Facebook Authentication Project español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -878,7 +878,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_GoogleAuthentication_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNN_GoogleAuthentication_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke Google Authentication Project español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -907,7 +907,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_LiveAuthentication_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNN_LiveAuthentication_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke Live Authentication Project español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -936,7 +936,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DNN_TwitterAuthentication_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="DNN_TwitterAuthentication_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>DotNetNuke Twitter Authentication Project español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -965,7 +965,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.AspNetMvc_es-ES" type="ExtensionLanguagePack" version="5.2.61129">
+		<package name="DotNetNuke.AspNetMvc_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>ASP.NET MVC Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -1658,7 +1658,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.AspNetWebApi_es-ES" type="ExtensionLanguagePack" version="5.2.61129">
+		<package name="DotNetNuke.AspNetWebApi_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>ASP.NET Web API Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -2351,7 +2351,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.AspNetWebPages_es-ES" type="ExtensionLanguagePack" version="3.0.61129">
+		<package name="DotNetNuke.AspNetWebPages_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>ASP.NET Web Pages Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -3044,7 +3044,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.EditBar.UI_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Dnn.EditBar.UI_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Dnn.EditBar.UI español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -3089,7 +3089,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.PersonaBar.UI_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Dnn.PersonaBar.UI_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Dnn.PersonaBar.UI español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -3210,7 +3210,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.ExchangeOnlineAuthProvider_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Dnn.ExchangeOnlineAuthProvider_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Exchange Online SMTP OAuth Provider español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -3903,7 +3903,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Dnn.GoogleMailAuthProvider_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="Dnn.GoogleMailAuthProvider_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Google Mail SMTP OAuth Provider español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -4596,7 +4596,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.MailKit_es-ES" type="ExtensionLanguagePack" version="2.15.0">
+		<package name="DotNetNuke.MailKit_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>MailKit Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -5289,7 +5289,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="Microsoft.Extensions.FileSystemGlobbing_es-ES" type="ExtensionLanguagePack" version="5.0.20">
+		<package name="Microsoft.Extensions.FileSystemGlobbing_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Microsoft.Extensions.FileSystemGlobbing Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -5982,7 +5982,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.Newtonsoft.Json_es-ES" type="ExtensionLanguagePack" version="13.0.1">
+		<package name="DotNetNuke.Newtonsoft.Json_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Newtonsoft Json Components español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -6675,7 +6675,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.SharpZipLib_es-ES" type="ExtensionLanguagePack" version="1.3.3">
+		<package name="DotNetNuke.SharpZipLib_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>SharpZipLib español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -7368,7 +7368,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="SiteExportImport_es-ES" type="ExtensionLanguagePack" version="9.13.3">
+		<package name="SiteExportImport_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>Site Export Import español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
@@ -7393,7 +7393,7 @@
 				</component>
 			</components>
 		</package>
-		<package name="DotNetNuke.WebFormsMvp_es-ES" type="ExtensionLanguagePack" version="1.4.5">
+		<package name="DotNetNuke.WebFormsMvp_es-ES" type="ExtensionLanguagePack" version="09.13.03">
 			<friendlyName>WebFormsMvp español (España, alfabetización internacional)</friendlyName>
 			<description/>
 			<iconFile/>
