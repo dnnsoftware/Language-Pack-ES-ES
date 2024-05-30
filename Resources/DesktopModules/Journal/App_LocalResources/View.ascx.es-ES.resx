@@ -12,76 +12,76 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Attach.Text">
-    <value xml:space="preserve">Adjuntar</value>
+  <data name="Attach.Text" xml:space="preserve">
+    <value>Adjuntar</value>
   </data>
-  <data name="BrowseFromSite.Text">
-    <value xml:space="preserve">Archivos en la web</value>
+  <data name="BrowseFromSite.Text" xml:space="preserve">
+    <value>Archivos en la web</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
-  <data name="Community.Text">
-    <value xml:space="preserve">Miembros</value>
+  <data name="Community.Text" xml:space="preserve">
+    <value>Miembros</value>
   </data>
-  <data name="DeleteItem.Text">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este elemento?</value>
+  <data name="DeleteItem.Text" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar este elemento?</value>
   </data>
-  <data name="EditModule.Text">
-    <value xml:space="preserve">Editar el módulo</value>
+  <data name="EditModule.Text" xml:space="preserve">
+    <value>Editar el módulo</value>
   </data>
-  <data name="Everyone.Text">
-    <value xml:space="preserve">Todos</value>
+  <data name="Everyone.Text" xml:space="preserve">
+    <value>Todos</value>
   </data>
-  <data name="FileSize.Header">
-    <value xml:space="preserve">Tamaño archivo:</value>
+  <data name="FileSize.Header" xml:space="preserve">
+    <value>Tamaño archivo:</value>
   </data>
-  <data name="Friends.Text">
-    <value xml:space="preserve">Amigos</value>
+  <data name="Friends.Text" xml:space="preserve">
+    <value>Amigos</value>
   </data>
-  <data name="GetMore.Text">
-    <value xml:space="preserve">Obtener más</value>
+  <data name="GetMore.Text" xml:space="preserve">
+    <value>Obtener más</value>
   </data>
-  <data name="GroupMembers.Text" lastModified="2016-03-17 07:43:17">
-    <value xml:space="preserve">Miembros del grupo</value>
+  <data name="GroupMembers.Text" xml:space="preserve" lastModified="2016-03-17 07:43:17">
+    <value>Miembros del grupo</value>
   </data>
-  <data name="LastModified.Header">
-    <value xml:space="preserve">Última modificación</value>
+  <data name="LastModified.Header" xml:space="preserve">
+    <value>Última modificación</value>
   </data>
-  <data name="Name.Header">
-    <value xml:space="preserve">Nombre</value>
+  <data name="Name.Header" xml:space="preserve">
+    <value>Nombre</value>
   </data>
-  <data name="Of.Text">
-    <value xml:space="preserve">de</value>
+  <data name="Of.Text" xml:space="preserve">
+    <value>de</value>
   </data>
-  <data name="Private.Text">
-    <value xml:space="preserve">Privado</value>
+  <data name="Private.Text" xml:space="preserve">
+    <value>Privado</value>
   </data>
-  <data name="SelectFile.Text">
-    <value xml:space="preserve">Seleccione el archivo que quiere compartir:</value>
+  <data name="SelectFile.Text" xml:space="preserve">
+    <value>Seleccione el archivo que quiere compartir:</value>
   </data>
-  <data name="SelectPhoto.Text">
-    <value xml:space="preserve">Seleccione la foto que quiere compartir:</value>
+  <data name="SelectPhoto.Text" xml:space="preserve">
+    <value>Seleccione la foto que quiere compartir:</value>
   </data>
-  <data name="ServerError.Text">
-    <value xml:space="preserve">Error inesperado. Este error suele ocurrir cuando el archivo es demasiado grande.</value>
+  <data name="ServerError.Text" xml:space="preserve">
+    <value>Error inesperado. Este error suele ocurrir cuando el archivo es demasiado grande.</value>
   </data>
-  <data name="Share.Text">
-    <value xml:space="preserve">Compartir</value>
+  <data name="Share.Text" xml:space="preserve">
+    <value>Compartir</value>
   </data>
-  <data name="SharePlaceHolder.Text">
-    <value xml:space="preserve">Compartir un mensaje...</value>
+  <data name="SharePlaceHolder.Text" xml:space="preserve">
+    <value>Compartir un mensaje...</value>
   </data>
-  <data name="Title.Text">
-    <value xml:space="preserve">Buscar el archivo</value>
+  <data name="Title.Text" xml:space="preserve">
+    <value>Buscar el archivo</value>
   </data>
-  <data name="Type.Header">
-    <value xml:space="preserve">Tipo</value>
+  <data name="Type.Header" xml:space="preserve">
+    <value>Tipo</value>
   </data>
-  <data name="UploadFromLocal.Text">
-    <value xml:space="preserve">Cargar desde mi ordenador</value>
+  <data name="UploadFromLocal.Text" xml:space="preserve">
+    <value>Cargar desde mi ordenador</value>
   </data>
-  <data name="WhoWillSee.Text">
-    <value xml:space="preserve">¿Quién puede ver el mensaje?</value>
+  <data name="WhoWillSee.Text" xml:space="preserve">
+    <value>¿Quién puede ver el mensaje?</value>
   </data>
 </root>

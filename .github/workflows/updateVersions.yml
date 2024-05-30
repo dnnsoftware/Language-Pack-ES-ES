@@ -22,6 +22,7 @@ jobs:
       - run: git config user.name $ACTOR
         env:
           ACTOR: ${{ github.actor }}
+      - run: git config user.email "${{ github.actor }}@users.noreply.github.com"
       - run: git diff --quiet && git diff --staged --quiet || git commit -m 'Commit new manifest versions'
       - run: git push https://$ACTOR:$TOKEN@github.com/$REPOSITORY.git
         env:

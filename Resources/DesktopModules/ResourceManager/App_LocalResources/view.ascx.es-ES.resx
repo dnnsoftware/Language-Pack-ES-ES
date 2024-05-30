@@ -12,10 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="plField.Help" lastModified="2020-05-08 16:22:27">
-    <value xml:space="preserve">Ayuda del campo.</value>
+  <data name="EditModule.Text" xml:space="preserve" lastModified="2024-05-27 18:10:29">
+    <value>Editar módulo</value>
   </data>
-  <data name="plField.Text" lastModified="2020-05-08 16:22:27">
-    <value xml:space="preserve">Campo:</value>
+  <data name="GroupModeError.Text" xml:space="preserve" lastModified="2024-05-27 18:10:29">
+    <value>El módulo está en modo grupo pero la página donde se encuentra no.</value>
+  </data>
+  <data name="UserModeError.Text" xml:space="preserve" lastModified="2024-05-27 18:10:29">
+    <value>El módulo está en modo usuario pero el usuario no está identificado.</value>
   </data>
 </root>

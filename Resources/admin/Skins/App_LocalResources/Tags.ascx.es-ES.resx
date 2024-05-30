@@ -12,28 +12,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Text">
-    <value xml:space="preserve">Añadir etiquetas</value>
+  <data name="Add.Text" xml:space="preserve">
+    <value>Añadir etiquetas</value>
   </data>
-  <data name="Add.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic en este enlace para añadir una etiqueta.</value>
+  <data name="Add.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+    <value>Haga clic en este enlace para añadir una etiqueta.</value>
   </data>
-  <data name="Cancel.Text">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
-  <data name="Cancel.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic para cancelar la edición sin guardar.</value>
+  <data name="Cancel.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+    <value>Haga clic para cancelar la edición sin guardar.</value>
   </data>
-  <data name="Category.ToolTip">
-    <value xml:space="preserve">Categorías</value>
+  <data name="Category.ToolTip" xml:space="preserve">
+    <value>Categorías</value>
   </data>
-  <data name="Save.Text">
-    <value xml:space="preserve">Guardar</value>
+  <data name="Save.Text" xml:space="preserve">
+    <value>Guardar</value>
   </data>
-  <data name="Save.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic para guardar las etiquetas.</value>
+  <data name="Save.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+    <value>Haga clic para guardar las etiquetas.</value>
   </data>
-  <data name="Tag.ToolTip">
-    <value xml:space="preserve">Etiquetas</value>
+  <data name="Tag.ToolTip" xml:space="preserve">
+    <value>Etiquetas</value>
   </data>
 </root>

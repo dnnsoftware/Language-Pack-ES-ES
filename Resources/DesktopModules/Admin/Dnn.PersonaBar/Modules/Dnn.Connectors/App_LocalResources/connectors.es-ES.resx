@@ -12,52 +12,52 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_Cancel.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="btn_Cancel.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Cancelar</value>
   </data>
-  <data name="btn_Checking.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Comprobando...</value>
+  <data name="btn_Checking.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Verificando ...</value>
   </data>
-  <data name="btn_Connect.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Conectar</value>
+  <data name="btn_Connect.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Conectar</value>
   </data>
-  <data name="btn_Edit.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Editar</value>
+  <data name="btn_Edit.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Editar</value>
   </data>
-  <data name="btn_Save.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Guardar</value>
+  <data name="btn_Save.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Guardar</value>
   </data>
-  <data name="ErrConnectorNotFound.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">No se ha encontrado el conector.</value>
+  <data name="ErrConnectorNotFound.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Conector no encontrado.</value>
   </data>
-  <data name="nav_Connectors.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Conectores</value>
+  <data name="nav_Connectors.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Conectores</value>
   </data>
-  <data name="Save.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Guardar</value>
+  <data name="Save.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Guardar</value>
   </data>
-  <data name="title_Connections.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Configurar conexiones</value>
+  <data name="title_Connections.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Configura conexiones</value>
   </data>
-  <data name="txt_AddNew.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Añadir nueva</value>
+  <data name="txt_AddNew.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Añadir</value>
   </data>
-  <data name="txt_clickToEdit.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Clicar para editar el nombre del conector</value>
+  <data name="txt_clickToEdit.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Pulse para editar el nombre del conector</value>
   </data>
-  <data name="txt_Deleted.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Se ha eliminado el elemento.</value>
+  <data name="txt_Deleted.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>El elemento se ha eliminado correctamente.</value>
   </data>
-  <data name="txt_DisplayNameIsNotUnique.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">El nombre tiene que ser único.</value>
+  <data name="txt_DisplayNameIsNotUnique.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>El nombre tiene que ser único.</value>
   </data>
-  <data name="txt_DisplayNameIsNotValid.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">El nombre solo puede contener letras y números.</value>
+  <data name="txt_DisplayNameIsNotValid.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>El nombre sólo puede contener letras y números.</value>
   </data>
-  <data name="txt_Saved.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Se ha guardado el elemento.</value>
+  <data name="txt_Saved.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>El elemento se ha guardado correctamente.</value>
   </data>
-  <data name="txt_SetupConnections.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Configure sus conexiones para compartir contenido más fácilmente.</value>
+  <data name="txt_SetupConnections.Text" xml:space="preserve" lastModified="2024-05-29 15:21:08">
+    <value>Configure los conectores para comparir contenidos</value>
   </data>
 </root>

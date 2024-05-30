@@ -12,94 +12,94 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Approved.Help">
-    <value xml:space="preserve">El usuario está autorizado en este sitio.</value>
+  <data name="Approved.Help" xml:space="preserve">
+    <value>El usuario está autorizado en este sitio.</value>
   </data>
-  <data name="Approved.Text">
-    <value xml:space="preserve">Autorizado:</value>
+  <data name="Approved.Text" xml:space="preserve">
+    <value>Autorizado:</value>
   </data>
-  <data name="cmdAuthorize.Text">
-    <value xml:space="preserve">Autorizar usuario</value>
+  <data name="cmdAuthorize.Text" xml:space="preserve">
+    <value>Autorizar usuario</value>
   </data>
-  <data name="cmdPassword.Text">
-    <value xml:space="preserve">Forzar cambio de contraseña</value>
+  <data name="cmdPassword.Text" xml:space="preserve">
+    <value>Forzar cambio de contraseña</value>
   </data>
-  <data name="cmdUnAuthorize.Text">
-    <value xml:space="preserve">Desautorizar usuario</value>
+  <data name="cmdUnAuthorize.Text" xml:space="preserve">
+    <value>Desautorizar usuario</value>
   </data>
-  <data name="cmdUnLock.Text">
-    <value xml:space="preserve">Desbloquear cuenta</value>
+  <data name="cmdUnLock.Text" xml:space="preserve">
+    <value>Desbloquear cuenta</value>
   </data>
-  <data name="CreatedDate.Help">
-    <value xml:space="preserve">La fecha en la que se creó el usuario</value>
+  <data name="CreatedDate.Help" xml:space="preserve">
+    <value>La fecha en la que se creó el usuario</value>
   </data>
-  <data name="CreatedDate.Text">
-    <value xml:space="preserve">Fecha de creación:</value>
+  <data name="CreatedDate.Text" xml:space="preserve">
+    <value>Fecha de creación:</value>
   </data>
-  <data name="DemoteFromSuperUser.Text">
-    <value xml:space="preserve">Convertir en usuario normal.</value>
+  <data name="DemoteFromSuperUser.Text" xml:space="preserve">
+    <value>Convertir en usuario normal.</value>
   </data>
-  <data name="IsDeleted.Help">
-    <value xml:space="preserve">El usuario está eliminado</value>
+  <data name="IsDeleted.Help" xml:space="preserve">
+    <value>El usuario está eliminado</value>
   </data>
-  <data name="IsDeleted.Text">
-    <value xml:space="preserve">Eliminado:</value>
+  <data name="IsDeleted.Text" xml:space="preserve">
+    <value>Eliminado:</value>
   </data>
-  <data name="IsOnLine.Help">
-    <value xml:space="preserve">El usuario está en linea en este momento</value>
+  <data name="IsOnLine.Help" xml:space="preserve">
+    <value>El usuario está en linea en este momento</value>
   </data>
-  <data name="IsOnLine.Text">
-    <value xml:space="preserve">Usuario en linea:</value>
+  <data name="IsOnLine.Text" xml:space="preserve">
+    <value>Usuario en linea:</value>
   </data>
-  <data name="LastActivityDate.Help">
-    <value xml:space="preserve">Fecha de la última actividad de este usuario</value>
+  <data name="LastActivityDate.Help" xml:space="preserve">
+    <value>Fecha de la última actividad de este usuario</value>
   </data>
-  <data name="LastActivityDate.Text">
-    <value xml:space="preserve">Fecha de la última actividad:</value>
+  <data name="LastActivityDate.Text" xml:space="preserve">
+    <value>Fecha de la última actividad:</value>
   </data>
-  <data name="LastLockoutDate.Help">
-    <value xml:space="preserve">Fecha en la que este usuario fue bloqueado por última vez, después de demasiados inicios de sesión fallidos</value>
+  <data name="LastLockoutDate.Help" xml:space="preserve">
+    <value>Fecha en la que este usuario fue bloqueado por última vez, después de demasiados inicios de sesión fallidos</value>
   </data>
-  <data name="LastLockoutDate.Text">
-    <value xml:space="preserve">Fecha del último bloqueo:</value>
+  <data name="LastLockoutDate.Text" xml:space="preserve">
+    <value>Fecha del último bloqueo:</value>
   </data>
-  <data name="LastLoginDate.Help">
-    <value xml:space="preserve">Fecha del ultimo inicio de sesión</value>
+  <data name="LastLoginDate.Help" xml:space="preserve">
+    <value>Fecha del ultimo inicio de sesión</value>
   </data>
-  <data name="LastLoginDate.Text">
-    <value xml:space="preserve">Fecha del último inicio de sesión:</value>
+  <data name="LastLoginDate.Text" xml:space="preserve">
+    <value>Fecha del último inicio de sesión:</value>
   </data>
-  <data name="LastPasswordChangeDate.Help">
-    <value xml:space="preserve">Fecha en la que el usuario cambió por última vez su contraseña</value>
+  <data name="LastPasswordChangeDate.Help" xml:space="preserve">
+    <value>Fecha en la que el usuario cambió por última vez su contraseña</value>
   </data>
-  <data name="LastPasswordChangeDate.Text">
-    <value xml:space="preserve">Ultimo cambio de contraseña:</value>
+  <data name="LastPasswordChangeDate.Text" xml:space="preserve">
+    <value>Ultimo cambio de contraseña:</value>
   </data>
-  <data name="LockedOut.Help">
-    <value xml:space="preserve">El usuario está bloqueado después de demasiados intentos fallidos de inicio de sesión</value>
+  <data name="LockedOut.Help" xml:space="preserve">
+    <value>El usuario está bloqueado después de demasiados intentos fallidos de inicio de sesión</value>
   </data>
-  <data name="LockedOut.Text">
-    <value xml:space="preserve">Bloqueado:</value>
+  <data name="LockedOut.Text" xml:space="preserve">
+    <value>Bloqueado:</value>
   </data>
-  <data name="Never.Text">
-    <value xml:space="preserve">Nunca</value>
+  <data name="Never.Text" xml:space="preserve">
+    <value>Nunca</value>
   </data>
-  <data name="OptionUnavailable.Text">
-    <value xml:space="preserve">La opción de reiniciar la contraseña no está disponible en este momento.</value>
+  <data name="OptionUnavailable.Text" xml:space="preserve">
+    <value>La opción de reiniciar la contraseña no está disponible en este momento.</value>
   </data>
-  <data name="PromoteToSuperUser.Text">
-    <value xml:space="preserve">Convertir en superusuario.</value>
+  <data name="PromoteToSuperUser.Text" xml:space="preserve">
+    <value>Convertir en superusuario.</value>
   </data>
-  <data name="UpdatePassword.Help">
-    <value xml:space="preserve">Forzar este usuario a cambiar su contraseña</value>
+  <data name="UpdatePassword.Help" xml:space="preserve">
+    <value>Forzar este usuario a cambiar su contraseña</value>
   </data>
-  <data name="UpdatePassword.Text">
-    <value xml:space="preserve">Actualizar contraseña:</value>
+  <data name="UpdatePassword.Text" xml:space="preserve">
+    <value>Actualizar contraseña:</value>
   </data>
-  <data name="UserFolder.Help">
-    <value xml:space="preserve">Indica la carpeta donde se guardarán los archivos de los usuarios.</value>
+  <data name="UserFolder.Help" xml:space="preserve">
+    <value>Indica la carpeta donde se guardarán los archivos de los usuarios.</value>
   </data>
-  <data name="UserFolder.Text">
-    <value xml:space="preserve">Carpeta de usuarios</value>
+  <data name="UserFolder.Text" xml:space="preserve">
+    <value>Carpeta de usuarios</value>
   </data>
 </root>

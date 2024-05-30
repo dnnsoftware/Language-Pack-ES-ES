@@ -12,49 +12,49 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AdminHelp.Text" lastModified="2018-03-24 08:57:33">
-    <value xml:space="preserve">Este editor le permite configurar el Proveedor de autenticación.</value>
+  <data name="AdminHelp.Text" xml:space="preserve" lastModified="2018-03-24 08:57:33">
+    <value>Este editor le permite configurar el Proveedor de autenticación.</value>
   </data>
-  <data name="AuthenticationSettings.Text" lastModified="2018-03-24 08:57:33">
-    <value xml:space="preserve">Parámetros de autenticación</value>
+  <data name="AuthenticationSettings.Text" xml:space="preserve" lastModified="2018-03-24 08:57:33">
+    <value>Parámetros de autenticación</value>
   </data>
-  <data name="AuthenticationType.Help" lastModified="2018-03-24 08:57:33">
-    <value xml:space="preserve">El tipo del sistema de autenticación (LiveID, OpenID, etc)</value>
+  <data name="AuthenticationType.Help" xml:space="preserve" lastModified="2018-03-24 08:57:33">
+    <value>El tipo del sistema de autenticación (LiveID, OpenID, etc)</value>
   </data>
-  <data name="AuthenticationType.Text" lastModified="2018-03-24 08:57:33">
-    <value xml:space="preserve">Tipo de autenticación:</value>
+  <data name="AuthenticationType.Text" xml:space="preserve" lastModified="2018-03-24 08:57:33">
+    <value>Tipo de autenticación:</value>
   </data>
-  <data name="cmdUpdate.Text" lastModified="2018-03-24 08:57:33">
-    <value xml:space="preserve">Guardar la configuración de autenticación</value>
+  <data name="cmdUpdate.Text" xml:space="preserve" lastModified="2018-03-24 08:57:33">
+    <value>Guardar la configuración de autenticación</value>
   </data>
-  <data name="HostHelp.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Este editor le permite configurar el Proveedor de autenticación. Puede  indicar la carpeta de los archivos del proveedor y activarlo. Los proveedores activados estarán disponibles para los administradores del sitio, que luego pueden configurarlo en su propio sitio.</value>
+  <data name="HostHelp.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Este editor le permite configurar el Proveedor de autenticación. Puede  indicar la carpeta de los archivos del proveedor y activarlo. Los proveedores activados estarán disponibles para los administradores del sitio, que luego pueden configurarlo en su propio sitio.</value>
   </data>
-  <data name="IsEnabled.Help" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Marque la casilla para activar el sistema de Autenticación.</value>
+  <data name="IsEnabled.Help" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Marque la casilla para activar el sistema de Autenticación.</value>
   </data>
-  <data name="IsEnabled.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">¿Activado?</value>
+  <data name="IsEnabled.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>¿Activado?</value>
   </data>
-  <data name="LoginControlSrc.Help" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">El origen del control de identificación para  el sistema de autenticación.</value>
+  <data name="LoginControlSrc.Help" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>El origen del control de identificación para  el sistema de autenticación.</value>
   </data>
-  <data name="LoginControlSrc.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Origen del control de identificación:</value>
+  <data name="LoginControlSrc.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Origen del control de identificación:</value>
   </data>
-  <data name="LogoffControlSrc.Help" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">El origen del control de desconexión para  el sistema de autenticación.</value>
+  <data name="LogoffControlSrc.Help" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>El origen del control de desconexión para  el sistema de autenticación.</value>
   </data>
-  <data name="LogoffControlSrc.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Origen del control de desconexión:</value>
+  <data name="LogoffControlSrc.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Origen del control de desconexión:</value>
   </data>
-  <data name="NoSettings.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Este sistema de autenticación no tiene parámetros para configurar.</value>
+  <data name="NoSettings.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Este sistema de autenticación no tiene parámetros para configurar.</value>
   </data>
-  <data name="SettingsControlSrc.Help" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">El origen del control de configuración para el sistema de autenticación.</value>
+  <data name="SettingsControlSrc.Help" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>El origen del control de configuración para el sistema de autenticación.</value>
   </data>
-  <data name="SettingsControlSrc.Text" lastModified="2018-03-24 10:01:14">
-    <value xml:space="preserve">Origne del control de configuración:</value>
+  <data name="SettingsControlSrc.Text" xml:space="preserve" lastModified="2018-03-24 10:01:14">
+    <value>Origne del control de configuración:</value>
   </data>
 </root>

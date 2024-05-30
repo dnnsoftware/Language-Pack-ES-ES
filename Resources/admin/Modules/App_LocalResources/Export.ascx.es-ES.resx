@@ -1,51 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <root>
-  <resheader name="resmimetype">
-    <value>text/microsoft-resx</value>
-  </resheader>
-  <resheader name="version">
-    <value>2.0</value>
-  </resheader>
-  <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </resheader>
-  <data name="cmdExport.Text">
-    <value xml:space="preserve">Exportar</value>
+  <data name="cmdExport.Text" xml:space="preserve">
+    <value>Exportar</value>
   </data>
-  <data name="ControlTitle_exportmodule.Text">
-    <value xml:space="preserve">Exportar módulo</value>
+  <data name="ControlTitle_exportmodule.Text" xml:space="preserve">
+    <value>Exportar módulo</value>
   </data>
-  <data name="Error.Text" lastModified="2020-05-08 16:12:26">
-    <value xml:space="preserve">Se ha producido un error durante la exportación.</value>
+  <data name="Error.Text" xml:space="preserve" lastModified="2020-05-08 16:12:26">
+    <value>Se ha producido un error durante la exportación.</value>
   </data>
-  <data name="ExportNotSupported.Text" lastModified="2020-05-08 16:12:26">
-    <value xml:space="preserve">El módulo especificado no soporta la exportación de contenido.</value>
+  <data name="ExportNotSupported.Text" xml:space="preserve" lastModified="2020-05-08 16:12:26">
+    <value>El módulo especificado no soporta la exportación de contenido.</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Exportar Módulo&lt;/h1&gt;&lt;p&gt;Los administradores pueden exportar contenido para el módulo especificado.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;h1&gt;Exportar Módulo&lt;/h1&gt;&lt;p&gt;Los administradores pueden exportar contenido para el módulo especificado.&lt;/p&gt;</value>
   </data>
-  <data name="NoContent.Text" lastModified="2015-12-28 05:47:42">
-    <value xml:space="preserve">El módulo seleccionado no tiene ningún contenido.</value>
+  <data name="NoContent.Text" xml:space="preserve" lastModified="2015-12-28 05:47:42">
+    <value>El módulo seleccionado no tiene ningún contenido.</value>
   </data>
-  <data name="plFile.Help" lastModified="2015-12-28 05:47:42">
-    <value xml:space="preserve">Indique el nombre del archivo de exportación.</value>
+  <data name="plFile.Help" xml:space="preserve" lastModified="2015-12-28 05:47:42">
+    <value>Indique el nombre del archivo de exportación.</value>
   </data>
-  <data name="plFile.Text">
-    <value xml:space="preserve">Archivo</value>
+  <data name="plFile.Text" xml:space="preserve">
+    <value>Archivo</value>
   </data>
-  <data name="plFolder.Help" lastModified="2015-12-28 05:47:42">
-    <value xml:space="preserve">Seleccione la carpeta de exportación.</value>
+  <data name="plFolder.Help" xml:space="preserve" lastModified="2015-12-28 05:47:42">
+    <value>Seleccione la carpeta de exportación.</value>
   </data>
-  <data name="plFolder.Text">
-    <value xml:space="preserve">Carpeta</value>
+  <data name="plFolder.Text" xml:space="preserve">
+    <value>Carpeta</value>
   </data>
-  <data name="Root.Text">
-    <value xml:space="preserve">Raíz</value>
+  <data name="Root.Text" xml:space="preserve">
+    <value>Raíz</value>
   </data>
-  <data name="Validation.Text" lastModified="2015-12-28 05:47:42">
-    <value xml:space="preserve">Debe especificar un archivo y una carpeta para la exportación.</value>
+  <data name="Validation.Text" xml:space="preserve" lastModified="2015-12-28 05:47:42">
+    <value>Debe especificar un archivo y una carpeta para la exportación.</value>
   </data>
 </root>

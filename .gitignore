@@ -21,3 +21,9 @@
 
 # Don't forget  the language pack manifest
 !resources\DNNCE_es-ES.dnn
+
+# Don't forget the release notes
+!Resources/ReleaseNotes.txt
+
+# Don't forget the license`
+!Resources/license.txt
