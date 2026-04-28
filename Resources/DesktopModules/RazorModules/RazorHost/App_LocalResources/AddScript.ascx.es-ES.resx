@@ -12,31 +12,31 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="cmdAdd.Text">
-    <value xml:space="preserve">Añadir script</value>
+  <data name="cmdAdd.Text" xml:space="preserve">
+    <value>Añadir script</value>
   </data>
-  <data name="createNewScript.Text">
-    <value xml:space="preserve">Para crear un nuevo scrip Razor, seleccione el tipo de archivo y proporcione un nombre de archivo. El archivo se creará en la carpeta Scripts</value>
+  <data name="createNewScript.Text" xml:space="preserve">
+    <value>Para crear un nuevo scrip Razor, seleccione el tipo de archivo y proporcione un nombre de archivo. El archivo se creará en la carpeta Scripts</value>
   </data>
-  <data name="CSHTML.Text">
-    <value xml:space="preserve">Archivo CSHtml (C#)</value>
+  <data name="CSHTML.Text" xml:space="preserve">
+    <value>Archivo CSHtml (C#)</value>
   </data>
-  <data name="fileNameLabel.Help">
-    <value xml:space="preserve">Introduzca el nombre del archivo de script. Al nombre del archivo se le añadirá el prefijo "_".</value>
+  <data name="fileNameLabel.Help" xml:space="preserve">
+    <value>Introduzca el nombre del archivo de script. Al nombre del archivo se le añadirá el prefijo "_".</value>
   </data>
-  <data name="fileNameLabel.Text">
-    <value xml:space="preserve">Nombre de archivo:</value>
+  <data name="fileNameLabel.Text" xml:space="preserve">
+    <value>Nombre de archivo:</value>
   </data>
-  <data name="fileTypeLabel.Help">
-    <value xml:space="preserve">Seleccione qué tipo de script Razor quiere crear (CSHtml para C# o VBHtml para VB.Net)</value>
+  <data name="fileTypeLabel.Help" xml:space="preserve">
+    <value>Seleccione qué tipo de script Razor quiere crear (CSHtml para C# o VBHtml para VB.Net)</value>
   </data>
-  <data name="fileTypeLabel.Text">
-    <value xml:space="preserve">Tipo de archivo:</value>
+  <data name="fileTypeLabel.Text" xml:space="preserve">
+    <value>Tipo de archivo:</value>
   </data>
-  <data name="NewScript.Text">
-    <value xml:space="preserve">&lt;h2&gt;Nuevo script Razor&lt;/h2&gt;</value>
+  <data name="NewScript.Text" xml:space="preserve">
+    <value>&lt;h2&gt;Nuevo script Razor&lt;/h2&gt;</value>
   </data>
-  <data name="VBHTML.Text">
-    <value xml:space="preserve">Archivo VBHtml (VB)</value>
+  <data name="VBHTML.Text" xml:space="preserve">
+    <value>Archivo VBHtml (VB)</value>
   </data>
 </root>

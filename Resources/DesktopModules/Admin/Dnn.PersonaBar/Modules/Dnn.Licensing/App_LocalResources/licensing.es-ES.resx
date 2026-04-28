@@ -15,16 +15,16 @@
   <data name="Activated.Header" xml:space="preserve">
     <value>Activada</value>
   </data>
-  <data name="Community" xml:space="preserve" lastModified="2020-05-09 00:37:05">
+  <data name="Community" xml:space="preserve">
     <value>DNN tiene una comunidad activa y vibrante. Visítenos y participe en nuestras actividades. Obtenga ayuda, discuta proyectos y manténgase al día de todas las novedades.</value>
   </data>
-  <data name="Community.Header" xml:space="preserve" lastModified="2020-05-09 00:37:05">
+  <data name="Community.Header" xml:space="preserve">
     <value>LA COMUNIDAD</value>
   </data>
-  <data name="Docs" xml:space="preserve" lastModified="2020-05-09 02:38:57">
+  <data name="Docs" xml:space="preserve">
     <value>DNN Docs tambíen es Open Souce! Aprenda como empezar con DNN, realize tutoriales paso a paso o lea la documentación de la API.</value>
   </data>
-  <data name="Docs.Header" xml:space="preserve" lastModified="2020-05-09 02:38:57">
+  <data name="Docs.Header" xml:space="preserve">
     <value>DOCUMENTACIÓN</value>
   </data>
   <data name="Error.ACT1.Text" xml:space="preserve">
@@ -74,16 +74,16 @@ No se ha podido añadir la activación de nuevo a su factura debido a un problem
   <data name="Expires.Header" xml:space="preserve">
     <value>CADUCA</value>
   </data>
-  <data name="GitHub" xml:space="preserve" lastModified="2020-05-09 08:44:50">
+  <data name="GitHub" xml:space="preserve">
     <value>La plataforma DNN se gestiona como un proyecto Open Source en GitHub. Visítenos en GitHub y participe. Registre incidencias, proporcione feedback y contribuya.</value>
   </data>
-  <data name="GitHub.Header" xml:space="preserve" lastModified="2020-05-09 08:44:50">
+  <data name="GitHub.Header" xml:space="preserve">
     <value>CÓDIGO</value>
   </data>
-  <data name="Intro" xml:space="preserve" lastModified="2020-05-09 08:44:50">
+  <data name="Intro" xml:space="preserve">
     <value>DNN® (anteriormente DotNetNuke®) es la plataforma Open Source líder para gestión de contenidos (CMS) en el ecosistema Microsoft. Con DNN se pueden crear sitios web profesionales y fáciles de utilizar, intranets sociales, portales de comunidades, o extranets de partners. Con contenidos dinámicos de muchos tipos diferentes, los sitios DNN se pueden instalar y actualizar muy fácilmente. La plataforma DNN se ha descargado más de 8 millones de veces y gestiona más de 750.000 sitios web a nivel mundial. La comunidad DNN de más de 1 millón de usuarios proporciona una potente red de soporte.</value>
   </data>
-  <data name="Intro.Header" xml:space="preserve" lastModified="2020-05-08 22:34:59">
+  <data name="Intro.Header" xml:space="preserve">
     <value>DNN Platform</value>
   </data>
   <data name="InvoiceNumber.Header" xml:space="preserve">

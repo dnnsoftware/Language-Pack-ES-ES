@@ -12,10 +12,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="QuickAddModule.Text" xml:space="preserve" lastModified="2024-05-27 17:59:54">
+  <data name="QuickAddModule.Text" xml:space="preserve">
     <value>Añadir módulo</value>
   </data>
-  <data name="QuickAddModule.Tooltip" xml:space="preserve" lastModified="2024-05-27 17:59:54">
+  <data name="QuickAddModule.Tooltip" xml:space="preserve">
     <value>Añadir el módulo immediatamente al panel seleccionado</value>
   </data>
 </root>

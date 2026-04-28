@@ -102,7 +102,7 @@
   <data name="Success.Text" xml:space="preserve">
     <value>Cambios aplicados correctamente.</value>
   </data>
-  <data name="ValidationErrorsConfirm.Text" xml:space="preserve" lastModified="2024-05-29 16:50:58">
+  <data name="ValidationErrorsConfirm.Text" xml:space="preserve">
     <value>Se han encontrado errores de validación. {0} ¿Quiere guardar el archivo de todas formas?</value>
   </data>
 </root>

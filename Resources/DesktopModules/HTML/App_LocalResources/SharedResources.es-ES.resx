@@ -12,21 +12,21 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ApproveContent.Action">
-    <value xml:space="preserve">Aprobar</value>
+  <data name="ApproveContent.Action" xml:space="preserve">
+    <value>Aprobar</value>
   </data>
-  <data name="NotificationBody.Text">
-    <value xml:space="preserve">Este contenido se encuentra en el estado [STATE] en la siguiente página: 
+  <data name="NotificationBody.Text" xml:space="preserve">
+    <value>Este contenido se encuentra en el estado [STATE] en la siguiente página: 
 &lt;br /&gt;
 &lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
   </data>
-  <data name="NotificationSubject.Text">
-    <value xml:space="preserve">Notificación de revisión de contenidos: [ACTION]</value>
+  <data name="NotificationSubject.Text" xml:space="preserve">
+    <value>Notificación de revisión de contenidos: [ACTION]</value>
   </data>
-  <data name="PublishContent.Action">
-    <value xml:space="preserve">Publicar</value>
+  <data name="PublishContent.Action" xml:space="preserve">
+    <value>Publicar</value>
   </data>
-  <data name="RejectContent.Action">
-    <value xml:space="preserve">Rechazar</value>
+  <data name="RejectContent.Action" xml:space="preserve">
+    <value>Rechazar</value>
   </data>
 </root>

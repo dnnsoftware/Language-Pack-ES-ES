@@ -42,7 +42,7 @@
   <data name="GetMore.Text" xml:space="preserve">
     <value>Obtener más</value>
   </data>
-  <data name="GroupMembers.Text" xml:space="preserve" lastModified="2016-03-17 07:43:17">
+  <data name="GroupMembers.Text" xml:space="preserve">
     <value>Miembros del grupo</value>
   </data>
   <data name="LastModified.Header" xml:space="preserve">

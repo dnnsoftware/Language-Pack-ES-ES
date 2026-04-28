@@ -117,10 +117,10 @@
   <data name="AvailableExtensions.Text" xml:space="preserve">
     <value>Extensiones disponibles</value>
   </data>
-  <data name="BackToEditExtension.Text" xml:space="preserve" lastModified="2017-02-05 10:46:15">
+  <data name="BackToEditExtension.Text" xml:space="preserve">
     <value>Volver a la edición de {0}</value>
   </data>
-  <data name="BackToExtensions.Text" xml:space="preserve" lastModified="2017-02-05 10:46:15">
+  <data name="BackToExtensions.Text" xml:space="preserve">
     <value>Volver a Extensiones</value>
   </data>
   <data name="By.Text" xml:space="preserve">
@@ -150,7 +150,7 @@
   <data name="CollapseAll.Text" xml:space="preserve">
     <value>Cerrar todos</value>
   </data>
-  <data name="Connector.Type" xml:space="preserve" lastModified="2018-03-24 11:15:51">
+  <data name="Connector.Type" xml:space="preserve">
     <value>Conectores</value>
   </data>
   <data name="Container.Text" xml:space="preserve">
@@ -824,10 +824,10 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="ListExtensions.Text" xml:space="preserve">
     <value>Aprenda más sobre cómo ofrecer sus extensiones &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;aquí&lt;/a&gt;.</value>
   </data>
-  <data name="Loading.Text" xml:space="preserve" lastModified="2018-03-24 12:16:46">
+  <data name="Loading.Text" xml:space="preserve">
     <value>Un momento, estamos cargando las extensiones...</value>
   </data>
-  <data name="Loading.Tooltip" xml:space="preserve" lastModified="2018-03-24 12:16:46">
+  <data name="Loading.Tooltip" xml:space="preserve">
     <value>Las extensiones se cargarán en un momento</value>
   </data>
   <data name="LoadingLabel.Text" xml:space="preserve">
@@ -881,10 +881,10 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="ModuleInstall.Action" xml:space="preserve">
     <value>Instalar módulo</value>
   </data>
-  <data name="ModuleUsageDetail.Text" xml:space="preserve" lastModified="2017-04-29 01:25:07">
+  <data name="ModuleUsageDetail.Text" xml:space="preserve">
     <value>Este módulo se utiliza en {0} páginas del sitio {1}</value>
   </data>
-  <data name="ModuleUsageTitle.Text" xml:space="preserve" lastModified="2017-04-28 23:24:46">
+  <data name="ModuleUsageTitle.Text" xml:space="preserve">
     <value>Uso del módulo {0}</value>
   </data>
   <data name="MoreExtensions.Text" xml:space="preserve">
@@ -974,7 +974,7 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="Next.Button" xml:space="preserve">
     <value>Siguiente</value>
   </data>
-  <data name="NoModuleUsageDetail.Text" xml:space="preserve" lastModified="2017-04-28 21:23:55">
+  <data name="NoModuleUsageDetail.Text" xml:space="preserve">
     <value>Este módulo no se encuentra en ninguna página de {0}.</value>
   </data>
   <data name="NoneLabel.Text" xml:space="preserve">
@@ -989,7 +989,7 @@ Alguno errores frecuentes en los archivos de instalación pueden ser:
   <data name="OrderLabel.Text" xml:space="preserve">
     <value>Orden:</value>
   </data>
-  <data name="PagesFromSite.Text" xml:space="preserve" lastModified="2017-04-28 21:23:55">
+  <data name="PagesFromSite.Text" xml:space="preserve">
     <value>Mostrando páginas del sitio: </value>
   </data>
   <data name="PersonaBar.Type" xml:space="preserve">

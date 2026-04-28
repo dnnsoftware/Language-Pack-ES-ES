@@ -33,7 +33,7 @@
   <data name="TrackingUrl.Text" xml:space="preserve">
     <value>URL de seguimiento</value>
   </data>
-  <data name="URL.Text" xml:space="preserve" lastModified="2015-09-14 13:47:36">
+  <data name="URL.Text" xml:space="preserve">
     <value>URL</value>
   </data>
   <data name="User.Header" xml:space="preserve">

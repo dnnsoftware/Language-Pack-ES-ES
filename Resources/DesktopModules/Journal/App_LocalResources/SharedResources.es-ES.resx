@@ -147,7 +147,7 @@
   <data name="ideaupdate.Text" xml:space="preserve">
     <value>Ideas actualizadas</value>
   </data>
-  <data name="journal_badge.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_badge.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -160,7 +160,7 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_blog.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_blog.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -174,7 +174,7 @@
 	
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_comment.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_comment.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -187,7 +187,7 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_file.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_file.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;
 	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
@@ -208,7 +208,7 @@
 	[JOURNALCONTROL:COMMENTAREA]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_forum_reply.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_forum_reply.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -222,7 +222,7 @@
 	
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_forum_topic.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_forum_topic.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -236,7 +236,7 @@
 	
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_generic.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_generic.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -249,7 +249,7 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_groupcreate.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_groupcreate.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -261,7 +261,7 @@
 		[JOURNALCONTROL:COMMENTAREA]
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_groupjoin.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_groupjoin.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -273,7 +273,7 @@
 		[JOURNALCONTROL:COMMENTAREA]
 	&lt;/div&gt;</value>
   </data>
-  <data name="journal_ideaadd.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_ideaadd.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -286,7 +286,7 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_ideaupdate.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_ideaupdate.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -299,7 +299,7 @@
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_link.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_link.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;
 	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
@@ -320,7 +320,7 @@
 	[JOURNALCONTROL:COMMENTAREA]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_photo.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_photo.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;
 	&lt;img src="[JournalProfile:relativeurl|32]" /&gt;
 &lt;/div&gt;
@@ -339,7 +339,7 @@
 	[JOURNALCONTROL:COMMENTAREA]
 &lt;/div&gt;</value>
   </data>
-  <data name="journal_status.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_status.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -352,7 +352,7 @@
 	&lt;/div&gt;
 </value>
   </data>
-  <data name="journal_vote.Text" xml:space="preserve" lastModified="2015-12-29 07:02:40">
+  <data name="journal_vote.Text" xml:space="preserve">
     <value>&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
 &lt;div class="journalitem"&gt;
 	&lt;p&gt;
@@ -377,7 +377,7 @@
   <data name="Notification_MentionType_Comment.Text" xml:space="preserve">
     <value>Comentario</value>
   </data>
-  <data name="Notification_MentionType_Post.Text" xml:space="preserve" lastModified="2024-05-27 19:56:15">
+  <data name="Notification_MentionType_Post.Text" xml:space="preserve">
     <value>Publicación</value>
   </data>
   <data name="photo.Text" xml:space="preserve">

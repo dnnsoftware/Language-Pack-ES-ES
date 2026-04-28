@@ -12,19 +12,19 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btnDelete.Text" xml:space="preserve" lastModified="2024-05-27 18:01:30">
+  <data name="btnDelete.Text" xml:space="preserve">
     <value>Eliminar conexión</value>
   </data>
-  <data name="ConnectorName.Text" xml:space="preserve" lastModified="2024-05-27 18:01:30">
+  <data name="ConnectorName.Text" xml:space="preserve">
     <value>Conector para Google Analytics 4</value>
   </data>
-  <data name="Ga4ID.Text" xml:space="preserve" lastModified="2024-05-27 18:01:30">
+  <data name="Ga4ID.Text" xml:space="preserve">
     <value>Id de medición:</value>
   </data>
-  <data name="TrackAdministrators.Text" xml:space="preserve" lastModified="2024-05-27 18:01:30">
+  <data name="TrackAdministrators.Text" xml:space="preserve">
     <value>Seguimiento para administradores:</value>
   </data>
-  <data name="TrackingCodeFormat.ErrorMessage" xml:space="preserve" lastModified="2024-05-27 18:02:05">
+  <data name="TrackingCodeFormat.ErrorMessage" xml:space="preserve">
     <value>Tiene que informar el código de seguimento</value>
   </data>
 </root>
