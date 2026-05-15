@@ -25,6 +25,7 @@ jobs:
       with:
         artifacts: Resources/*.zip
         body: Dnn ${{ github.event.repository.name }} version ${{ steps.version.outputs.versionString }}
+        immutableCreate: true
         tag: v${{ steps.version.outputs.major }}.${{ steps.version.outputs.minor }}.${{ steps.version.outputs.patch }}
         # The Github token.
         token: ${{ secrets.GITHUB_TOKEN }}
