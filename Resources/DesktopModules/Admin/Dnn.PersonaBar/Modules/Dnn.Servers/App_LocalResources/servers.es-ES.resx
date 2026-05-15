@@ -12,14 +12,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Actions.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="Actions.Text" xml:space="preserve">
     <value>Acciones</value>
   </data>
-  <data name="Authorize.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="Authorize.Text" xml:space="preserve">
     <value>Autorizar</value>
   </data>
-  <data name="AuthorizeCompleted.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="AuthorizeCompleted.Text" xml:space="preserve">
     <value>Se ha completado la configuración de su proveedor de OAuth.</value>
+  </data>
+  <data name="Backup.Confirm" xml:space="preserve">
+    <value>Confirme que ha realizado una copia de seguridad de esta instalación antes de actualizar.</value>
   </data>
   <data name="BackupFinished.Text" xml:space="preserve">
     <value>Finalizado</value>
@@ -36,19 +39,22 @@
   <data name="BackupType.Text" xml:space="preserve">
     <value>Tipo de copia</value>
   </data>
-  <data name="Cancel.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="Cancel.Text" xml:space="preserve">
     <value>Proveedor de caché:</value>
   </data>
-  <data name="Change.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="CanInstall.Text" xml:space="preserve">
+    <value>Se puede instalar</value>
+  </data>
+  <data name="Change.Text" xml:space="preserve">
     <value>Modificar</value>
   </data>
   <data name="clearCacheButtonLabel.Text" xml:space="preserve">
     <value>Limpiar la caché</value>
   </data>
-  <data name="CompleteAuthorize.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="CompleteAuthorize.Text" xml:space="preserve">
     <value>La configuración de su proveedor de OAuth se ha guardado. Haga clic en el botón Autorizar para completar el proceso de autorización.</value>
   </data>
-  <data name="Confirm.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="Confirm.Text" xml:space="preserve">
     <value>Confirmar</value>
   </data>
   <data name="DbInfo_ProductEdition.Help" xml:space="preserve">
@@ -75,22 +81,25 @@
   <data name="DbInfo_SoftwarePlatform.Text" xml:space="preserve">
     <value>Plataforma de software:</value>
   </data>
-  <data name="Delete.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="Delete.Text" xml:space="preserve">
     <value>Eliminar</value>
   </data>
-  <data name="DeleteNonActiveServers.Confirm" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="DeleteNonActiveServers.Confirm" xml:space="preserve">
     <value>¿Está seguro que desea eliminar todos los servidores inactivos?</value>
   </data>
-  <data name="DeleteNonActiveServers.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="DeleteNonActiveServers.Text" xml:space="preserve">
     <value>Eliminar servidores no activos</value>
   </data>
-  <data name="DeleteNonActiveServers.Warning" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="DeleteNonActiveServers.Warning" xml:space="preserve">
     <value>Puede eliminar todos los servidores que no hayan estado activos durante 24 horas a continuación</value>
   </data>
-  <data name="DeleteServerConfirm.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="DeleteServerConfirm.Text" xml:space="preserve">
     <value>¿Está seguro que desea eliminar este servidor?</value>
   </data>
-  <data name="Edit.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="DeleteUpgradePackage.Confirm" xml:space="preserve">
+    <value>¿Desea eliminar este paquete de actualización?</value>
+  </data>
+  <data name="Edit.Text" xml:space="preserve">
     <value>Editar</value>
   </data>
   <data name="EmailSentMessage.Text" xml:space="preserve">
@@ -102,7 +111,7 @@
   <data name="errorMessageClearingCache.Text" xml:space="preserve">
     <value>Se ha producido un error al limpiar la caché.</value>
   </data>
-  <data name="errorMessageDeleteServers.Text" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="errorMessageDeleteServers.Text" xml:space="preserve">
     <value>Se ha producido un error al eliminar este servidor</value>
   </data>
   <data name="errorMessageIncrementingVersion.Text" xml:space="preserve">
@@ -123,7 +132,7 @@
   <data name="errorMessageLoadingPerformanceTab.Text" xml:space="preserve">
     <value>Se ha producido un error al cargar la pestaña de rendimiento.</value>
   </data>
-  <data name="errorMessageLoadingServers.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="errorMessageLoadingServers.Text" xml:space="preserve">
     <value>Se ha producido un error al cargar la lista de servidores web</value>
   </data>
   <data name="errorMessageLoadingSmtpServerTab.Text" xml:space="preserve">
@@ -216,13 +225,22 @@
   <data name="infoMessageRestartingApplication.Text" xml:space="preserve">
     <value>Reiniciando la aplicación</value>
   </data>
-  <data name="LastActivityDate.Text" xml:space="preserve" lastModified="2024-05-29 17:14:25">
+  <data name="Install.Text" xml:space="preserve">
+    <value>Instalar</value>
+  </data>
+  <data name="IsOutdated.Text" xml:space="preserve">
+    <value>Obsoleto</value>
+  </data>
+  <data name="IsValid.Text" xml:space="preserve">
+    <value>Válido</value>
+  </data>
+  <data name="LastActivityDate.Text" xml:space="preserve">
     <value>Última actividad</value>
   </data>
-  <data name="Logs_Date.Header" xml:space="preserve" lastModified="2024-05-29 17:14:25">
+  <data name="Logs_Date.Header" xml:space="preserve">
     <value>Última fecha de modificación</value>
   </data>
-  <data name="Logs_Date.Text" xml:space="preserve" lastModified="2024-05-29 17:13:43">
+  <data name="Logs_Date.Text" xml:space="preserve">
     <value>Fecha</value>
   </data>
   <data name="Logs_LogFiles.Text" xml:space="preserve">
@@ -234,26 +252,29 @@
   <data name="Logs_LogFilesTooltip.Text" xml:space="preserve">
     <value>Lista de archivos de registro disponibles.</value>
   </data>
-  <data name="Logs_Name.Header" xml:space="preserve" lastModified="2024-05-29 17:14:25">
+  <data name="Logs_Name.Header" xml:space="preserve">
     <value>Nombre</value>
   </data>
-  <data name="Logs_Name.Text" xml:space="preserve" lastModified="2024-05-29 17:14:25">
+  <data name="Logs_Name.Text" xml:space="preserve">
     <value>Nombre</value>
   </data>
-  <data name="Logs_ServerLog.Text" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="Logs_ServerLog.Text" xml:space="preserve">
     <value>Registro del servidor</value>
   </data>
-  <data name="Logs_Size.Header" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="Logs_Size.Header" xml:space="preserve">
     <value>Tamaño</value>
   </data>
-  <data name="Logs_Type.Header" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="Logs_Type.Header" xml:space="preserve">
     <value>Tipo</value>
   </data>
-  <data name="Logs_Type.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="Logs_Type.Text" xml:space="preserve">
     <value>Tipo</value>
   </data>
-  <data name="Logs_UpgradeLog.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="Logs_UpgradeLog.Text" xml:space="preserve">
     <value>Registro de actualización</value>
+  </data>
+  <data name="MinDnnVersion.Text" xml:space="preserve">
+    <value>Versión requerida de DNN</value>
   </data>
   <data name="Name.Text" xml:space="preserve">
     <value>Nombre</value>
@@ -261,16 +282,19 @@
   <data name="nav_Servers.Text" xml:space="preserve">
     <value>Servidores</value>
   </data>
+  <data name="No.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
   <data name="NoBackups.Text" xml:space="preserve">
     <value>Esta base de datos no dispone de copia de seguridad.</value>
   </data>
   <data name="NoIntegerValueError.Text" xml:space="preserve">
     <value>Tiene que introducir un valor entero positivo.</value>
   </data>
-  <data name="NonCoreMailProvider.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="NonCoreMailProvider.Text" xml:space="preserve">
     <value>Esta instalación de DNN ejecuta un proveedor de correo alternativo. La configuración se realiza en la interfaz del proveedor.</value>
   </data>
-  <data name="OAuthConfigurationNotSaved.Text" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="OAuthConfigurationNotSaved.Text" xml:space="preserve">
     <value>Guarde la configuración y complete el proceso de autorización antes de realizar la prueba cuando el modo de autenticación OAuth esté habilitado en el nivel de host o sitio web.</value>
   </data>
   <data name="PerformanceTab_AjaxWarning.Text" xml:space="preserve">
@@ -300,23 +324,17 @@
   <data name="PerformanceTab_ClientResourceManagementTitle.Text" xml:space="preserve">
     <value>Gestión de recursos de cliente</value>
   </data>
-  <data name="PerformanceTab_ClientResourcesManagementMode.Help" xml:space="preserve">
-    <value>El modo sistema utiliza toda la configuración establecida a nivel de sistema. El modo sitio le permite especificar sus propios parámetros de configuración.</value>
+  <data name="PerformanceTab_CrmOverrideDefaultSettings.Help" xml:space="preserve">
+    <value>Si se activa, este portal emitirá su propio número de versión de recursos de cliente e ignorará el global.</value>
   </data>
-  <data name="PerformanceTab_ClientResourcesManagementMode.Text" xml:space="preserve">
-    <value>Modo de gestión de recursos de cliente</value>
+  <data name="PerformanceTab_CrmOverrideDefaultSettings.Text" xml:space="preserve">
+    <value>Anular CDV global</value>
   </data>
   <data name="PerformanceTab_CurrentHostVersion.Text" xml:space="preserve">
     <value>Versión actual del sistema:</value>
   </data>
   <data name="PerformanceTab_CurrentPortalVersion.Text" xml:space="preserve">
     <value>Version del sitio:</value>
-  </data>
-  <data name="PerformanceTab_EnableCompositeFiles.Help" xml:space="preserve">
-    <value>Los archivos compuestos son combinaciones de recursos (JavaScript y CSS) creados para reducir el número de solicitudes de archivos por el navegador. Esto aumentará significativamente la velocidad de carga de la página.</value>
-  </data>
-  <data name="PerformanceTab_EnableCompositeFiles.Text" xml:space="preserve">
-    <value>Activar archivos compuestos</value>
   </data>
   <data name="PerformanceTab_GlobalClientResourcesManagementMode.Text" xml:space="preserve">
     <value>Global</value>
@@ -332,21 +350,6 @@
   </data>
   <data name="PerformanceTab_Memory.Text" xml:space="preserve">
     <value>Memoria</value>
-  </data>
-  <data name="PerformanceTab_MinifactionWarning.Text" xml:space="preserve">
-    <value>Nota importante acerca de la configuración de minificación. &lt;br/&gt; Si los ajustes de minificación se cambian cuando los archivos compuestos están habilitados, primero debe guardar la configuración de minificación haciendo clic en Actualizar y luego incrementar el número de versión. Este emitirá los nuevos archivos compuestos usando la nueva configuración de minificación.</value>
-  </data>
-  <data name="PerformanceTab_MinifyCss.Help" xml:space="preserve">
-    <value>La minificación CSS reducirá el tamaño del código CSS mediante el uso de expresiones regulares para eliminar los comentarios, espacios en blanco y css no utilizado. Solo está disponible cuando se activa la composición de archivos.</value>
-  </data>
-  <data name="PerformanceTab_MinifyCss.Text" xml:space="preserve">
-    <value>Minificación CSS</value>
-  </data>
-  <data name="PerformanceTab_MinifyJs.Help" xml:space="preserve">
-    <value>La minificación JS reducirá el tamaño del código JavaScript utilizando JSMin. Solo está disponible cuando se activa la composición de archivos.</value>
-  </data>
-  <data name="PerformanceTab_MinifyJs.Text" xml:space="preserve">
-    <value>Minificación JS</value>
   </data>
   <data name="PerformanceTab_Moderate.Text" xml:space="preserve">
     <value>Moderada</value>
@@ -400,6 +403,9 @@
   <data name="PerformanceTab_UnauthCacheability.Text" xml:space="preserve">
     <value>Cache usuarios no autenticados</value>
   </data>
+  <data name="plAvailableUpgrades.Text" xml:space="preserve">
+    <value>Actualizaciones disponibles</value>
+  </data>
   <data name="plBackups.Text" xml:space="preserve">
     <value>Historial de copias de seguridad de la base de datos:</value>
   </data>
@@ -409,11 +415,17 @@
   <data name="plBatch.Text" xml:space="preserve">
     <value>Número de mensajes enviados en cada lote:</value>
   </data>
-  <data name="plConnectionLimit.Help" xml:space="preserve" lastModified="2018-03-24 17:30:24">
+  <data name="plConnectionLimit.Help" xml:space="preserve">
     <value>Número máximo de conexiones permitidas en este ServidePoint. El valor predeterminado es 2 y el máximo 2147483647.</value>
   </data>
   <data name="plConnectionLimit.Text" xml:space="preserve">
     <value>Límite de conexiones:</value>
+  </data>
+  <data name="plCurrentVersion.Help" xml:space="preserve">
+    <value>La versión actual de esta aplicación.</value>
+  </data>
+  <data name="plCurrentVersion.Text" xml:space="preserve">
+    <value>Versión actual:</value>
   </data>
   <data name="plDataProvider.Help" xml:space="preserve">
     <value>El nombre del proveedor de datos predeterminado de la aplicación.</value>
@@ -430,10 +442,10 @@
   <data name="plGUID.Text" xml:space="preserve">
     <value>GUID sistema:</value>
   </data>
-  <data name="plHostEmail.Help" xml:space="preserve" lastModified="2020-05-09 09:28:42">
+  <data name="plHostEmail.Help" xml:space="preserve">
     <value>El email de sistema se utiliza para verificar el servidor de correo. También es posible que algunas extensiones lo utilizen para contactar con el responsable de la instalación.</value>
   </data>
-  <data name="plHostEmail.Text" xml:space="preserve" lastModified="2020-05-09 09:28:42">
+  <data name="plHostEmail.Text" xml:space="preserve">
     <value>Email de sistema</value>
   </data>
   <data name="plMaxIdleTime.Help" xml:space="preserve">
@@ -454,7 +466,7 @@
   <data name="plSMTPAuthentication.Text" xml:space="preserve">
     <value>Autenticación SMTP:</value>
   </data>
-  <data name="plSMTPEnableSSL.Help" xml:space="preserve" lastModified="2024-05-29 17:19:40">
+  <data name="plSMTPEnableSSL.Help" xml:space="preserve">
     <value>Si el proveedor de correo lo admite, esto indica que se requiere una conexión segura. El proveedor de MailKit maneja la seguridad de la conexión automáticamente; por lo tanto, esta configuración no tiene ningún efecto cuando se utiliza ese proveedor.</value>
   </data>
   <data name="plSMTPEnableSSL.Text" xml:space="preserve">
@@ -466,7 +478,7 @@
   <data name="plSMTPMode.Text" xml:space="preserve">
     <value>Modo SMTP:</value>
   </data>
-  <data name="plSMTPPassword.Help" xml:space="preserve" lastModified="2024-05-29 17:19:40">
+  <data name="plSMTPPassword.Help" xml:space="preserve">
     <value>Ingrese la contraseña para el servidor SMTP. Déjelo en blanco para no cambiarlo.</value>
   </data>
   <data name="plSMTPPassword.Text" xml:space="preserve">
@@ -490,13 +502,13 @@
   <data name="plVersion.Text" xml:space="preserve">
     <value>Versión:</value>
   </data>
-  <data name="plWebServers.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="plWebServers.Text" xml:space="preserve">
     <value>Servidores web:</value>
   </data>
   <data name="restartApplicationButtonLabel.Text" xml:space="preserve">
     <value>Reiniciar aplicación</value>
   </data>
-  <data name="Save.Text" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="Save.Text" xml:space="preserve">
     <value>Guardar</value>
   </data>
   <data name="SaveButtonText.Text" xml:space="preserve">
@@ -510,6 +522,12 @@
   </data>
   <data name="ServerInfo_Framework.Text" xml:space="preserve">
     <value>Versión de la plataforma .NET:</value>
+  </data>
+  <data name="ServerInfo_Framework_Product.Help" xml:space="preserve">
+    <value>Este es el número de versión que se utiliza normalmente para hacer referencia a .NET Framework como producto, por ejemplo, 4.8.1.</value>
+  </data>
+  <data name="ServerInfo_Framework_Product.Text" xml:space="preserve">
+    <value>Versión del producto .NET Framework:</value>
   </data>
   <data name="ServerInfo_HostName.Help" xml:space="preserve">
     <value>El nombre del servidor.</value>
@@ -562,13 +580,13 @@
   <data name="Servers.Text" xml:space="preserve">
     <value>Servidores</value>
   </data>
-  <data name="Servers_CurrentServerName.Help" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="Servers_CurrentServerName.Help" xml:space="preserve">
     <value>Este es el nombre del servidor a través del cual se atendió esta solicitud.</value>
   </data>
-  <data name="Servers_CurrentServerName.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="Servers_CurrentServerName.Text" xml:space="preserve">
     <value>Nombre actual del servidor</value>
   </data>
-  <data name="ServerUpdateUrlError.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="ServerUpdateUrlError.Text" xml:space="preserve">
     <value>No se ha podido actualizar la URL del servidor web</value>
   </data>
   <data name="SiteSmtpHostSetting.Text" xml:space="preserve">
@@ -586,13 +604,13 @@
   <data name="SMTPNTLM.Text" xml:space="preserve">
     <value>NTLM</value>
   </data>
-  <data name="SMTPOAUTH.Text" xml:space="preserve" lastModified="2024-05-29 17:14:25">
+  <data name="SMTPOAUTH.Text" xml:space="preserve">
     <value>OAuth</value>
   </data>
-  <data name="SmtpTab_OAuthProviders.Help" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="SmtpTab_OAuthProviders.Help" xml:space="preserve">
     <value>Seleccione el proveedor OAuth del servidor SMTP</value>
   </data>
-  <data name="SmtpTab_OAuthProviders.Text" xml:space="preserve" lastModified="2024-05-29 17:12:36">
+  <data name="SmtpTab_OAuthProviders.Text" xml:space="preserve">
     <value>Proveedor Autorización</value>
   </data>
   <data name="tabApplicationTitle.Text" xml:space="preserve">
@@ -610,7 +628,7 @@
   <data name="tabServerSettingsTitle.Text" xml:space="preserve">
     <value>Configuración servidor</value>
   </data>
-  <data name="tabServersTitle.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="tabServersTitle.Text" xml:space="preserve">
     <value>Servidores web</value>
   </data>
   <data name="tabSmtpServerTitle.Text" xml:space="preserve">
@@ -619,19 +637,82 @@
   <data name="tabSystemInfoTitle.Text" xml:space="preserve">
     <value>Información sistema</value>
   </data>
+  <data name="tabUpgrades.Text" xml:space="preserve">
+    <value>Actualizaciones</value>
+  </data>
   <data name="tabWebTitle.Text" xml:space="preserve">
     <value>Web</value>
   </data>
-  <data name="Url.Help" xml:space="preserve" lastModified="2024-05-29 17:16:26">
+  <data name="TryAgain.Text" xml:space="preserve">
+    <value>[Try Again]</value>
+  </data>
+  <data name="Upgrade_InvalidPackage.Text" xml:space="preserve">
+    <value>El archivo cargado {0} no es un paquete DNN válido.</value>
+  </data>
+  <data name="Upgrade_NoUpgrade.Text" xml:space="preserve">
+    <value>No hay actualizaciones que aplicar.</value>
+  </data>
+  <data name="Upgrade_NoUpgradesAvailable.Text" xml:space="preserve">
+    <value>No hay actualizaciones disponibles.</value>
+  </data>
+  <data name="Upgrade_NoValidUpgrade.Text" xml:space="preserve">
+    <value>No hay ninguna actualización válida para el paquete {0}.</value>
+  </data>
+  <data name="Upgrade_OutdatedPackage.Text" xml:space="preserve">
+    <value>El archivo cargado {0} es un paquete DNN obsoleto.</value>
+  </data>
+  <data name="Upgrade_UploadNotAllowed.Text" xml:space="preserve">
+    <value>La carga de paquetes de actualización de DNN ha sido desactivada.</value>
+  </data>
+  <data name="UpgradeDone.Text" xml:space="preserve">
+    <value>Copia de archivos completada</value>
+  </data>
+  <data name="UpgradeDoneLink.Text" xml:space="preserve">
+    <value>Haga clic aquí para iniciar el proceso de actualización</value>
+  </data>
+  <data name="Upgrading.Help" xml:space="preserve">
+    <value>Espere mientras preparamos la actualización de su servidor.</value>
+  </data>
+  <data name="Upgrading.Text" xml:space="preserve">
+    <value>Actualizando...</value>
+  </data>
+  <data name="UploadPackage.Text" xml:space="preserve">
+    <value>Cargar paquete</value>
+  </data>
+  <data name="UploadPackage_FileUploadDefault.Text" xml:space="preserve">
+    <value>Arrastre y suelte un archivo o haga clic en el icono para buscar</value>
+  </data>
+  <data name="UploadPackage_FileUploadDragOver.Text" xml:space="preserve">
+    <value>Arrastre y suelte un archivo</value>
+  </data>
+  <data name="UploadPackage_UploadAFile.Text" xml:space="preserve">
+    <value>Cargar un paquete ZIP de DNN</value>
+  </data>
+  <data name="UploadPackage_UploadComplete.Text" xml:space="preserve">
+    <value>Carga completada</value>
+  </data>
+  <data name="UploadPackage_UploadFailedUnknown.Text" xml:space="preserve">
+    <value>Se ha producido un error desconocido al cargar este archivo.</value>
+  </data>
+  <data name="UploadPackage_Uploading.Text" xml:space="preserve">
+    <value>Cargando</value>
+  </data>
+  <data name="Url.Help" xml:space="preserve">
     <value>La URL para la conexión directa a este servidor web. En entornos de varios servidores, suele ser una dirección IP o una entrada DNS única que apunta directamente a un servidor individual.</value>
   </data>
-  <data name="Url.Text" xml:space="preserve" lastModified="2024-05-29 17:18:04">
+  <data name="Url.Text" xml:space="preserve">
     <value>URL</value>
   </data>
   <data name="UserRestart.Text" xml:space="preserve">
     <value>El usuario ha forzado el reinicio de la aplicación</value>
   </data>
+  <data name="Version.Text" xml:space="preserve">
+    <value>Versión</value>
+  </data>
   <data name="VersionIncrementedConfirmation.Text" xml:space="preserve">
     <value>Se ha incrementado el número de versión</value>
+  </data>
+  <data name="Yes.Text" xml:space="preserve">
+    <value>Sí</value>
   </data>
 </root>

@@ -141,10 +141,10 @@
   <data name="ExpressionsTab.Text" xml:space="preserve">
     <value>EXPRESIONES</value>
   </data>
-  <data name="ExtensionUrlProviders.Text" xml:space="preserve" lastModified="2017-02-05 15:50:48">
+  <data name="ExtensionUrlProviders.Text" xml:space="preserve">
     <value>PROVEEDORES DE URLS DE EXTENSIONES</value>
   </data>
-  <data name="ExtensionUrlProvidersTab.Text" xml:space="preserve" lastModified="2017-02-05 15:50:48">
+  <data name="ExtensionUrlProvidersTab.Text" xml:space="preserve">
     <value>PROVEEDORES DE URLS DE EXTENSIONES</value>
   </data>
   <data name="File_Url.Text" xml:space="preserve">
@@ -195,7 +195,7 @@
   <data name="lblCache.Text" xml:space="preserve">
     <value>Días a guardar sitemap en caché</value>
   </data>
-  <data name="lblExcludePriority.Help" xml:space="preserve" lastModified="2024-05-29 17:09:44">
+  <data name="lblExcludePriority.Help" xml:space="preserve">
     <value>Esta opción puede utilizarse para eliminar ciertas páginas del Sitemap. Por ejemplo, puede configurar una prioridad de 0.1 para una página y entrar 0.1 aquí para hacer que la página no este incluida en el Sitemap generado.</value>
   </data>
   <data name="lblExcludePriority.Text" xml:space="preserve">
@@ -255,7 +255,7 @@
   <data name="No_Portal_Alias.Text" xml:space="preserve">
     <value>Sin alias de sitio</value>
   </data>
-  <data name="NoExtensionUrlProviders.Text" xml:space="preserve" lastModified="2017-02-05 15:50:48">
+  <data name="NoExtensionUrlProviders.Text" xml:space="preserve">
     <value>No se ha encontrado ningún proveedor de URLs</value>
   </data>
   <data name="None.Text" xml:space="preserve">

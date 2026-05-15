@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Funciones básicas</value>
+  <data name="ControlTitle_.Text" xml:space="preserve">
+    <value>Funciones básicas</value>
   </data>
-  <data name="Hide.Text">
-    <value xml:space="preserve">Vista simple</value>
+  <data name="Hide.Text" xml:space="preserve">
+    <value>Vista simple</value>
   </data>
-  <data name="IconFile.Text">
-    <value xml:space="preserve">Iconos pequeños</value>
+  <data name="IconFile.Text" xml:space="preserve">
+    <value>Iconos pequeños</value>
   </data>
-  <data name="IconFileLarge.Text">
-    <value xml:space="preserve">Iconos grandes</value>
+  <data name="IconFileLarge.Text" xml:space="preserve">
+    <value>Iconos grandes</value>
   </data>
-  <data name="IconNone.Text">
-    <value xml:space="preserve">Sin iconos</value>
+  <data name="IconNone.Text" xml:space="preserve">
+    <value>Sin iconos</value>
   </data>
-  <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;Haga clic sobre un elemento para navegar a esa página.&lt;/p&gt;</value>
+  <data name="ModuleHelp.Text" xml:space="preserve">
+    <value>&lt;p&gt;Haga clic sobre un elemento para navegar a esa página.&lt;/p&gt;</value>
   </data>
-  <data name="Show.Text">
-    <value xml:space="preserve">Vista detallada</value>
+  <data name="Show.Text" xml:space="preserve">
+    <value>Vista detallada</value>
   </data>
 </root>

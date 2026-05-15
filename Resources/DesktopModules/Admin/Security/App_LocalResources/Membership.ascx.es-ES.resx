@@ -45,12 +45,6 @@
   <data name="IsDeleted.Text" xml:space="preserve">
     <value>Eliminado:</value>
   </data>
-  <data name="IsOnLine.Help" xml:space="preserve">
-    <value>El usuario está en linea en este momento</value>
-  </data>
-  <data name="IsOnLine.Text" xml:space="preserve">
-    <value>Usuario en linea:</value>
-  </data>
   <data name="LastActivityDate.Help" xml:space="preserve">
     <value>Fecha de la última actividad de este usuario</value>
   </data>

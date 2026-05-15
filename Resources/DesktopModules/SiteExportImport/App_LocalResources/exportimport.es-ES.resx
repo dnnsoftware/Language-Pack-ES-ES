@@ -12,34 +12,34 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="InvalidPortal.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Sitio inválido.</value>
+  <data name="InvalidPortal.Text" xml:space="preserve">
+    <value>Sitio inválido.</value>
   </data>
-  <data name="JobNotExist.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">No se encuentra el proceso.</value>
+  <data name="JobNotExist.Text" xml:space="preserve">
+    <value>No se encuentra el proceso.</value>
   </data>
-  <data name="JobStatus_Cancelled.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Cancelado</value>
+  <data name="JobStatus_Cancelled.Text" xml:space="preserve">
+    <value>Cancelado</value>
   </data>
-  <data name="JobStatus_DoneFailure.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Error</value>
+  <data name="JobStatus_DoneFailure.Text" xml:space="preserve">
+    <value>Error</value>
   </data>
-  <data name="JobStatus_DoneSuccess.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Finalizado</value>
+  <data name="JobStatus_DoneSuccess.Text" xml:space="preserve">
+    <value>Finalizado</value>
   </data>
-  <data name="JobStatus_InProgress.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">En proceso</value>
+  <data name="JobStatus_InProgress.Text" xml:space="preserve">
+    <value>En proceso</value>
   </data>
-  <data name="JobStatus_Submitted.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Enviado</value>
+  <data name="JobStatus_Submitted.Text" xml:space="preserve">
+    <value>Enviado</value>
   </data>
-  <data name="JobType_Export.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Exportar sitio</value>
+  <data name="JobType_Export.Text" xml:space="preserve">
+    <value>Exportar sitio</value>
   </data>
-  <data name="JobType_Import.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">Importar sitio</value>
+  <data name="JobType_Import.Text" xml:space="preserve">
+    <value>Importar sitio</value>
   </data>
-  <data name="NotPortalAdmin.Text" lastModified="2017-04-29 05:13:56">
-    <value xml:space="preserve">El usuario no es un administrado del sitio</value>
+  <data name="NotPortalAdmin.Text" xml:space="preserve">
+    <value>El usuario no es un administrado del sitio</value>
   </data>
 </root>

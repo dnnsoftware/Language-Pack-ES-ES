@@ -12,10 +12,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="nav_Prompt.Text" xml:space="preserve" lastModified="2024-05-29 15:21:47">
+  <data name="nav_Prompt.Text" xml:space="preserve">
     <value>Prompt</value>
   </data>
-  <data name="PromptGreeting.Text" xml:space="preserve" lastModified="2024-05-29 15:21:47">
+  <data name="PromptGreeting.Text" xml:space="preserve">
     <value>Bienvenido a Prompt. Escriba 'help' para obtener la lista de comandos.</value>
   </data>
 </root>

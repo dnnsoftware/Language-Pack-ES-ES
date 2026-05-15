@@ -15,13 +15,13 @@
   <data name="AddTerm.Text" xml:space="preserve">
     <value>Añadir término</value>
   </data>
-  <data name="All.Text" xml:space="preserve" lastModified="2017-02-05 14:55:43">
+  <data name="All.Text" xml:space="preserve">
     <value>Todos</value>
   </data>
   <data name="Application.Text" xml:space="preserve">
     <value>Aplicación</value>
   </data>
-  <data name="BackToVocabularies.Text" xml:space="preserve" lastModified="2017-02-05 14:55:43">
+  <data name="BackToVocabularies.Text" xml:space="preserve">
     <value>Volver a vocabularios</value>
   </data>
   <data name="cancelCreate.Text" xml:space="preserve">
@@ -84,7 +84,7 @@
   <data name="Edit.Text" xml:space="preserve">
     <value>Editar</value>
   </data>
-  <data name="EditFieldHelper.Text" xml:space="preserve" lastModified="2017-04-29 05:34:16">
+  <data name="EditFieldHelper.Text" xml:space="preserve">
     <value>Pulse INTRO para finalizar o ESC para cancelar</value>
   </data>
   <data name="Hierarchy.Text" xml:space="preserve">

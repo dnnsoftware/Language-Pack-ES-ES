@@ -15,13 +15,13 @@
   <data name="AddNewSite.Header" xml:space="preserve">
     <value>Añadir nuevo sitio</value>
   </data>
-  <data name="AddNewSite.Text" xml:space="preserve" lastModified="2017-04-29 01:30:28">
+  <data name="AddNewSite.Text" xml:space="preserve">
     <value>Añadir nuevo sitio</value>
   </data>
   <data name="AssignCurrentUserAsAdmin.Label" xml:space="preserve">
     <value>Añadir usuario actual como Administrador</value>
   </data>
-  <data name="BackToSites.Text" xml:space="preserve" lastModified="2017-02-05 12:51:46">
+  <data name="BackToSites.Text" xml:space="preserve">
     <value>Volver a la lista de sitios</value>
   </data>
   <data name="BasicSettings.Text" xml:space="preserve">
@@ -48,7 +48,7 @@
   <data name="ControlTitle_template.Text" xml:space="preserve">
     <value>Crear plantilla de sitio</value>
   </data>
-  <data name="CreatePortalHomeFolderExists.Error" xml:space="preserve" lastModified="2020-05-09 09:29:29">
+  <data name="CreatePortalHomeFolderExists.Error" xml:space="preserve">
     <value>La carpeta de portal {0} ya está en uso.</value>
   </data>
   <data name="CreateSite_AdminEmail.Label" xml:space="preserve">
@@ -84,7 +84,7 @@
   <data name="Description.Label" xml:space="preserve">
     <value>Descripción</value>
   </data>
-  <data name="Description.Text" xml:space="preserve" lastModified="2017-04-29 01:30:28">
+  <data name="Description.Text" xml:space="preserve">
     <value>Descripción</value>
   </data>
   <data name="Directory.Text" xml:space="preserve">
@@ -280,13 +280,13 @@
   <data name="SiteDetails_Users.Text" xml:space="preserve">
     <value>Usuarios</value>
   </data>
-  <data name="SiteExport.Text" xml:space="preserve" lastModified="2018-03-24 17:31:49">
+  <data name="SiteExport.Text" xml:space="preserve">
     <value>Exportar sitio</value>
   </data>
-  <data name="SiteImport.Text" xml:space="preserve" lastModified="2018-03-24 17:31:49">
+  <data name="SiteImport.Text" xml:space="preserve">
     <value>Impotar sitio</value>
   </data>
-  <data name="Sites.Text" xml:space="preserve" lastModified="2017-04-29 01:30:28">
+  <data name="Sites.Text" xml:space="preserve">
     <value>Sitios</value>
   </data>
   <data name="SiteSettings.Text" xml:space="preserve">

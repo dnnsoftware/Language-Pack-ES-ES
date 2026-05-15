@@ -60,7 +60,7 @@
   <data name="EnterCode.Text" xml:space="preserve">
     <value>Indique su código de verificación</value>
   </data>
-  <data name="FailedToRemoveAccount.Text" xml:space="preserve" lastModified="2020-05-09 08:31:49">
+  <data name="FailedToRemoveAccount.Text" xml:space="preserve">
     <value>No se ha podido eliminar la cuenta. Póngase en contacto con el administrador del sistema para informarle que quiere cancelar su cuenta.</value>
   </data>
   <data name="InvalidCode.Text" xml:space="preserve">
@@ -72,7 +72,7 @@
   <data name="LoginFailed.Text" xml:space="preserve">
     <value>El inicio de sesión ha fallado. Recuerde que las contraseñas son sensibles a mayúsculas y minúsculas</value>
   </data>
-  <data name="MustConsent.Text" xml:space="preserve" lastModified="2020-05-09 06:31:39">
+  <data name="MustConsent.Text" xml:space="preserve">
     <value>Tiene que aceptar las condiciones para poder continuar</value>
   </data>
   <data name="PasswordExpired.Text" xml:space="preserve">

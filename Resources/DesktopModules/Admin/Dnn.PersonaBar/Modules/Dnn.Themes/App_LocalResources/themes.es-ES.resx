@@ -18,10 +18,10 @@
   <data name="ApplyConfirm.Text" xml:space="preserve">
     <value>¿Está seguro que desea aplicar este tema?</value>
   </data>
-  <data name="ApplyTheme.Text" xml:space="preserve" lastModified="2017-04-29 01:31:11">
+  <data name="ApplyTheme.Text" xml:space="preserve">
     <value>Aplicar</value>
   </data>
-  <data name="BackToThemes.Text" xml:space="preserve" lastModified="2018-03-25 03:31:00">
+  <data name="BackToThemes.Text" xml:space="preserve">
     <value>Volver a temas</value>
   </data>
   <data name="Cancel.Text" xml:space="preserve">
@@ -39,7 +39,7 @@
   <data name="DeleteConfirm.Text" xml:space="preserve">
     <value>¿Está seguro que desea eliminar este tema?</value>
   </data>
-  <data name="DeleteTheme.Text" xml:space="preserve" lastModified="2017-04-29 01:31:11">
+  <data name="DeleteTheme.Text" xml:space="preserve">
     <value>Eliminar</value>
   </data>
   <data name="EditThemeAttributes.Text" xml:space="preserve">
@@ -48,10 +48,10 @@
   <data name="File.Text" xml:space="preserve">
     <value>Archivo</value>
   </data>
-  <data name="GlobalThemes.Text" xml:space="preserve" lastModified="2018-03-25 03:31:00">
+  <data name="GlobalThemes.Text" xml:space="preserve">
     <value>Temas globales</value>
   </data>
-  <data name="InstallTheme.Text" xml:space="preserve" lastModified="2018-03-25 03:31:00">
+  <data name="InstallTheme.Text" xml:space="preserve">
     <value>Instalar un nuevo tema</value>
   </data>
   <data name="Layout.Text" xml:space="preserve">
@@ -66,7 +66,7 @@
   <data name="nav_Themes.Text" xml:space="preserve">
     <value>Temas</value>
   </data>
-  <data name="NoneSpecified.Text" xml:space="preserve" lastModified="2017-04-29 01:31:11">
+  <data name="NoneSpecified.Text" xml:space="preserve">
     <value>-- Seleccionar --</value>
   </data>
   <data name="NoPermission.Text" xml:space="preserve">
@@ -75,10 +75,10 @@
   <data name="NoThemeFile.Text" xml:space="preserve">
     <value>No hay ningún archivo de tema.</value>
   </data>
-  <data name="NoThemes" xml:space="preserve" lastModified="2018-03-25 03:31:00">
+  <data name="NoThemes" xml:space="preserve">
     <value>Se hay ningún tema.</value>
   </data>
-  <data name="NoThemesMessage" xml:space="preserve" lastModified="2018-03-25 03:31:00">
+  <data name="NoThemesMessage" xml:space="preserve">
     <value>Cambie los filtros de búsqueda o instale un nuevo tema.</value>
   </data>
   <data name="ParseThemePackage.Text" xml:space="preserve">
@@ -87,7 +87,7 @@
   <data name="Portable.Text" xml:space="preserve">
     <value>Portable</value>
   </data>
-  <data name="PreviewTheme.Text" xml:space="preserve" lastModified="2017-04-29 01:31:11">
+  <data name="PreviewTheme.Text" xml:space="preserve">
     <value>Previsualización</value>
   </data>
   <data name="RestoreTheme.Text" xml:space="preserve">
@@ -117,13 +117,13 @@
   <data name="Settings.Text" xml:space="preserve">
     <value>Configuración</value>
   </data>
-  <data name="ShowFilterLabel" xml:space="preserve" lastModified="2018-03-25 05:31:24">
+  <data name="ShowFilterLabel" xml:space="preserve">
     <value>Mostrando:</value>
   </data>
   <data name="SiteTheme.Text" xml:space="preserve">
     <value>Tema del sitio:</value>
   </data>
-  <data name="SiteThemes.Text" xml:space="preserve" lastModified="2018-03-25 05:31:24">
+  <data name="SiteThemes.Text" xml:space="preserve">
     <value>Temas del sitio</value>
   </data>
   <data name="StatusEdit.Text" xml:space="preserve">
@@ -138,13 +138,13 @@
   <data name="Theme.Text" xml:space="preserve">
     <value>Tema</value>
   </data>
-  <data name="ThemeLevelAll.Text" xml:space="preserve" lastModified="2018-03-25 05:31:24">
+  <data name="ThemeLevelAll.Text" xml:space="preserve">
     <value>Todos los temas</value>
   </data>
-  <data name="ThemeLevelGlobal.Text" xml:space="preserve" lastModified="2018-03-25 05:31:24">
+  <data name="ThemeLevelGlobal.Text" xml:space="preserve">
     <value>Temas globales</value>
   </data>
-  <data name="ThemeLevelSite.Text" xml:space="preserve" lastModified="2018-03-25 05:31:24">
+  <data name="ThemeLevelSite.Text" xml:space="preserve">
     <value>Temas del sitio</value>
   </data>
   <data name="ThemeNotFound.Text" xml:space="preserve">
