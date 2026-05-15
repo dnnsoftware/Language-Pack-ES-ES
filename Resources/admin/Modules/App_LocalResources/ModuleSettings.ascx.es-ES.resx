@@ -102,6 +102,12 @@
   <data name="isShareableViewOnlyLabel.Text" xml:space="preserve">
     <value>Compartir en modo lectura</value>
   </data>
+  <data name="JavaScriptInFooter.Text" xml:space="preserve">
+    <value>JavaScript no está permitido en el pie de página de los módulos.</value>
+  </data>
+  <data name="JavaScriptInHeader.Text" xml:space="preserve">
+    <value>JavaScript no está permitido en el encabezado de los módulos.</value>
+  </data>
   <data name="lblNoRecords.Text" xml:space="preserve">
     <value>Este módulo no se ha agregado a ninguna página.</value>
   </data>
@@ -120,7 +126,7 @@
   <data name="ModuleSettings.Text" xml:space="preserve">
     <value>Configuración del módulo</value>
   </data>
-  <data name="MonikerExists.Text" xml:space="preserve" lastModified="2016-03-17 07:32:03">
+  <data name="MonikerExists.Text" xml:space="preserve">
     <value>El alias ya existe, tiene que ser un valor único en el portal.</value>
   </data>
   <data name="MsgInstalledOnAll.Text" xml:space="preserve">
@@ -141,10 +147,10 @@
   <data name="Permissions.Text" xml:space="preserve">
     <value>Permisos</value>
   </data>
-  <data name="plAdminBorder.Help" xml:space="preserve" lastModified="2020-05-14 10:02:20">
+  <data name="plAdminBorder.Help" xml:space="preserve">
     <value>Marque esta opción para ocultar el mensaje de notificación que se muestra en la parte superior del módulo cuanto solo lo pueden ver los administradores.</value>
   </data>
-  <data name="plAdminBorder.Text" xml:space="preserve" lastModified="2020-05-14 10:02:20">
+  <data name="plAdminBorder.Text" xml:space="preserve">
     <value>Ocultar mensaje de visibilidad administrador</value>
   </data>
   <data name="plAlign.Help" xml:space="preserve">
@@ -156,13 +162,13 @@
   <data name="plAllModules.Help" xml:space="preserve">
     <value>Seleccione esta opción si desea aplicar la configuración de página definida para este módulo a todos los módulos existentes en el sitio. Esta opción solo está disponible para administradores y superusuarios.</value>
   </data>
-  <data name="plAllModules.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plAllModules.Text" xml:space="preserve">
     <value>Aplicar a todos los módulos</value>
   </data>
   <data name="plAllTabs.Help" xml:space="preserve">
     <value>Seleccione si desea que el módulo aparezca en la misma ubicación en todas las páginas del sitio</value>
   </data>
-  <data name="plAllTabs.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plAllTabs.Text" xml:space="preserve">
     <value>Mostrar el módulo en todas las páginas</value>
   </data>
   <data name="plBorder.Help" xml:space="preserve">
@@ -192,22 +198,22 @@
   <data name="plDisplayPrint.Help" xml:space="preserve">
     <value>Seleccione esta opción si desea habilitar la impresión para este módulo</value>
   </data>
-  <data name="plDisplayPrint.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plDisplayPrint.Text" xml:space="preserve">
     <value>Permitir imprimir</value>
   </data>
   <data name="plDisplaySyndicate.Help" xml:space="preserve">
     <value>Seleccione esta opción si desea habilitar RSS para este módulo</value>
   </data>
-  <data name="plDisplaySyndicate.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plDisplaySyndicate.Text" xml:space="preserve">
     <value>Permitir sindicación</value>
   </data>
   <data name="plDisplayTitle.Help" xml:space="preserve">
     <value>Seleccione esta opción si desea mostrar el container del módulo</value>
   </data>
-  <data name="plDisplayTitle.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plDisplayTitle.Text" xml:space="preserve">
     <value>Mostrar el container</value>
   </data>
-  <data name="plEndDate.Help" xml:space="preserve" lastModified="2020-05-14 10:02:20">
+  <data name="plEndDate.Help" xml:space="preserve">
     <value>Seleccione la última fecha en que debe mostrarse el módulo. Después de esta fecha el módulo será visible solamente para los usuarios con permisos de gestión sobre el módulo.</value>
   </data>
   <data name="plEndDate.Text" xml:space="preserve">
@@ -243,16 +249,22 @@
   <data name="plModuleContainer.Text" xml:space="preserve">
     <value>Container del módulo:</value>
   </data>
-  <data name="plMoniker.Help" xml:space="preserve" lastModified="2016-03-17 07:32:03">
+  <data name="plModuleId.Help" xml:space="preserve">
+    <value>Muestra el ID del módulo.</value>
+  </data>
+  <data name="plModuleId.Text" xml:space="preserve">
+    <value>ID del módulo</value>
+  </data>
+  <data name="plMoniker.Help" xml:space="preserve">
     <value>Especifica un identificador único para el módulo. Se puede utilizar este valor en la WEB API para establecer el contexto de la página o módulo.</value>
   </data>
-  <data name="plMoniker.Text" xml:space="preserve" lastModified="2016-03-17 07:32:03">
+  <data name="plMoniker.Text" xml:space="preserve">
     <value>Alias del módulo:</value>
   </data>
   <data name="plNewTabs.Help" xml:space="preserve">
     <value>Active esta opción para añadir el módulo solo a las páginas nuevas. Esta opción solo está disponible para administradores y superusuarios.</value>
   </data>
-  <data name="plNewTabs.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
+  <data name="plNewTabs.Text" xml:space="preserve">
     <value>Añadir solo a páginas nuevas</value>
   </data>
   <data name="plPermissions.Help" xml:space="preserve">
@@ -291,30 +303,6 @@
   <data name="plVisibility.Text" xml:space="preserve">
     <value>Visibilidad:</value>
   </data>
-  <data name="plWebSlice.Help" xml:space="preserve">
-    <value>Active esta opción para hacer este módulo un Web Slice de IE8.</value>
-  </data>
-  <data name="plWebSlice.Text" xml:space="preserve" lastModified="2015-12-28 08:23:16">
-    <value>Es un Web Slice</value>
-  </data>
-  <data name="plWebSliceExpiry.Help" xml:space="preserve">
-    <value>Indique una fecha en la cual expirará el Web Slice. Si deja el campo en blanco se usará la Fecha fin del módulo.</value>
-  </data>
-  <data name="plWebSliceExpiry.Text" xml:space="preserve">
-    <value>Caducidad de Web Slice</value>
-  </data>
-  <data name="plWebSliceTitle.Help" xml:space="preserve">
-    <value>Indique un título para el Web Slice. Si deja el campo en blanco se usará el Título del módulo.</value>
-  </data>
-  <data name="plWebSliceTitle.Text" xml:space="preserve">
-    <value>Título del Web Slice</value>
-  </data>
-  <data name="plWebSliceTTL.Help" xml:space="preserve">
-    <value>Indique el Time To Live (TTL) para este Web Slice en minutos. Si deja el campo en blanco se usará el tiempo de la caché (convertido a minutos)</value>
-  </data>
-  <data name="plWebSliceTTL.Text" xml:space="preserve">
-    <value>TTL Web Slice:</value>
-  </data>
   <data name="PreviewNoSelectionMessage.Text" xml:space="preserve">
     <value>Seleccione el container a previsualizar</value>
   </data>
@@ -347,11 +335,5 @@
   </data>
   <data name="valStartDate.ErrorMessage" xml:space="preserve">
     <value>Fecha de inicio incorrecta</value>
-  </data>
-  <data name="valWebSliceExpiry.ErrorMessage" xml:space="preserve">
-    <value>Fecha de expiración incorrecta</value>
-  </data>
-  <data name="valWebSliceTTL.ErrorMessage" xml:space="preserve">
-    <value>TTL inválido - el valor debe ser un entero</value>
   </data>
 </root>

@@ -60,13 +60,13 @@
   <data name="Day.Text" xml:space="preserve">
     <value>Día</value>
   </data>
-  <data name="DayPlural.Text" xml:space="preserve" lastModified="2018-03-24 12:10:43">
+  <data name="DayPlural.Text" xml:space="preserve">
     <value>días</value>
   </data>
   <data name="Days.Text" xml:space="preserve">
     <value>Días</value>
   </data>
-  <data name="DaySingular.Text" xml:space="preserve" lastModified="2018-03-24 12:10:43">
+  <data name="DaySingular.Text" xml:space="preserve">
     <value>día</value>
   </data>
   <data name="DeleteError.Text" xml:space="preserve">
@@ -114,13 +114,13 @@
   <data name="Hour.Text" xml:space="preserve">
     <value>Hora</value>
   </data>
-  <data name="HourPlural.Text" xml:space="preserve" lastModified="2018-03-24 14:12:04">
+  <data name="HourPlural.Text" xml:space="preserve">
     <value>horas</value>
   </data>
   <data name="Hours.Text" xml:space="preserve">
     <value>Horas</value>
   </data>
-  <data name="HourSingular.Text" xml:space="preserve" lastModified="2018-03-24 14:12:04">
+  <data name="HourSingular.Text" xml:space="preserve">
     <value>hora</value>
   </data>
   <data name="InvalidFrequencyAndRetry.Text" xml:space="preserve">
@@ -150,7 +150,7 @@
   <data name="lblStatusLabel.Text" xml:space="preserve">
     <value>Estado:</value>
   </data>
-  <data name="LessThanMinute.Text" xml:space="preserve" lastModified="2018-03-24 14:12:04">
+  <data name="LessThanMinute.Text" xml:space="preserve">
     <value>menos de un minuto</value>
   </data>
   <data name="lnkHistory.Text" xml:space="preserve">
@@ -162,13 +162,13 @@
   <data name="Minute.Text" xml:space="preserve">
     <value>Minuto</value>
   </data>
-  <data name="MinutePlural.Text" xml:space="preserve" lastModified="2018-03-24 14:12:04">
+  <data name="MinutePlural.Text" xml:space="preserve">
     <value>minutos</value>
   </data>
   <data name="Minutes.Text" xml:space="preserve">
     <value>Minutos</value>
   </data>
-  <data name="MinuteSingular.Text" xml:space="preserve" lastModified="2018-03-24 14:12:04">
+  <data name="MinuteSingular.Text" xml:space="preserve">
     <value>minuto</value>
   </data>
   <data name="ModuleHelp.Text" xml:space="preserve">
@@ -201,10 +201,10 @@
   <data name="NOT_SET.Text" xml:space="preserve">
     <value>NO ESTABLECIDO</value>
   </data>
-  <data name="NoTasks.Text" xml:space="preserve" lastModified="2018-03-25 05:29:50">
+  <data name="NoTasks.Text" xml:space="preserve">
     <value>No hay tareas en la cola.</value>
   </data>
-  <data name="NoTasksMessage.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="NoTasksMessage.Text" xml:space="preserve">
     <value>Si hay tareas en la cola o ejecutándose, se mostrarán aquí.</value>
   </data>
   <data name="Notes.Header" xml:space="preserve">
@@ -303,28 +303,28 @@
   <data name="processing.Text" xml:space="preserve">
     <value>En proceso...</value>
   </data>
-  <data name="Prompt_FetchTaskFailed.Text" xml:space="preserve" lastModified="2018-03-24 13:11:45">
+  <data name="Prompt_FetchTaskFailed.Text" xml:space="preserve">
     <value>No se han podido obtener los detalles de la tarea. Consulte el registro de eventos para ver más detalles.</value>
   </data>
-  <data name="Prompt_FlagCantBeEmpty.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_FlagCantBeEmpty.Text" xml:space="preserve">
     <value>Si se incluye, la opción --{0} no puede ser vacía.\n</value>
   </data>
-  <data name="Prompt_FlagMustBeNumber.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_FlagMustBeNumber.Text" xml:space="preserve">
     <value>Si se incluye, la opción --{0} tiene que ser un número.\n</value>
   </data>
-  <data name="Prompt_FlagMustBeTrueFalse.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_FlagMustBeTrueFalse.Text" xml:space="preserve">
     <value>Si se incluye, la opción --{0} tiene que ser 'true' o 'false'.\n</value>
   </data>
-  <data name="Prompt_FlagRequired.Text" xml:space="preserve" lastModified="2018-03-24 22:21:33">
+  <data name="Prompt_FlagRequired.Text" xml:space="preserve">
     <value>La opción --{0} es obligatoria.\n</value>
   </data>
-  <data name="Prompt_GetTask_Description.Text" xml:space="preserve" lastModified="2018-03-24 19:19:55">
+  <data name="Prompt_GetTask_Description.Text" xml:space="preserve">
     <value>Obtiene los detalles de una tarea específica del programador.</value>
   </data>
-  <data name="Prompt_GetTask_FlagId.Text" xml:space="preserve" lastModified="2018-03-24 23:23:17">
+  <data name="Prompt_GetTask_FlagId.Text" xml:space="preserve">
     <value>El ID de la tarea que quiere mostrar. Si introduce el ID como primer valor después del nombre del comando no tiene que utilizar explícitamente el nombre de la opción &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
   </data>
-  <data name="Prompt_GetTask_ResultHtml.Text" xml:space="preserve" lastModified="2018-03-24 18:18:25">
+  <data name="Prompt_GetTask_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Obtener una tarea&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-task 11
@@ -378,16 +378,16 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ListTasks_Description.Text" xml:space="preserve" lastModified="2018-03-24 19:19:55">
+  <data name="Prompt_ListTasks_Description.Text" xml:space="preserve">
     <value>Obtiene una lista de tareas del programador según los criterios de búsqueda especificados. </value>
   </data>
-  <data name="Prompt_ListTasks_FlagEnabled.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_ListTasks_FlagEnabled.Text" xml:space="preserve">
     <value>Si se indica, Prompt obtendrá las tareas que está activas (si la opción es true) o inactivas (si la opción és false). Si la opción no se especifica, Prompt devolverá todas la tareas.</value>
   </data>
-  <data name="Prompt_ListTasks_FlagName.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_ListTasks_FlagName.Text" xml:space="preserve">
     <value>Si se indica, Prompt obtendrá las tareas cuyo nombre coincida con la expresión. Se puede utilizar el comodín asterisco ( &lt;span class="mono"&gt;*&lt;/span&gt; ) para indicar cero (0) o más caracteres.</value>
   </data>
-  <data name="Prompt_ListTasks_ResultHtml.Text" xml:space="preserve" lastModified="2018-03-24 18:18:25">
+  <data name="Prompt_ListTasks_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Obtener todas las tareas&lt;/h4&gt;
   &lt;code class="block"&gt;
     list-tasks
@@ -603,22 +603,22 @@
     &lt;/tbody&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_ScheduleFlagRequired.Text" xml:space="preserve" lastModified="2018-03-25 01:28:56">
+  <data name="Prompt_ScheduleFlagRequired.Text" xml:space="preserve">
     <value>Tiene que  indicar el ID de la tarea utilizando la opción --{0} o incluyendo el ID como primer argumento del comando.\n</value>
   </data>
-  <data name="Prompt_SchedulerCategory.Text" xml:space="preserve" lastModified="2018-03-24 20:20:15">
+  <data name="Prompt_SchedulerCategory.Text" xml:space="preserve">
     <value>Comandos del progamador de tareas</value>
   </data>
-  <data name="Prompt_SetTask_Description.Text" xml:space="preserve" lastModified="2018-03-24 21:20:42">
+  <data name="Prompt_SetTask_Description.Text" xml:space="preserve">
     <value>Establece o actualiza las propiedades de la tarea especificada.</value>
   </data>
-  <data name="Prompt_SetTask_FlagEnabled.Text" xml:space="preserve" lastModified="2018-03-25 00:28:13">
+  <data name="Prompt_SetTask_FlagEnabled.Text" xml:space="preserve">
     <value>Cuando es 'true', la tarea especificada se activará. Cuando es 'false', la tarea especificada se desactivará.</value>
   </data>
-  <data name="Prompt_SetTask_FlagId.Text" xml:space="preserve" lastModified="2018-03-24 23:23:17">
+  <data name="Prompt_SetTask_FlagId.Text" xml:space="preserve">
     <value>El ID de la tarea que quiere actualizar. Si introduce el ID como primer valor después del nombre del comando no tiene que utilizar explícitamente el nombre de la opción &lt;span class="mono"&gt;--id&lt;/span&gt;.</value>
   </data>
-  <data name="Prompt_SetTask_ResultHtml.Text" xml:space="preserve" lastModified="2018-03-24 17:14:27">
+  <data name="Prompt_SetTask_ResultHtml.Text" xml:space="preserve">
     <value>&lt;h4&gt;Desactivar la tarea &amp;quot;Purge Schedule History&amp;quot;&lt;/h4&gt;
   &lt;code class="block"&gt;
     set-task 3 --enabled false
@@ -677,31 +677,31 @@
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
-  <data name="Prompt_TaskAlreadyDisabled.Text" xml:space="preserve" lastModified="2018-03-24 22:21:33">
+  <data name="Prompt_TaskAlreadyDisabled.Text" xml:space="preserve">
     <value>La tarea ya está desactivada.</value>
   </data>
-  <data name="Prompt_TaskAlreadyEnabled.Text" xml:space="preserve" lastModified="2018-03-24 22:21:33">
+  <data name="Prompt_TaskAlreadyEnabled.Text" xml:space="preserve">
     <value>La tarea ya está activada.</value>
   </data>
-  <data name="Prompt_TaskFound.Text" xml:space="preserve" lastModified="2024-05-29 17:28:45">
+  <data name="Prompt_TaskFound.Text" xml:space="preserve">
     <value>Se ha encontrado la tarea {0}.</value>
   </data>
-  <data name="Prompt_TaskNotFound.Text" xml:space="preserve" lastModified="2018-03-24 16:13:09">
+  <data name="Prompt_TaskNotFound.Text" xml:space="preserve">
     <value>No se ha encontrado la tarea con ID {0}.</value>
   </data>
-  <data name="Prompt_TasksFound.Text" xml:space="preserve" lastModified="2018-03-24 11:10:27">
+  <data name="Prompt_TasksFound.Text" xml:space="preserve">
     <value>{0} tareas encontradas.</value>
   </data>
-  <data name="Prompt_TaskUpdated.Text" xml:space="preserve" lastModified="2018-03-24 22:21:33">
+  <data name="Prompt_TaskUpdated.Text" xml:space="preserve">
     <value>La tarea se ha actualizado correctamente.</value>
   </data>
-  <data name="Prompt_TaskUpdateFailed.Text" xml:space="preserve" lastModified="2018-03-24 13:11:45">
+  <data name="Prompt_TaskUpdateFailed.Text" xml:space="preserve">
     <value>No se ha podido actualizar la tarea.</value>
   </data>
   <data name="RanOnServerColumn.Text" xml:space="preserve">
     <value>SERVIDOR</value>
   </data>
-  <data name="RecommendServers.Text" xml:space="preserve" lastModified="2024-05-29 17:28:45">
+  <data name="RecommendServers.Text" xml:space="preserve">
     <value>Para evitar errores, se recomienda encarecidamente configurar este programador para que se ejecute en los siguientes servidores web:&lt;br/&gt;&lt;br/&gt;{0}&lt;br/&gt;&lt;br/&gt;¿Continuar de todos modos?</value>
   </data>
   <data name="RequestMethod.Text" xml:space="preserve">
@@ -779,7 +779,7 @@
   <data name="Servers.Header" xml:space="preserve">
     <value>Servidores:</value>
   </data>
-  <data name="Servers.Text" xml:space="preserve" lastModified="2017-04-27 19:30:46">
+  <data name="Servers.Text" xml:space="preserve">
     <value>Servidores</value>
   </data>
   <data name="ServerTime.Text" xml:space="preserve">
@@ -851,7 +851,7 @@
   <data name="TimeLapseValidator.ErrorMessage" xml:space="preserve">
     <value>El rango válido para la frecuencia es entre 1 y 999999</value>
   </data>
-  <data name="TimeRemaining.Header" xml:space="preserve" lastModified="2018-03-25 03:29:33">
+  <data name="TimeRemaining.Header" xml:space="preserve">
     <value>Tiempo restante:</value>
   </data>
   <data name="TimerMethod.Text" xml:space="preserve">

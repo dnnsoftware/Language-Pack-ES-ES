@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AddModule.Tooltip" lastModified="2016-11-30 07:54:45">
-    <value xml:space="preserve">Añadir módulo</value>
+  <data name="AddModule.Tooltip" xml:space="preserve">
+    <value>Añadir módulo</value>
   </data>
-  <data name="Close.Text" lastModified="2016-11-30 07:54:45">
-    <value xml:space="preserve">Cerrar</value>
+  <data name="Close.Text" xml:space="preserve">
+    <value>Cerrar</value>
   </data>
-  <data name="Edit.Text" lastModified="2016-11-30 07:54:45">
-    <value xml:space="preserve">Editar</value>
+  <data name="Edit.Text" xml:space="preserve">
+    <value>Editar</value>
   </data>
 </root>

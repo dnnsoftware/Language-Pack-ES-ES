@@ -12,13 +12,13 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ExitEditMode.Text" lastModified="2016-11-30 07:55:24">
-    <value xml:space="preserve">Cerrar</value>
+  <data name="ExitEditMode.Text" xml:space="preserve">
+    <value>Cerrar</value>
   </data>
-  <data name="PageSettings.Text" lastModified="2016-11-30 07:55:24">
-    <value xml:space="preserve">Configuración de la página</value>
+  <data name="PageSettings.Text" xml:space="preserve">
+    <value>Configuración de la página</value>
   </data>
-  <data name="PageSettings.Tooltip" lastModified="2016-11-30 07:55:24">
-    <value xml:space="preserve">Configuración de la página</value>
+  <data name="PageSettings.Tooltip" xml:space="preserve">
+    <value>Configuración de la página</value>
   </data>
 </root>

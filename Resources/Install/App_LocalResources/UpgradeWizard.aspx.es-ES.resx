@@ -12,16 +12,16 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="AcceptTerms.Required" xml:space="preserve" lastModified="2018-06-01 16:33:29">
+  <data name="AcceptTerms.Required" xml:space="preserve">
     <value>Acepte los términos del acuerdo de licencia para continuar.</value>
   </data>
-  <data name="AcceptTerms.Text" xml:space="preserve" lastModified="2018-06-01 16:33:30">
+  <data name="AcceptTerms.Text" xml:space="preserve">
     <value>Acepto los términos del &lt;a href="../Licenses/Dnn_Corp_License.pdf" target="_blank"&gt;acuerdo de licencia&lt;/a&gt;</value>
   </data>
   <data name="AccountInfo.Text" xml:space="preserve">
     <value>Información de cuenta</value>
   </data>
-  <data name="BestPractices.Text" xml:space="preserve" lastModified="2018-06-01 16:33:30">
+  <data name="BestPractices.Text" xml:space="preserve">
     <value>Está a punto de actualizar su sitio web a una versión más reciente de la aplicación. Aplicar las actualizaciones de forma consistente es la mejor manera de garantizar la seguridad de su sistema, de los usuarios y de los documentos de la web. Antes de proceder con el proceso de actualización verifique que:
 &lt;ul&gt;
 &lt;li&gt;ha realizado pruebas de actualización en un entorno de test
@@ -29,7 +29,7 @@
 &lt;li&gt;ha realizado las copias de seguridad necesarias para poder restaurar el sistema en caso de un error inesperado durante la actualización.
 &lt;/ul&gt;</value>
   </data>
-  <data name="CheckingSecurity.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+  <data name="CheckingSecurity.Text" xml:space="preserve">
     <value>Comprobación de los aspectos de seguridad de esta instalación.</value>
   </data>
   <data name="CurrentVersion.Text" xml:space="preserve">
@@ -55,11 +55,17 @@
   <data name="InvalidCredentials.Text" xml:space="preserve">
     <value>Usuario y contraseña no reconocidos.</value>
   </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Cargando los registros de instalación, espere...</value>
+  </data>
   <data name="Next.Text" xml:space="preserve">
     <value>Actualizar ahora</value>
   </data>
-  <data name="NextStep.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+  <data name="NextStep.Text" xml:space="preserve">
     <value>Siguiente</value>
+  </data>
+  <data name="NoErrorsLogged.Text" xml:space="preserve">
+    <value>No se han registrado errores de actualización.</value>
   </data>
   <data name="NoInstallationLog.Text" xml:space="preserve">
     <value>No hay ningún registro de instalación</value>
@@ -73,53 +79,47 @@
   <data name="Retry.Text" xml:space="preserve">
     <value>Volver a intentar</value>
   </data>
-  <data name="Security.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+  <data name="Security.Text" xml:space="preserve">
     <value>Seguridad</value>
   </data>
   <data name="SeeLogs.Text" xml:space="preserve">
     <value>Ver el registro</value>
   </data>
-  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+  <data name="TelerikInstalledAndUsedInfo.Text" xml:space="preserve">
     <value>Su instalación utiliza Telerik en los siguientes ensamblados:</value>
   </data>
-  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve" lastModified="2024-05-29 17:38:25">
+  <data name="TelerikInstalledAndUsedWarning.Text" xml:space="preserve">
     <value>Parece que tiene extensiones que dependen de Telerik. No podemos eliminar las dependencias que hemos detectado y mostrado anteriormente. Sin embargo, asegúrese de haber parcheado correctamente Telerik y eliminado todos los componentes de Telerik distribuidos por la plataforma DNN según la guía que se encuentra &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal /index.html" target="_blank"&gt;aquí&lt;/a&gt;. Tenga en cuenta que NO podrá actualizar a DNN 10 con esas dependencias a menos que se distribuyan con su propia copia de Telerik.</value>
   </data>
-  <data name="TelerikInstalledBulletin.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikInstalledBulletin.Text" xml:space="preserve">
     <value>En agosto de 2021 se publicó un boletín de seguridad que recomienda la eliminación inmediata de este componente debido a las vulnerabilidades de seguridad de alto nivel presentes. Puede leer más sobre esto en el &lt;a href="https://dnncommunity.org/security" target="_blank"&gt;Centro de seguridad DNN&lt;/a&gt;.</value>
   </data>
-  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikInstalledButNotUsedInfo.Text" xml:space="preserve">
     <value>Dado que su instalación NO parece utilizar ninguno de estos componentes, puede optar por eliminarlos como parte de esta actualización para mejorar la seguridad de su aplicación.</value>
   </data>
-  <data name="TelerikInstalledButNotUsedInfoAutoInstall.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
-    <value>Dado que su instalación NO parece utilizar ninguno de estos componentes, puede eliminarlos de forma segura. Utilice la herramienta de eliminación de Telerik en el menú de la barra de administración para eliminar estos componentes.</value>
-  </data>
-  <data name="TelerikInstalledDetected.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikInstalledDetected.Text" xml:space="preserve">
     <value>Hemos detectado la presencia de los componentes de desarrollador de Telerik previamente distribuidos. La versión de Telerik detectada es:</value>
   </data>
-  <data name="TelerikInstalledHeading.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikInstalledHeading.Text" xml:space="preserve">
     <value>Alerta de seguridad</value>
   </data>
-  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikInvalidAntiForgeryToken.Text" xml:space="preserve">
     <value>Token antifalsificación de Telerik no válido.</value>
   </data>
-  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikNotInstalledHeading.Text" xml:space="preserve">
     <value>Listo para futuras actualizaciones</value>
   </data>
-  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikNotInstalledInfo.Text" xml:space="preserve">
     <value>Hemos confirmado que ha eliminado Telerik, lo que hace que su sitio esté listo para DNN 10.0.0.</value>
   </data>
-  <data name="TelerikUninstallInfo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikUninstallInfo.Text" xml:space="preserve">
     <value>Tenga en cuenta que al seleccionar "Sí" a continuación se completarán &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;estos pasos. &lt;/a&gt; automáticamente.</value>
   </data>
-  <data name="TelerikUninstallNo.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
-    <value>No, dejar el sitio inseguro</value>
-  </data>
-  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
+  <data name="TelerikUninstallOptionMissing.Text" xml:space="preserve">
     <value>Falta la opción de desinstalación de Telerik.</value>
   </data>
-  <data name="TelerikUninstallYes.Text" xml:space="preserve" lastModified="2024-05-29 17:41:22">
-    <value>Sí, mejorar la seguridad y eliminar Telerik ahora</value>
+  <data name="TelerikVersionNotKnownToBeVulnerableInfo.Text" xml:space="preserve">
+    <value>Parece que su instalación está usando una versión de los componentes de Telerik más reciente que la versión distribuida anteriormente conocida como vulnerable. La desinstalación no se realizará automáticamente; no obstante, revise los &lt;a href="https://docs.dnncommunity.org/content/getting-started/setup/telerik-removal/index.html" target="_blank"&gt;pasos de eliminación&lt;/a&gt; para asegurarse de que todos los componentes vulnerables se hayan eliminado o sustituido. Además, revise la &lt;a href="https://www.telerik.com/products/aspnet-ajax/documentation/security/security-information#telerik-ajax-control-specific-security-guidelines"&gt;guía de seguridad de Telerik&lt;/a&gt; para asegurarse de que cualquier uso emplee una versión sin vulnerabilidades conocidas y esté configurado correctamente.</value>
   </data>
   <data name="TimerMinutes.Text" xml:space="preserve">
     <value>Minutos</value>
@@ -133,7 +133,7 @@
   <data name="UpgradeDone.Text" xml:space="preserve">
     <value>Actualización completada</value>
   </data>
-  <data name="UpgradeStarted.Text" xml:space="preserve" lastModified="2015-12-29 15:59:19">
+  <data name="UpgradeStarted.Text" xml:space="preserve">
     <value>Actualización iniciada </value>
   </data>
   <data name="UpgradingDatabase.Text" xml:space="preserve">
@@ -148,10 +148,10 @@
   <data name="Version.Text" xml:space="preserve">
     <value>Actualización - Versión {0}</value>
   </data>
-  <data name="VersionsMatch.Text" xml:space="preserve" lastModified="2018-06-01 13:34:17">
+  <data name="VersionsMatch.Text" xml:space="preserve">
     <value>La versión de la base de datos y la aplicación coinciden. No hay ninguna actualización pendiente de aplicar.</value>
   </data>
-  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve" lastModified="2015-09-14 05:45:10">
+  <data name="VersionsMatchButIncrementalExists.Text" xml:space="preserve">
     <value>La versión de la base de datos y la aplicación coinciden. Hay una versión incremental a la que puede actualizar.</value>
   </data>
   <data name="ViewWebsite.Text" xml:space="preserve">

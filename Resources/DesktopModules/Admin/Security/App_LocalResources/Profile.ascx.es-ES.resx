@@ -18,7 +18,7 @@
   <data name="Contact Info.Text" xml:space="preserve">
     <value>Información de contacto</value>
   </data>
-  <data name="DisplayNameNotUnique.Text" xml:space="preserve" lastModified="2016-03-17 07:41:11">
+  <data name="DisplayNameNotUnique.Text" xml:space="preserve">
     <value>El nombre que ha introducido ya se encuentra en uso, introduzca otro nombre diferente.</value>
   </data>
   <data name="Name.Text" xml:space="preserve">

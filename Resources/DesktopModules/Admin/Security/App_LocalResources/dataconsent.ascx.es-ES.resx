@@ -12,25 +12,25 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Anonymize.Confirm" xml:space="preserve" lastModified="2020-05-08 12:16:52">
+  <data name="Anonymize.Confirm" xml:space="preserve">
     <value>Sus datos personales se anonimizarán. Después de la anonimización los datos ya no se podrán relacionar con usted y no podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="cmdDeleteMe.Text" xml:space="preserve" lastModified="2020-05-09 07:24:00">
+  <data name="cmdDeleteMe.Text" xml:space="preserve">
     <value>Borrar mi cuenta</value>
   </data>
-  <data name="cmdSubmit.Text" xml:space="preserve" lastModified="2020-05-08 10:16:16">
+  <data name="cmdSubmit.Text" xml:space="preserve">
     <value>Enviar</value>
   </data>
-  <data name="DataConsent.Text" xml:space="preserve" lastModified="2020-05-08 10:16:16">
+  <data name="DataConsent.Text" xml:space="preserve">
     <value>Estoy de acuerdo con los &lt;a href="{0}"&gt;Términos de uso&lt;/a&gt; de este sitio web y su &lt;a href="{1}"&gt;Política de privacidad&lt;/a&gt;</value>
   </data>
-  <data name="DelayedHardDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+  <data name="DelayedHardDelete.Confirm" xml:space="preserve">
     <value>Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="HardDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+  <data name="HardDelete.Confirm" xml:space="preserve">
     <value>Sus datos personales de borrarán del sitio immediatamente. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
-  <data name="ManualDelete.Confirm" xml:space="preserve" lastModified="2020-05-08 16:56:33">
+  <data name="ManualDelete.Confirm" xml:space="preserve">
     <value>Sus datos personales de borrarán del sitio en breve. Después de borrarse ya no se pueden recuperar y se perderán para siempre. Tampoco podrá iniciar sesión con esta cuenta. ¿Está seguro que desea continuar?</value>
   </data>
 </root>

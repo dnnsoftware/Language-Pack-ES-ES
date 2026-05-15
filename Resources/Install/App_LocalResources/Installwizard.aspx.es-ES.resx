@@ -153,8 +153,8 @@
   <data name="DeletingOldFiles.Text" xml:space="preserve">
     <value>Borrando archivos anteriores de </value>
   </data>
-  <data name="DotNetVersion472Required.Text" xml:space="preserve">
-    <value>Se requiere .Net Framework 4.7.2. Verifique las actualizaciones de Windows antes de continuar.</value>
+  <data name="DotNetVersion48Required.Text" xml:space="preserve">
+    <value>Se requiere .NET Framework 4.8. Compruebe si hay actualizaciones de Windows antes de continuar.</value>
   </data>
   <data name="Email.Help" xml:space="preserve">
     <value>Introduzca el email de este usuario.</value>
@@ -183,7 +183,7 @@
   <data name="FileAndFolderPermissionCheck.Text" xml:space="preserve">
     <value>Verificación de permisos de archivo y carpeta</value>
   </data>
-  <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve" lastModified="2024-05-29 17:34:16">
+  <data name="FileAndFolderPermissionCheckFailed.Text" xml:space="preserve">
     <value>&lt;div class="permission"&gt;&lt;img alt="La imagen que muestra la configuración de seguridad para la carpeta raíz del sitio web debe estar configurada en Control de lectura, escritura y cambios para las cuentas ASPNET o NT AUTHORITY/NETWORK SERVICE." src="..\403-3.gif" align="right" hspace="10"/&gt; &lt;p&gt;&lt;b&gt;&lt;font color='red'&gt;Su sitio no pasó la verificación de permisos.&lt;/font&gt;&lt; /b&gt;&lt;/p&gt; Usando el Explorador de Windows, busque las carpetas de su sitio web ( {0} ). Haga clic derecho en la carpeta y seleccione Compartir y seguridad en el menú emergente. Seleccione la pestaña Seguridad. Agregue la cuenta de usuario adecuada y establezca los permisos. &lt;br/&gt;&lt;br/&gt; &lt;h3&gt;Si usa Windows 8 o superior, Windows Server 2008 R2 o superior, e IIS7.5 o superior&lt;/h3&gt; &lt;p&gt;La cuenta de usuario IIS AppPool\DefaultAppPool debe tener lectura, escritura y Control de cambios de la raíz virtual de su sitio web.&lt;/p&gt;&lt;p&gt;&lt;a class="dnnPrimaryAction" href=""&gt;Vuelva a verificar&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</value>
   </data>
   <data name="FileAndFolderPermissionCheckTitle.Text" xml:space="preserve">
@@ -243,10 +243,10 @@
   <data name="InstallingMembershipDatabaseScriptStep.Text" xml:space="preserve">
     <value>Instalando scripts de base de datos de Membership </value>
   </data>
-  <data name="InstallingSslStep.Text" xml:space="preserve" lastModified="2024-05-29 17:33:01">
+  <data name="InstallingSslStep.Text" xml:space="preserve">
     <value>Verificando HTTPS para el sitio {0}</value>
   </data>
-  <data name="InstallingSslStepSiteNotFound.Text" xml:space="preserve" lastModified="2024-05-29 17:33:01">
+  <data name="InstallingSslStepSiteNotFound.Text" xml:space="preserve">
     <value>No se ha podido validar HTTPS para el sitio {0}</value>
   </data>
   <data name="InstallTitle.Text" xml:space="preserve">
@@ -255,7 +255,7 @@
   <data name="InstallVersion.Text" xml:space="preserve">
     <value>Añadiendo versión de instalación</value>
   </data>
-  <data name="IntroDetail.Text" xml:space="preserve" lastModified="2024-05-29 17:35:22">
+  <data name="IntroDetail.Text" xml:space="preserve">
     <value>&lt;a class="videoLink" href="https://dnncommunity.org/How-To/-Download-and-Install" target="new"&gt;Ver sitio web de la comunidad DNN&lt;/a&gt;</value>
   </data>
   <data name="InvalidQualifier.Text" xml:space="preserve">
@@ -270,10 +270,10 @@
   <data name="IsSqlServerDbo.Text" xml:space="preserve">
     <value>El usuario de base de datos no tiene permisos de dbo</value>
   </data>
-  <data name="IsValidSqlServerVersion.Text" xml:space="preserve" lastModified="2024-05-29 17:36:22">
+  <data name="IsValidSqlServerVersion.Text" xml:space="preserve">
     <value>DotNetNuke necesita la versión SQL Server 2008 R2 (Express o completo)</value>
   </data>
-  <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve" lastModified="2024-05-29 17:36:22">
+  <data name="IsValidSqlServerVersionCheck.Text" xml:space="preserve">
     <value>Verificar que la versión de la base de datos sea SQL 2008 R2 (Express o completo) o superior para funcionar</value>
   </data>
   <data name="Language.Help" xml:space="preserve">
@@ -308,6 +308,9 @@
   </data>
   <data name="LicenseActivation.Text" xml:space="preserve">
     <value>Activando licencia</value>
+  </data>
+  <data name="LoadingInstallationLog.Text" xml:space="preserve">
+    <value>Cargando los registros de instalación, espere...</value>
   </data>
   <data name="NoErrorsLogged.Text" xml:space="preserve">
     <value>No se han registrado errores de instalación</value>
@@ -420,10 +423,10 @@
   <data name="WebsiteName.Text" xml:space="preserve">
     <value>Nombre del sitio web</value>
   </data>
-  <data name="WebsiteSsl.Help" xml:space="preserve" lastModified="2024-05-29 17:33:28">
+  <data name="WebsiteSsl.Help" xml:space="preserve">
     <value>El sitio web si configurará para ejecutarse con HTTPS</value>
   </data>
-  <data name="WebsiteSsl.Text" xml:space="preserve" lastModified="2024-05-29 17:33:28">
+  <data name="WebsiteSsl.Text" xml:space="preserve">
     <value>HTTPS</value>
   </data>
   <data name="WebsiteTemplate.Help" xml:space="preserve">

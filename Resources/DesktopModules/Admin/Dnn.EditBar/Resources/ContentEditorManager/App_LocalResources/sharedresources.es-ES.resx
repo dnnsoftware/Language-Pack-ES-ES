@@ -12,157 +12,157 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="25% + 50% + 25%.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Tres columnas 25 - 50 - 25</value>
+  <data name="25% + 50% + 25%.Text" xml:space="preserve">
+    <value>Tres columnas 25 - 50 - 25</value>
   </data>
-  <data name="25% + 75%.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Dos columnas 25 - 75</value>
+  <data name="25% + 75%.Text" xml:space="preserve">
+    <value>Dos columnas 25 - 75</value>
   </data>
-  <data name="33% + 33% + 33%.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Tres columnas 33 - 33 - 33</value>
+  <data name="33% + 33% + 33%.Text" xml:space="preserve">
+    <value>Tres columnas 33 - 33 - 33</value>
   </data>
-  <data name="50% + 50%.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Dos columnas 50 - 50</value>
+  <data name="50% + 50%.Text" xml:space="preserve">
+    <value>Dos columnas 50 - 50</value>
   </data>
-  <data name="75% + 25%.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Dos columnas 75 - 25</value>
+  <data name="75% + 25%.Text" xml:space="preserve">
+    <value>Dos columnas 75 - 25</value>
   </data>
-  <data name="AddExistingModule.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Añadir módulo existente</value>
+  <data name="AddExistingModule.Text" xml:space="preserve">
+    <value>Añadir módulo existente</value>
   </data>
-  <data name="AddModule.Text" lastModified="2016-11-30 04:57:52">
-    <value xml:space="preserve">Añadir módulo</value>
+  <data name="AddModule.Text" xml:space="preserve">
+    <value>Añadir módulo</value>
   </data>
-  <data name="Blank.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Nueva</value>
+  <data name="Blank.Text" xml:space="preserve">
+    <value>Nueva</value>
   </data>
-  <data name="Cancel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Cancelar</value>
+  <data name="Cancel.Text" xml:space="preserve">
+    <value>Cancelar</value>
   </data>
-  <data name="CancelConfirm.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea cancelar añadir el módulo a la página?</value>
+  <data name="CancelConfirm.Text" xml:space="preserve">
+    <value>¿Está seguro que desea cancelar añadir el módulo a la página?</value>
   </data>
-  <data name="Category_All.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Todas</value>
+  <data name="Category_All.Text" xml:space="preserve">
+    <value>Todas</value>
   </data>
-  <data name="Category_Recommended.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Recomendado</value>
+  <data name="Category_Recommended.Text" xml:space="preserve">
+    <value>Recomendado</value>
   </data>
-  <data name="CloseLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Cerrar</value>
+  <data name="CloseLabel.Text" xml:space="preserve">
+    <value>Cerrar</value>
   </data>
-  <data name="ConfirmNo.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">No</value>
+  <data name="ConfirmNo.Text" xml:space="preserve">
+    <value>No</value>
   </data>
-  <data name="ConfirmTitle.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Confirmación</value>
+  <data name="ConfirmTitle.Text" xml:space="preserve">
+    <value>Confirmación</value>
   </data>
-  <data name="ConfirmYes.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Sí</value>
+  <data name="ConfirmYes.Text" xml:space="preserve">
+    <value>Sí</value>
   </data>
-  <data name="ContentLayout.Delete.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este diseño?</value>
+  <data name="ContentLayout.Delete.Text" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar este diseño?</value>
   </data>
-  <data name="ContentLayout.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Diseño del contenido</value>
+  <data name="ContentLayout.Text" xml:space="preserve">
+    <value>Diseño del contenido</value>
   </data>
-  <data name="DeleteModuleConfirm.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">¿Está seguro que desea eliminar este módulo?</value>
+  <data name="DeleteModuleConfirm.Text" xml:space="preserve">
+    <value>¿Está seguro que desea eliminar este módulo?</value>
   </data>
-  <data name="DiscardLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Descartar</value>
+  <data name="DiscardLabel.Text" xml:space="preserve">
+    <value>Descartar</value>
   </data>
-  <data name="DragTip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">&lt;p&gt;AÑADIR MÓDULO:&lt;/p&gt;&lt;p&gt;Haga clic y arrastre y suelte el módulo en el panel deseado&lt;/p&gt;</value>
+  <data name="DragTip.Text" xml:space="preserve">
+    <value>&lt;p&gt;AÑADIR MÓDULO:&lt;/p&gt;&lt;p&gt;Haga clic y arrastre y suelte el módulo en el panel deseado&lt;/p&gt;</value>
   </data>
-  <data name="EditBarMessageLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Los cambios mostrados no están publicados</value>
+  <data name="EditBarMessageLabel.Text" xml:space="preserve">
+    <value>Los cambios mostrados no están publicados</value>
   </data>
-  <data name="MakeCopy.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">Crear copia</value>
+  <data name="MakeCopy.Text" xml:space="preserve">
+    <value>Crear copia</value>
   </data>
-  <data name="NoModules.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">No hay ningún módulo disponible para utilizar en esta página.</value>
+  <data name="NoModules.Text" xml:space="preserve">
+    <value>No hay ningún módulo disponible para utilizar en esta página.</value>
   </data>
-  <data name="Page.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">Página:</value>
+  <data name="Page.Text" xml:space="preserve">
+    <value>Página:</value>
   </data>
-  <data name="pagePicker_clearButtonTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Limpiar</value>
+  <data name="pagePicker_clearButtonTooltip.Text" xml:space="preserve">
+    <value>Limpiar</value>
   </data>
-  <data name="pagePicker_loadingResultText.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Cargando resultados...</value>
+  <data name="pagePicker_loadingResultText.Text" xml:space="preserve">
+    <value>Cargando resultados...</value>
   </data>
-  <data name="pagePicker_resultsText.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Resultados</value>
+  <data name="pagePicker_resultsText.Text" xml:space="preserve">
+    <value>Resultados</value>
   </data>
-  <data name="pagePicker_searchButtonTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Buscar</value>
+  <data name="pagePicker_searchButtonTooltip.Text" xml:space="preserve">
+    <value>Buscar</value>
   </data>
-  <data name="pagePicker_searchInputPlaceHolder.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Nombre de la página</value>
+  <data name="pagePicker_searchInputPlaceHolder.Text" xml:space="preserve">
+    <value>Nombre de la página</value>
   </data>
-  <data name="pagePicker_selectedItemCollapseTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Clicar para cerrar</value>
+  <data name="pagePicker_selectedItemCollapseTooltip.Text" xml:space="preserve">
+    <value>Clicar para cerrar</value>
   </data>
-  <data name="pagePicker_selectedItemExpandTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Clicar para expandir</value>
+  <data name="pagePicker_selectedItemExpandTooltip.Text" xml:space="preserve">
+    <value>Clicar para expandir</value>
   </data>
-  <data name="pagePicker_selectItemDefaultText.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">&lt;Sin especificar&gt;</value>
+  <data name="pagePicker_selectItemDefaultText.Text" xml:space="preserve">
+    <value>&lt;Sin especificar&gt;</value>
   </data>
-  <data name="pagePicker_sortAscendingButtonTitle.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">A-Z</value>
+  <data name="pagePicker_sortAscendingButtonTitle.Text" xml:space="preserve">
+    <value>A-Z</value>
   </data>
-  <data name="pagePicker_sortAscendingButtonTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Orden ascendente</value>
+  <data name="pagePicker_sortAscendingButtonTooltip.Text" xml:space="preserve">
+    <value>Orden ascendente</value>
   </data>
-  <data name="pagePicker_unsortedOrderButtonTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Quitar ordenación</value>
+  <data name="pagePicker_unsortedOrderButtonTooltip.Text" xml:space="preserve">
+    <value>Quitar ordenación</value>
   </data>
-  <data name="pagerPicker_sortDescendingButtonTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Orden descendente</value>
+  <data name="pagerPicker_sortDescendingButtonTooltip.Text" xml:space="preserve">
+    <value>Orden descendente</value>
   </data>
-  <data name="PendingSave.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Todavía no ha acabado de añadir el módulo, ¿está seguro que quiere continuar sin guardar?</value>
+  <data name="PendingSave.Text" xml:space="preserve">
+    <value>Todavía no ha acabado de añadir el módulo, ¿está seguro que quiere continuar sin guardar?</value>
   </data>
-  <data name="PublishLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Publicar</value>
+  <data name="PublishLabel.Text" xml:space="preserve">
+    <value>Publicar</value>
   </data>
-  <data name="SearchPlaceHolder.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Buscar</value>
+  <data name="SearchPlaceHolder.Text" xml:space="preserve">
+    <value>Buscar</value>
   </data>
-  <data name="Service_CopyPermissionError.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Ha ocurrido un error al copiar los permisos a las páginas descendientes.</value>
+  <data name="Service_CopyPermissionError.Text" xml:space="preserve">
+    <value>Ha ocurrido un error al copiar los permisos a las páginas descendientes.</value>
   </data>
-  <data name="Service_CopyPermissionSuccessful.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Se han copiado los permisos a las páginas descendientes.</value>
+  <data name="Service_CopyPermissionSuccessful.Text" xml:space="preserve">
+    <value>Se han copiado los permisos a las páginas descendientes.</value>
   </data>
-  <data name="Service_LayoutNotExist.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Se ha eliminado el diseño.</value>
+  <data name="Service_LayoutNotExist.Text" xml:space="preserve">
+    <value>Se ha eliminado el diseño.</value>
   </data>
-  <data name="Service_ModuleNotExist.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Se ha eliminado el módulo.</value>
+  <data name="Service_ModuleNotExist.Text" xml:space="preserve">
+    <value>Se ha eliminado el módulo.</value>
   </data>
-  <data name="Service_RemoveTabError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">La página {0} no se puede eliminar hasta que no se hayan eliminado sus descendientes.&lt;br/&gt;</value>
+  <data name="Service_RemoveTabError.Text" xml:space="preserve">
+    <value>La página {0} no se puede eliminar hasta que no se hayan eliminado sus descendientes.&lt;br/&gt;</value>
   </data>
-  <data name="Service_RemoveTabModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Ha ocurrido un error al eliminar la página:&lt;br/&gt;{0}</value>
+  <data name="Service_RemoveTabModuleError.Text" xml:space="preserve">
+    <value>Ha ocurrido un error al eliminar la página:&lt;br/&gt;{0}</value>
   </data>
-  <data name="Service_RestoreModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Ha ocurrido un error al restaurar el módulo {0} en la página {1}. La página está eliminada.</value>
+  <data name="Service_RestoreModuleError.Text" xml:space="preserve">
+    <value>Ha ocurrido un error al restaurar el módulo {0} en la página {1}. La página está eliminada.</value>
   </data>
-  <data name="Service_RestoreTabError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">La página {0} no se puede restaurar hasta que su página madre se restaure primero.&lt;br/&gt;</value>
+  <data name="Service_RestoreTabError.Text" xml:space="preserve">
+    <value>La página {0} no se puede restaurar hasta que su página madre se restaure primero.&lt;br/&gt;</value>
   </data>
-  <data name="Service_RestoreTabModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Ha ocurrido un error al restaurar la página:&lt;br/&gt;{0}</value>
+  <data name="Service_RestoreTabModuleError.Text" xml:space="preserve">
+    <value>Ha ocurrido un error al restaurar la página:&lt;br/&gt;{0}</value>
   </data>
-  <data name="Site.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">Sitio:</value>
+  <data name="Site.Text" xml:space="preserve">
+    <value>Sitio:</value>
   </data>
-  <data name="System.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Sistema</value>
+  <data name="System.Text" xml:space="preserve">
+    <value>Sistema</value>
   </data>
 </root>

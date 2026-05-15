@@ -72,7 +72,7 @@
   <data name="//UserProfile.String" xml:space="preserve">
     <value>Perfil de usuario</value>
   </data>
-  <data name="403_3.Error" xml:space="preserve" lastModified="2020-05-09 01:50:22">
+  <data name="403_3.Error" xml:space="preserve">
     <value>&lt;div style="height: 100%; width: 90%;"&gt;
     &lt;h1&gt;Error de configuraci&amp;oacute;n de DotNetNuke&lt;/h1&gt;
     {0}&lt;br /&gt;
@@ -102,7 +102,7 @@
     &lt;img src="images/403-3.gif" alt="Imagen que muestra la configuraci&amp;oacute;n de seguridad de la carpeta ra&amp;iacute;z de la web. Asigne los permisos de Lectura, Escritura y Modificaci&amp;oacute;n a la cuenta." /&gt;
 &lt;/div&gt;</value>
   </data>
-  <data name="404.Error" xml:space="preserve" lastModified="2024-05-29 16:42:07">
+  <data name="404.Error" xml:space="preserve">
     <value>&lt;p style="height: 100%; width: 90%;"&gt;
     &lt;span style="color: red;"&gt;&lt;strong&gt;El dominio {0} no existe en la base de datos&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
     &lt;br /&gt;
@@ -150,11 +150,8 @@
   <data name="500.Error" xml:space="preserve">
     <value>{0} </value>
   </data>
-  <data name="503.Error" xml:space="preserve" lastModified="2016-03-16 14:34:37">
+  <data name="503.Error" xml:space="preserve">
     <value>{0} - 503 Servicio no disponible</value>
-  </data>
-  <data name="ActivatingLicense.Text" xml:space="preserve">
-    <value>Activando licencia</value>
   </data>
   <data name="AddFollowerRequestBody.Text" xml:space="preserve">
     <value>{0} te está siguiendo</value>
@@ -167,6 +164,18 @@
   </data>
   <data name="AddFriendRequestSubject.Text" xml:space="preserve">
     <value>{0} quiere ser tu amigo</value>
+  </data>
+  <data name="Administrators.Role" xml:space="preserve">
+    <value>Administradores</value>
+  </data>
+  <data name="Administrators.RoleDescription" xml:space="preserve">
+    <value>Los administradores pueden acceder a todo el contenido de este sitio y modificarlo, así como controlar toda la configuración del sitio. También pueden gestionar el acceso de los usuarios al sitio y gestionar otros administradores. Este tipo de usuario no puede realizar cambios a nivel de sistema ni realizar tareas de administración privilegiadas que sí pueden realizar los superusuarios.</value>
+  </data>
+  <data name="All Users.Role" xml:space="preserve">
+    <value>Todos</value>
+  </data>
+  <data name="All Users.RoleDescription" xml:space="preserve">
+    <value>Este es un rol gestionado por la plataforma, es decir, no se pueden añadir ni quitar usuarios de este rol. Este rol representa a CUALQUIER visitante del sitio web, independientemente de su estado de inicio de sesión o de cuenta.</value>
   </data>
   <data name="ApplicationUpgrades.Text" xml:space="preserve">
     <value>Actualizaciones de la aplicación</value>
@@ -204,25 +213,49 @@
   <data name="Can Deploy.Permission" xml:space="preserve">
     <value>Desplegar módulo</value>
   </data>
-  <data name="cc_dismiss.Text" xml:space="preserve" lastModified="2020-05-08 09:00:20">
+  <data name="cc_dismiss.Text" xml:space="preserve">
     <value>Aceptar</value>
   </data>
-  <data name="cc_link.Text" xml:space="preserve" lastModified="2020-05-08 09:00:20">
+  <data name="cc_link.Text" xml:space="preserve">
     <value>Saber más</value>
   </data>
-  <data name="cc_message.Text" xml:space="preserve" lastModified="2020-05-08 09:00:20">
+  <data name="cc_message.Text" xml:space="preserve">
     <value>Este sitio utiliza cookies para asegurar la mejor experiencia de navegación en la web.</value>
   </data>
   <data name="ClearCache.Action" xml:space="preserve">
     <value>Limpiar caché</value>
   </data>
+  <data name="CompleteStateBody.Text" xml:space="preserve">
+    <value>La página '{0}' está en estado '{1}' y espera revisión y aprobación.</value>
+  </data>
+  <data name="CompleteStateSubject.Text" xml:space="preserve">
+    <value>Aprobación de la página</value>
+  </data>
+  <data name="CompleteWorkflowBody.Text" xml:space="preserve">
+    <value>La página '{0}' se ha publicado y ya está activa.</value>
+  </data>
+  <data name="CompleteWorkflowSubject.Text" xml:space="preserve">
+    <value>Página publicada</value>
+  </data>
+  <data name="Content Editors.Role" xml:space="preserve">
+    <value>Editores de contenido</value>
+  </data>
+  <data name="Content Editors.RoleDescription" xml:space="preserve">
+    <value>Los editores de contenido pueden añadir y modificar contenido en este sitio. La funcionalidad exacta depende de lo que admitan los módulos utilizados en este sitio.</value>
+  </data>
+  <data name="Content Managers.Role" xml:space="preserve">
+    <value>Gestores de contenido</value>
+  </data>
+  <data name="Content Managers.RoleDescription" xml:space="preserve">
+    <value>Los gestores de contenido pueden decidir qué se muestra en el sitio web. Pueden modificar el contenido aportado por los editores de contenido y decidir si se publica o no. La funcionalidad exacta depende de lo que admitan los módulos utilizados en este sitio.</value>
+  </data>
   <data name="CustomUrlPathCleaned.Error" xml:space="preserve">
     <value>La URL de la página contenía caracteres inválidos que se han eliminado. Pulse el botón Actualizar de nuevo para aceptar los cambios realizados.&lt;br/&gt;Atención. Puede ver la lista de caracteres inválidos en la siguiente lista: &lt;&gt;\?:&amp;=+|%# </value>
   </data>
-  <data name="DefaultStopwordGroup.Text" xml:space="preserve" lastModified="2017-04-28 07:18:19">
+  <data name="DefaultStopwordGroup.Text" xml:space="preserve">
     <value>y,es,pero,para,en,no,el,este,esta,la,ella,ellos,ellas,era,será,con</value>
   </data>
-  <data name="DefaultSynonymGroup.Text" xml:space="preserve" lastModified="2017-04-28 07:18:19">
+  <data name="DefaultSynonymGroup.Text" xml:space="preserve">
     <value>dnn,dotnetnuke</value>
   </data>
   <data name="DeleteModule.Action" xml:space="preserve">
@@ -230,6 +263,18 @@
   </data>
   <data name="DeLocalize.Action" xml:space="preserve">
     <value>Deshacer traducción</value>
+  </data>
+  <data name="DiscardStateBody.Text" xml:space="preserve">
+    <value>Las modificaciones de la página '{0}' se han rechazado y ahora está en estado '{1}'.</value>
+  </data>
+  <data name="DiscardStateSubject.Text" xml:space="preserve">
+    <value>Página rechazada</value>
+  </data>
+  <data name="DiscardWorkflowBody.Text" xml:space="preserve">
+    <value>Se han descartado las modificaciones de la página '{0}'.</value>
+  </data>
+  <data name="DiscardWorkflowSubject.Text" xml:space="preserve">
+    <value>Página descartada</value>
   </data>
   <data name="DraggingHintText.Text" xml:space="preserve">
     <value>Mueva el puntero a una zona para soltar</value>
@@ -322,7 +367,7 @@ Operación completada:  [Custom:3]
   <data name="EMAIL_BulkMailStart_Subject.Text" xml:space="preserve">
     <value>Correo masivo '{0}' enviado</value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve" lastModified="2024-05-29 16:43:41">
+  <data name="EMAIL_MESSAGING_DISPATCH_BODY.Text" xml:space="preserve">
     <value>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"&gt;
 &lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
 &lt;head&gt;
@@ -542,7 +587,7 @@ Operación completada:  [Custom:3]
 &lt;/html&gt;
 </value>
   </data>
-  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve" lastModified="2018-03-24 02:28:34">
+  <data name="EMAIL_MESSAGING_DISPATCH_ITEM.Text" xml:space="preserve">
     <value>&lt;div style="width:100%;"&gt;&lt;h5&gt;[TITLE]&lt;/h5&gt;&lt;table width="600" border="0" cellpadding="0" cellspacing="0" class="contenttable" style="background:#fafafa;"&gt;
     &lt;tr&gt;
         &lt;td&gt;
@@ -560,7 +605,7 @@ Operación completada:  [Custom:3]
     &lt;/tr&gt;
 &lt;/table&gt;&lt;/div&gt;</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve" lastModified="2016-11-29 04:08:40">
+  <data name="EMAIL_PASSWORD_REMINDER_BODY.Text" xml:space="preserve">
     <value>Apreciado [User:DisplayName],
 
 Ha solicitado el envio del enlace para reiniciar la contraseña en [Portal:PortalName].
@@ -581,7 +626,7 @@ Atentamente,
   <data name="EMAIL_PASSWORD_REMINDER_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text" xml:space="preserve" lastModified="2024-05-29 11:34:13">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_BODY.Text" xml:space="preserve">
     <value>
 Este usuario ha solicitado un código de reinicio de contraseña en [Portal:PortalName]. No obstante, la cuenta del usuario está pendiente de aprobación.
 
@@ -590,10 +635,10 @@ Nombre: [User:DisplayName]
 
 Después de revisar este usuario, si la cuenta se autoriza, reenvie al usuario el correu para restablecer la contraseña.</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve" lastModified="2024-05-29 11:34:13">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_ADMINISTRATOR_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Reinicio de contraseña solicitado por un usuario no aprobado: [User:Username]</value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve" lastModified="2024-05-29 16:45:56">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_BODY.Text" xml:space="preserve">
     <value>Apreciado [User:DisplayName],
 
 Ha solicitado una petición de recordatorio/cambio de contraseña en [Portal:PortalName] pero su cuenta está pendiente de aprobación.
@@ -607,7 +652,7 @@ Atentamente,
 *Si no ha solicitado esta información, elimine este mensaje y no lo tenga en cuenta.
 </value>
   </data>
-  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve" lastModified="2015-09-12 18:28:09">
+  <data name="EMAIL_PASSWORD_REMINDER_USER_ISNOT_APPROVED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] Recordatorio de contraseña</value>
   </data>
   <data name="EMAIL_PASSWORD_UPDATED_BODY.Text" xml:space="preserve">
@@ -699,7 +744,7 @@ Atentamente,
   <data name="EMAIL_ROLE_UPDATE_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] - Actualización de cuenta de usuario</value>
   </data>
-  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve" lastModified="2024-05-29 16:46:25">
+  <data name="EMAIL_SMTP_TEST_SUBJECT.Text" xml:space="preserve">
     <value>[Host:HostTitle] Prueba de configuración SMTP para [Portal:PortalName]</value>
   </data>
   <data name="EMAIL_SOCIAL_FOLLOWREQUESTACTIONS.Text" xml:space="preserve">
@@ -711,7 +756,7 @@ Atentamente,
   <data name="EMAIL_SUBJECT_FORMAT.Text" xml:space="preserve">
     <value>Nuevo mensaje de {0}</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve" lastModified="2016-11-29 02:51:26">
+  <data name="EMAIL_USER_AUTHORIZED_BODY.Text" xml:space="preserve">
     <value>Apreciado [User:DisplayName],
 
 Gracias por registrarse en [Portal:PortalName]. Su registro ha sido aprobado y su cuenta se ha activado.
@@ -722,7 +767,7 @@ Usuario: [User:UserName]
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve" lastModified="2016-11-29 01:43:23">
+  <data name="EMAIL_USER_AUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>El registro para [Portal:URL] ha sido aprobado</value>
   </data>
   <data name="EMAIL_USER_LOCKOUT_BODY.Text" xml:space="preserve">
@@ -794,7 +839,7 @@ Atentamente,
   <data name="EMAIL_USER_REGISTRATION_VERIFIED_SUBJECT.Text" xml:space="preserve">
     <value>[Portal:PortalName] - Nuevo registro de usuario</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve" lastModified="2017-04-28 05:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_BODY.Text" xml:space="preserve">
     <value>Apreciado [User:DisplayName],
 
 Su cuenta en [Portal:PortalName] ha sido desautorizada.
@@ -807,7 +852,7 @@ Si tiene alguna consulta, póngase en contacto con el administrador en [Portal:E
 Atentamente,
 [Portal:PortalName]</value>
   </data>
-  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve" lastModified="2017-04-28 05:16:28">
+  <data name="EMAIL_USER_UNAUTHORIZED_SUBJECT.Text" xml:space="preserve">
     <value>Su cuenta ha sido desautorizada en [Portal:URL]</value>
   </data>
   <data name="EMAIL_USER_UNREGISTER_BODY.Text" xml:space="preserve">
@@ -892,7 +937,7 @@ Atentamente,
   <data name="ImportModule.Action" xml:space="preserve">
     <value>Importar contenido</value>
   </data>
-  <data name="License.Text" xml:space="preserve" lastModified="2020-05-09 06:10:14">
+  <data name="License.Text" xml:space="preserve">
     <value>&lt;h2&gt;The MIT License (MIT)&lt;/h2&gt;
 
 &lt;h3&gt;Copyright (c) .NET Foundation and Contributors&lt;/h3&gt;
@@ -931,7 +976,7 @@ SOFTWARE.&lt;/p&gt;</value>
   <data name="Manage.Text" xml:space="preserve">
     <value>Administrar</value>
   </data>
-  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve" lastModified="2020-05-08 11:01:14">
+  <data name="MESSAGE_PORTAL_PRIVACY.Text" xml:space="preserve">
     <value>&lt;div align="left"&gt;
         &lt;p&gt;[Portal:PortalName] is committed to protecting your privacy and developing technology
         that gives you the most powerful and safe online experience. This Statement of Privacy
@@ -1027,7 +1072,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         problem.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve" lastModified="2018-03-24 03:30:49">
+  <data name="MESSAGE_PORTAL_TERMS.Text" xml:space="preserve">
     <value>&lt;div align="left"&gt;
         &lt;p&gt;&lt;span class="SubHead"&gt;AGREEMENT BETWEEN USER AND [Portal:PortalName]&lt;/span&gt;&lt;p&gt;
         &lt;p&gt;The [Portal:PortalName] Web Site is comprised of various Web pages operated by [Portal:PortalName].&lt;/p&gt;
@@ -1211,7 +1256,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
         Infringement.&lt;/p&gt;
     &lt;/div&gt;</value>
   </data>
-  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve" lastModified="2020-05-08 23:26:48">
+  <data name="MESSAGE_RETRIEVEPASSWORD_INSTRUCTIONS.Text" xml:space="preserve">
     <value>Para recuperar su contraseña, tendrá que proporcionar su nombre de usuario y la respuesta a la Pregunta de contraseña.</value>
   </data>
   <data name="MESSAGE_USERNAME_CHANGED_INSTRUCTIONS.Text" xml:space="preserve">
@@ -1265,7 +1310,7 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="NoLoginControl.Text" xml:space="preserve">
     <value>Ha sido redireccionado a esta página de inicio por omisión porque la página de inicio para este sitio web no contiene un módulo DotNetNuke correcto de inicio de sesión, o los permisos no están correctamente configurados.</value>
   </data>
-  <data name="NoSitesForThisInstallation.Error" xml:space="preserve" lastModified="2016-03-16 14:34:37">
+  <data name="NoSitesForThisInstallation.Error" xml:space="preserve">
     <value>No hay ningún sitio en esta instalación.</value>
   </data>
   <data name="OnlineHelp.Action" xml:space="preserve">
@@ -1282,6 +1327,12 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   </data>
   <data name="ReflectionPermission.Text" xml:space="preserve">
     <value>Esta extensión necesita el permiso "Reflection"</value>
+  </data>
+  <data name="Registered Users.Role" xml:space="preserve">
+    <value>Usuarios registrados</value>
+  </data>
+  <data name="Registered Users.RoleDescription" xml:space="preserve">
+    <value>Todos los usuarios que tienen una cuenta en este sitio y que, en caso de que se haya activado la verificación, han sido verificados.</value>
   </data>
   <data name="Relationship_Added.Text" xml:space="preserve">
     <value>Relación añadida {0}</value>
@@ -1307,16 +1358,34 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="SearchCrawler Admin.String" xml:space="preserve">
     <value>Configuración de indexación</value>
   </data>
-  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve" lastModified="2016-03-16 14:34:37">
+  <data name="SiteAccessedWhileInstallationWasInProgress.Error" xml:space="preserve">
     <value>El sitio ha recibido peticiones de acceso mientras la instación/actualización estaba en proceso.</value>
   </data>
   <data name="SkinLoadError.Text" xml:space="preserve">
     <value>No se pudo cargar el tema: {0},  Error: {1}&lt;br/&gt;</value>
   </data>
+  <data name="StartWorkflowBody.Text" xml:space="preserve">
+    <value>La página '{0}' está en estado '{1}' y pendiente de envío.</value>
+  </data>
+  <data name="StartWorkflowSubject.Text" xml:space="preserve">
+    <value>Página enviada</value>
+  </data>
+  <data name="Subscribers.Role" xml:space="preserve">
+    <value>Suscriptores</value>
+  </data>
+  <data name="Subscribers.RoleDescription" xml:space="preserve">
+    <value>Los suscriptores aceptan que se contacte con ellos por correo electrónico desde este sitio web. Los usuarios pueden quitarse de este rol para controlar esta opción.</value>
+  </data>
+  <data name="Superuser.Role" xml:space="preserve">
+    <value>Superusuarios</value>
+  </data>
+  <data name="Superuser.RoleDescription" xml:space="preserve">
+    <value>Los superusuarios, a veces denominados usuarios host, tienen acceso de «host» al sitio, lo que significa que pueden acceder y modificar cualquier contenido de cualquiera de los sitios de esta instalación, incluida la posibilidad de añadir y quitar administradores y otros superusuarios. También pueden realizar tareas a nivel de sistema, como limpiar la caché, reiniciar la aplicación, gestionar archivos de configuración y configurar ajustes globales.</value>
+  </data>
   <data name="SyndicateModule.Action" xml:space="preserve">
     <value>Suscripción (RSS)</value>
   </data>
-  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve" lastModified="2016-03-16 14:34:37">
+  <data name="ThereIsAInstallationCurrentlyInProgress.Error" xml:space="preserve">
     <value>Hay una instalación en proceso. Vuelva a intentarlo en unos minutos.</value>
   </data>
   <data name="TokenReplaceRestrictedProperty.Text" xml:space="preserve">
@@ -1334,11 +1403,23 @@ company and customer feedback. [Portal:PortalName] encourages you to periodicall
   <data name="Translate.Action" xml:space="preserve">
     <value>Marcar como traducidos</value>
   </data>
+  <data name="Unauthenticated Users.Role" xml:space="preserve">
+    <value>Usuarios no autenticados</value>
+  </data>
+  <data name="Unauthenticated Users.RoleDescription" xml:space="preserve">
+    <value>Este es un rol gestionado por la plataforma, es decir, no se pueden asignar usuarios a este rol. Se utiliza para identificar a los usuarios que no han iniciado sesión.</value>
+  </data>
   <data name="UnhandledError.Text" xml:space="preserve">
     <value>Se ha producido un error inesperado.</value>
   </data>
   <data name="UnTranslate.Action" xml:space="preserve">
     <value>Marcar como no traducidos</value>
+  </data>
+  <data name="Unverified Users.Role" xml:space="preserve">
+    <value>Usuarios no verificados</value>
+  </data>
+  <data name="Unverified Users.RoleDescription" xml:space="preserve">
+    <value>Si este sitio utiliza la verificación de cuentas, cualquier usuario que se registre formará parte primero de este rol y no del rol «Usuarios registrados». En cuanto se haya verificado, según la configuración, ya sea haciendo clic en un enlace de correo electrónico o por parte de un administrador, el usuario dejará de ser miembro de este rol y pasará a ser un «usuario registrado» normal.</value>
   </data>
   <data name="UrlPathNotUnique.Error" xml:space="preserve">
     <value>La URL proporcionada no está disponible. Si desea aceptar la propuesta alternativa, pulse Guardar.</value>

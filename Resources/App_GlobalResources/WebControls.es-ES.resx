@@ -33,10 +33,10 @@
   <data name="CriteriaAtLeastNChars.Text" xml:space="preserve">
     <value>Mínimo {0} caracteres</value>
   </data>
-  <data name="CriteriaAtLeastNSpecialChars.Text" xml:space="preserve" lastModified="2015-12-28 10:12:51">
+  <data name="CriteriaAtLeastNSpecialChars.Text" xml:space="preserve">
     <value>Mínimo {0} caracteres especiales</value>
   </data>
-  <data name="CriteriaValidationExpression.Text" xml:space="preserve" lastModified="2015-12-28 08:58:50">
+  <data name="CriteriaValidationExpression.Text" xml:space="preserve">
     <value>Expresión de validación:m {0}</value>
   </data>
   <data name="FieldSuffix.Text" xml:space="preserve">
@@ -129,10 +129,10 @@
   <data name="Ok.Text" xml:space="preserve">
     <value>Aceptar</value>
   </data>
-  <data name="PasswordRulesBodyText.Text" xml:space="preserve" lastModified="2015-09-14 06:39:41">
+  <data name="PasswordRulesBodyText.Text" xml:space="preserve">
     <value>Contiene al menos {1} caracteres, 1 letra mayúscula, 1 número y {1}</value>
   </data>
-  <data name="PasswordRulesHeadText.Text" xml:space="preserve" lastModified="2015-09-14 06:39:41">
+  <data name="PasswordRulesHeadText.Text" xml:space="preserve">
     <value>Reglas de contraseña:</value>
   </data>
   <data name="PasswordStrengthFair.Text" xml:space="preserve">

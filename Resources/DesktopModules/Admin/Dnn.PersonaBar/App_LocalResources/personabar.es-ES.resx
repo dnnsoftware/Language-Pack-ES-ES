@@ -12,22 +12,22 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="btn_CloseDialog.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="btn_CloseDialog.Text" xml:space="preserve">
     <value>Aceptar</value>
   </data>
   <data name="btn_LoadMore.Text" xml:space="preserve">
     <value>Cargar más</value>
   </data>
-  <data name="Critical.Text" xml:space="preserve" lastModified="2024-05-29 16:49:39">
+  <data name="Critical.Text" xml:space="preserve">
     <value>Crítico</value>
   </data>
-  <data name="DisableEditBar.Help" xml:space="preserve" lastModified="2024-05-29 16:49:39">
+  <data name="DisableEditBar.Help" xml:space="preserve">
     <value>La instalación DNN está utilitzando un panel de edición alternativo.</value>
   </data>
-  <data name="DisableEditBar.Text" xml:space="preserve" lastModified="2024-05-29 16:49:39">
+  <data name="DisableEditBar.Text" xml:space="preserve">
     <value>El panel de edición está desactivado.</value>
   </data>
-  <data name="Documentation.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="Documentation.Text" xml:space="preserve">
     <value>Documentación</value>
   </data>
   <data name="err_BetweenMinMax.Text" xml:space="preserve">
@@ -69,19 +69,19 @@
   <data name="err_RoleAssignedToUser.Text" xml:space="preserve">
     <value>Este rol ya se ha asignado al usuario.</value>
   </data>
-  <data name="Framework.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="Framework.Text" xml:space="preserve">
     <value>.Net Framework</value>
   </data>
-  <data name="LatestVersion.Text" xml:space="preserve" lastModified="2024-05-29 16:49:59">
+  <data name="LatestVersion.Text" xml:space="preserve">
     <value>Última versión</value>
   </data>
-  <data name="LicenseKey.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="LicenseKey.Text" xml:space="preserve">
     <value>Clave de licencia</value>
   </data>
-  <data name="LockEditMode.Help" xml:space="preserve" lastModified="2018-03-24 11:09:33">
+  <data name="LockEditMode.Help" xml:space="preserve">
     <value>Cuando esta bloqueado, el icono se mostrará de color azul, el modo de de edición se mantendrá incluso al navegar a otras páginas.</value>
   </data>
-  <data name="LockEditMode.Text" xml:space="preserve" lastModified="2018-03-24 11:09:33">
+  <data name="LockEditMode.Text" xml:space="preserve">
     <value>Clique para bloquear el modo de edición.</value>
   </data>
   <data name="nav_Analytics.Text" xml:space="preserve">
@@ -129,7 +129,7 @@
   <data name="nav_Tools.Text" xml:space="preserve">
     <value>Herramientas</value>
   </data>
-  <data name="NormalUpdate.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="NormalUpdate.Text" xml:space="preserve">
     <value>[ Nueva actualización ]</value>
   </data>
   <data name="permissiongrid.Actions.Text" xml:space="preserve">
@@ -198,7 +198,7 @@
   <data name="permissiongrid.View.Text" xml:space="preserve">
     <value>Ver</value>
   </data>
-  <data name="ServerName.Text" xml:space="preserve" lastModified="2017-02-05 13:44:19">
+  <data name="ServerName.Text" xml:space="preserve">
     <value>Nombre servidor</value>
   </data>
   <data name="title_Tasks.Text" xml:space="preserve">
@@ -207,13 +207,13 @@
   <data name="txt_ViewIndex.Text" xml:space="preserve">
     <value>Mostrando {0} de {1}</value>
   </data>
-  <data name="UnlockEditMode.Help" xml:space="preserve" lastModified="2018-03-24 12:10:49">
+  <data name="UnlockEditMode.Help" xml:space="preserve">
     <value>Cuando esta desbloqueado, el modo de edición se desactivará al navegar a otras páginas o cuando complete sus cambios.</value>
   </data>
-  <data name="UnlockEditMode.Text" xml:space="preserve" lastModified="2018-03-24 12:10:49">
+  <data name="UnlockEditMode.Text" xml:space="preserve">
     <value>Clique para desbloquear el modo de edición.</value>
   </data>
-  <data name="Update.Text" xml:space="preserve" lastModified="2024-05-29 16:49:59">
+  <data name="Update.Text" xml:space="preserve">
     <value>Actualizar</value>
   </data>
 </root>

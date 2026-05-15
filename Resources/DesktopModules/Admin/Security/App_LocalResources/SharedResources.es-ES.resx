@@ -120,7 +120,7 @@
   <data name="PasswordReset.Text" xml:space="preserve">
     <value>La contraseña se ha reiniciado.</value>
   </data>
-  <data name="Username.Help" xml:space="preserve" lastModified="2024-05-29 17:30:55">
+  <data name="Username.Help" xml:space="preserve">
     <value>Introduzca un nombre de usuario. Debe tener al menos la longitud mínima configurada, debe ser un valor alfanumérico, no debe comenzar ni terminar con un espacio y no debe contener ninguno de estos caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
   </data>
   <data name="Username.RegExError" xml:space="preserve">

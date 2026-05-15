@@ -18,7 +18,7 @@
   <data name="ControlTitle_importtab.Text" xml:space="preserve">
     <value>Importar página</value>
   </data>
-  <data name="EmptyTabName.Text" xml:space="preserve" lastModified="2016-03-17 07:32:55">
+  <data name="EmptyTabName.Text" xml:space="preserve">
     <value>Tiene que indicar un nombre para la página</value>
   </data>
   <data name="Error.Text" xml:space="preserve">
@@ -39,7 +39,7 @@
   <data name="InsertPosition.Text" xml:space="preserve">
     <value>Insertar página:</value>
   </data>
-  <data name="InvalidTabName.Text" xml:space="preserve" lastModified="2016-03-17 07:32:55">
+  <data name="InvalidTabName.Text" xml:space="preserve">
     <value>El nombre de la página no es válido</value>
   </data>
   <data name="ModeAdd.Text" xml:space="preserve">

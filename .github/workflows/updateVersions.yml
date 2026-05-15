@@ -7,14 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     if: ${{ github.event.ref_type == 'branch' && startsWith(github.event.ref, 'release/') }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
     
       - name: get-release-branch-version
-        uses: valadas/get-release-branch-version@v1
+        uses: valadas/get-release-branch-version@c4a57e5584c40a2adc25ec1378c2114de701f8ff # v1.1.0
         id: branchVersion
       
       - name: set-dnn-manifest-versions
-        uses: valadas/set-dnn-manifest-versions@v1
+        uses: valadas/set-dnn-manifest-versions@36e719995c5c1511859b19462e4b4f9f64a0c412 # v1.3.0
         with:
           # Version to set in the manifests, should be a manifest save version string as in 09.06.00
           version: ${{ steps.branchVersion.outputs.manifestSafeVersionString }}

@@ -15,13 +15,13 @@
   <data name="Add.Text" xml:space="preserve">
     <value>Añadir etiquetas</value>
   </data>
-  <data name="Add.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+  <data name="Add.ToolTip" xml:space="preserve">
     <value>Haga clic en este enlace para añadir una etiqueta.</value>
   </data>
   <data name="Cancel.Text" xml:space="preserve">
     <value>Cancelar</value>
   </data>
-  <data name="Cancel.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+  <data name="Cancel.ToolTip" xml:space="preserve">
     <value>Haga clic para cancelar la edición sin guardar.</value>
   </data>
   <data name="Category.ToolTip" xml:space="preserve">
@@ -30,7 +30,7 @@
   <data name="Save.Text" xml:space="preserve">
     <value>Guardar</value>
   </data>
-  <data name="Save.ToolTip" xml:space="preserve" lastModified="2015-12-28 09:13:15">
+  <data name="Save.ToolTip" xml:space="preserve">
     <value>Haga clic para guardar las etiquetas.</value>
   </data>
   <data name="Tag.ToolTip" xml:space="preserve">

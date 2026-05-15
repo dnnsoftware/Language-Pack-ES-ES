@@ -21,7 +21,7 @@
   <data name="Permissions.Text" xml:space="preserve">
     <value>Permisos</value>
   </data>
-  <data name="plPermissions.Help" xml:space="preserve" lastModified="2015-12-28 06:50:12">
+  <data name="plPermissions.Help" xml:space="preserve">
     <value>Seleccione los permisos de Ver y Editar marcando o desmarcando las opciones de verificación de la tabla. Active la opción "Heredar los permisos para Ver de la página" si quiere heredar los permisos de visualización de la página para este módulo.</value>
   </data>
   <data name="plPermissions.Text" xml:space="preserve">
